@@ -1,0 +1,1 @@
+import {bootstrap,fixtures} from "./fpl.js";import {buildSnapshot} from "./snapshot.js";import {buildDecisionLayer} from "./decision.js";import {buildEngines} from "./engine.js";const [b,fx,s]=await Promise.all([bootstrap(),fixtures(),buildSnapshot()]);const d=buildDecisionLayer({bootstrap:b,fixtures:fx,snapshot:s});console.log(JSON.stringify(buildEngines(d,s),null,2));
