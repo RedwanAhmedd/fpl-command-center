@@ -17,6 +17,7 @@ jobs:
       - name: Fetch and validate live public squad
         run: |
           node src/cli.js > snapshot.json
+          node src/engine-cli.js > engine.json
           node --input-type=module <<'NODE'
           import fs from "node:fs";
           const snapshot = JSON.parse(fs.readFileSync("snapshot.json", "utf8"));
@@ -32,4 +33,6 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: fpl-snapshot
-          path: snapshot.json
+          path: |
+            snapshot.json
+            engine.json
