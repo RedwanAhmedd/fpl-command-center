@@ -33,3 +33,9 @@ The public API does **not** expose every authenticated `my-team` field. In parti
 ## Safety
 
 Read-only. No credentials. No transfers. No captain changes. No guessing.
+
+## Decision layer
+
+Run `npm run decision` or GET `/decision` to produce a decision-ready view of the verified public squad. It enriches owned players with current form, minutes, xG/xA/xGI, points, flags and 3/6-GW fixtures; builds a broad non-owned candidate watchlist; and keeps private state unknown rather than inventing it.
+
+This layer supplies evidence, not automatic transfers. Route legality still requires verified bank, selling prices and free transfers when those are not public.
