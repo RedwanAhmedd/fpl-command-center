@@ -16,7 +16,7 @@ jobs:
       - run: npm test
       - name: Fetch and validate live public squad
         run: |
-          npm run snapshot > snapshot.json
+          node src/cli.js > snapshot.json
           node --input-type=module <<'NODE'
           import fs from "node:fs";
           const snapshot = JSON.parse(fs.readFileSync("snapshot.json", "utf8"));
