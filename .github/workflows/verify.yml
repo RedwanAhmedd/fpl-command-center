@@ -1,0 +1,24 @@
+name: Verify FPL snapshot
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm test
+      - name: Fetch and validate live public squad
+        run: |
+          npm run snapshot > snapshot.json
+          node -e 'const s=require("./snapshot.json"); const n=s.squad.map(x=>x.name); console.log("GW",s.gameweek.id,n.join(", ")); if(n.length!==15) process.exit(1); if(!n.includes("Rogers")) process.exit(2); if(!n.includes("Yalcouyé")) process.exit(3); if(n.includes("Elanga")||n.includes("Ndiaye")) process.exit(4);'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: fpl-snapshot
+          path: snapshot.json
