@@ -1,0 +1,1 @@
+import test from "node:test";import assert from "node:assert/strict";import {ENTRY_ID,currentEvent} from "../src/fpl.js";test("entry id locked",()=>assert.equal(ENTRY_ID,1169933));test("current event preferred",()=>assert.equal(currentEvent([{id:1,finished:true},{id:2,is_current:true}]).id,2));
