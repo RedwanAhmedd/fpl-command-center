@@ -1,0 +1,1 @@
+import {buildSnapshot} from "./snapshot.js";console.log(JSON.stringify(await buildSnapshot(),null,2));
