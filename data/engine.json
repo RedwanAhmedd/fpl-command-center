@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:53:55.411Z",
+  "generated_at": "2026-09-21T16:27:53.616Z",
   "captaincy": [
     {
       "id": 411,
@@ -27,7 +27,7 @@
         "difficulty": 3,
         "kickoff": "2026-10-10T16:30:00Z"
       },
-      "score": 5.74,
+      "score": 6.04,
       "risk": "LOW",
       "rank": 2
     },
@@ -107,7 +107,7 @@
         "in": [
           "Tzolakis"
         ],
-        "projected_edge": 1.91,
+        "projected_edge": 1.67,
         "affordable": true,
         "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
@@ -122,7 +122,7 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": 0.43,
+        "projected_edge": 0.67,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -137,7 +137,7 @@
         "in": [
           "Bogle"
         ],
-        "projected_edge": 0.07,
+        "projected_edge": 0.23,
         "affordable": true,
         "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
@@ -240,11 +240,11 @@
           "Gvardiol"
         ],
         "in": [
-          "Mendy"
+          "Davis"
         ],
-        "projected_edge": -1.61,
+        "projected_edge": -1.62,
         "affordable": true,
-        "bank_after": 1.8,
+        "bank_after": 1.9,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -257,24 +257,9 @@
         "in": [
           "Branthwaite"
         ],
-        "projected_edge": -2.02,
+        "projected_edge": -2.08,
         "affordable": true,
         "bank_after": 0.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Mykolenko"
-        ],
-        "projected_edge": -2.02,
-        "affordable": true,
-        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
