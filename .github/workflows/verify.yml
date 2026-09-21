@@ -1,38 +1,63 @@
-name: Verify FPL snapshot
+name: Refresh FPL Command Center
 on:
   workflow_dispatch:
   push:
     branches: [master]
+  schedule:
+    - cron: "17 * * * *"
+
+concurrency:
+  group: fpl-command-center-refresh
+  cancel-in-progress: true
+
 jobs:
-  verify:
+  refresh:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
       - run: npm test
-      - name: Fetch and validate live public squad
+      - name: Fetch and validate official FPL state
         run: |
-          node src/cli.js > snapshot.json
-          node src/engine-cli.js > engine.json
+          mkdir -p data
+          node src/cli.js > data/current.json
+          node src/engine-cli.js > data/engine.json
           node --input-type=module <<'NODE'
           import fs from "node:fs";
-          const snapshot = JSON.parse(fs.readFileSync("snapshot.json", "utf8"));
-          if (!snapshot || typeof snapshot !== "object") throw new Error("Snapshot is not a JSON object");
-          if (!snapshot.gameweek || !Number.isInteger(snapshot.gameweek.id)) throw new Error("Snapshot has no valid gameweek");
-          if (!Array.isArray(snapshot.squad)) throw new Error("Snapshot squad is not an array");
-          if (snapshot.squad.length !== 15) throw new Error(`Expected 15 players, got ${snapshot.squad.length}`);
-          for (const player of snapshot.squad) {
-            if (!Number.isInteger(player.id) || typeof player.name !== "string" || !player.name) throw new Error("Invalid player record");
-          }
-          console.log("GW", snapshot.gameweek.id, snapshot.squad.map(({name}) => name).join(", "));
+          const s=JSON.parse(fs.readFileSync("data/current.json","utf8"));
+          if(s.entry_id!==1169933) throw new Error("Wrong FPL entry");
+          if(!s.gameweek || !Number.isInteger(s.gameweek.id)) throw new Error("No valid gameweek");
+          if(!Array.isArray(s.squad) || s.squad.length!==15) throw new Error("Expected 15 published picks");
+          if(!s.manager || typeof s.manager.team_name!=="string") throw new Error("Missing manager state");
+          if(!Array.isArray(s.transfers) || !Array.isArray(s.history)) throw new Error("Missing history/transfer state");
+          console.log(JSON.stringify({
+            entry:s.entry_id,
+            gw:s.gameweek.id,
+            points:s.gw_stats?.points,
+            overall_points:s.manager.overall_points,
+            overall_rank:s.manager.overall_rank,
+            captain:s.captain?.name,
+            squad:s.squad.map(x=>x.name)
+          },null,2));
           NODE
+      - name: Publish latest bridge snapshot
+        run: |
+          git config user.name "fpl-command-center-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/current.json data/engine.json
+          if git diff --cached --quiet; then
+            echo "No state change"
+          else
+            git commit -m "chore: refresh official FPL state"
+            git push
+          fi
       - uses: actions/upload-artifact@v4
         with:
-          name: fpl-snapshot
+          name: fpl-command-center-state
           path: |
-            snapshot.json
-            engine.json
+            data/current.json
+            data/engine.json
