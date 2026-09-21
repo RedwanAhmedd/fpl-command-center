@@ -1,0 +1,308 @@
+{
+  "generated_at": "2026-09-21T03:30:33.903Z",
+  "captaincy": [
+    {
+      "id": 411,
+      "name": "Haaland",
+      "status": "a",
+      "next_fixture": {
+        "gw": 5,
+        "opponent": "SUN",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-09-20T13:00:00Z"
+      },
+      "score": 8.31,
+      "risk": "LOW",
+      "rank": 1
+    },
+    {
+      "id": 391,
+      "name": "Gvardiol",
+      "status": "a",
+      "next_fixture": {
+        "gw": 5,
+        "opponent": "SUN",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-09-20T13:00:00Z"
+      },
+      "score": 7.03,
+      "risk": "LOW",
+      "rank": 2
+    },
+    {
+      "id": 426,
+      "name": "B.Fernandes",
+      "status": "a",
+      "next_fixture": {
+        "gw": 5,
+        "opponent": "FUL",
+        "venue": "A",
+        "difficulty": 3,
+        "kickoff": "2026-09-20T15:30:00Z"
+      },
+      "score": 5.74,
+      "risk": "LOW",
+      "rank": 3
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "status": "a",
+      "next_fixture": {
+        "gw": 5,
+        "opponent": "BRE",
+        "venue": "A",
+        "difficulty": 3,
+        "kickoff": "2026-09-18T19:00:00Z"
+      },
+      "score": 5.23,
+      "risk": "LOW",
+      "rank": 4
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "status": "a",
+      "next_fixture": {
+        "gw": 5,
+        "opponent": "FUL",
+        "venue": "A",
+        "difficulty": 3,
+        "kickoff": "2026-09-20T15:30:00Z"
+      },
+      "score": 4.77,
+      "risk": "LOW",
+      "rank": 5
+    }
+  ],
+  "transfers": {
+    "roll": {
+      "projected_edge": 0,
+      "ft_value": "preserved",
+      "note": "baseline"
+    },
+    "one_transfer": [
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Groß"
+        ],
+        "projected_edge": 2.52,
+        "affordable": true,
+        "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Verbruggen"
+        ],
+        "in": [
+          "Tzolakis"
+        ],
+        "projected_edge": 1.95,
+        "affordable": true,
+        "bank_after": 0.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Belloumi"
+        ],
+        "projected_edge": 0.3,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Bogle"
+        ],
+        "projected_edge": 0.23,
+        "affordable": true,
+        "bank_after": 1.3,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Janelt"
+        ],
+        "projected_edge": -0.32,
+        "affordable": true,
+        "bank_after": 1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "De Cuyper"
+        ],
+        "projected_edge": -0.37,
+        "affordable": true,
+        "bank_after": 1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Maitland-Niles"
+        ],
+        "projected_edge": -0.6,
+        "affordable": true,
+        "bank_after": 1.4,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Hall"
+        ],
+        "projected_edge": -0.86,
+        "affordable": true,
+        "bank_after": 0.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": -1.55,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Schuster"
+        ],
+        "projected_edge": -1.62,
+        "affordable": true,
+        "bank_after": 1.4,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Mendy"
+        ],
+        "projected_edge": -1.73,
+        "affordable": true,
+        "bank_after": 1.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Branthwaite"
+        ],
+        "projected_edge": -1.91,
+        "affordable": true,
+        "bank_after": 0.4,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Mykolenko"
+        ],
+        "projected_edge": -1.91,
+        "affordable": true,
+        "bank_after": 1.3,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Hinshelwood"
+        ],
+        "projected_edge": -3.52,
+        "affordable": true,
+        "bank_after": 0.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Ankle injury - Expected back 10 Oct"
+      }
+    ],
+    "two_transfer": {
+      "status": "DEFERRED_UNTIL_SELLING_PRICES_AND_FT_VERIFIED"
+    },
+    "private_state": {
+      "bank": 0.2,
+      "free_transfers": "UNKNOWN_PUBLIC_API"
+    },
+    "rule": "No route is ACT NOW unless legality and private state are verified."
+  },
+  "disclaimer": "Scores are transparent heuristics for comparison, not claimed expected points. Command Center reasoning must still validate role, news, minutes and sources before action."
+}
