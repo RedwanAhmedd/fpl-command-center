@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:50:51.525Z",
+  "generated_at": "2026-09-22T18:52:07.200Z",
   "captaincy": [
     {
       "id": 411,
@@ -182,7 +182,7 @@
         "in": [
           "Hall"
         ],
-        "projected_edge": -0.98,
+        "projected_edge": -0.74,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
@@ -245,21 +245,6 @@
         "projected_edge": -1.95,
         "affordable": true,
         "bank_after": 0.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Mykolenko"
-        ],
-        "projected_edge": -1.95,
-        "affordable": true,
-        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"

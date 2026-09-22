@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1363044,
+    "overall_rank": 1363042,
     "last_gw_points": 34,
-    "last_gw_rank": 9804394
+    "last_gw_rank": 9804351
   },
   "gameweek": {
     "id": 5,
@@ -82,7 +82,7 @@
       "xg": "0.22",
       "xa": "0.74",
       "xgi": "0.96",
-      "selected_by_percent": "26.5"
+      "selected_by_percent": "26.6"
     },
     {
       "id": 8,
@@ -122,7 +122,7 @@
       "xg": "0.41",
       "xa": "0.61",
       "xgi": "1.02",
-      "selected_by_percent": "8.9"
+      "selected_by_percent": "8.8"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "3.07",
       "xa": "0.80",
       "xgi": "3.87",
-      "selected_by_percent": "20.8"
+      "selected_by_percent": "20.7"
     },
     {
       "id": 426,
@@ -178,7 +178,7 @@
       "news": "",
       "minutes": 440,
       "total_points": 20,
-      "form": "4.0",
+      "form": "3.0",
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
@@ -242,7 +242,7 @@
       "xg": "4.42",
       "xa": "0.53",
       "xgi": "4.95",
-      "selected_by_percent": "73.6"
+      "selected_by_percent": "73.7"
     },
     {
       "id": 165,
@@ -298,7 +298,7 @@
       "news": "Unspecified injury - Unknown return date",
       "minutes": 327,
       "total_points": 13,
-      "form": "2.6",
+      "form": "3.0",
       "xg": "0.14",
       "xa": "0.08",
       "xgi": "0.22",
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-09-22T14:50:51.234Z",
+  "generated_at": "2026-09-22T18:52:06.934Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
