@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:54:36.034Z",
+  "generated_at": "2026-09-23T20:19:31.441Z",
   "captaincy": [
     {
       "id": 411,
@@ -47,21 +47,6 @@
       "rank": 3
     },
     {
-      "id": 40,
-      "name": "Rogers",
-      "status": "a",
-      "next_fixture": {
-        "gw": 6,
-        "opponent": "BOU",
-        "venue": "H",
-        "difficulty": 3,
-        "kickoff": "2026-10-10T14:00:00Z"
-      },
-      "score": 5.23,
-      "risk": "LOW",
-      "rank": 4
-    },
-    {
       "id": 391,
       "name": "Gvardiol",
       "status": "a",
@@ -73,6 +58,21 @@
         "kickoff": "2026-10-11T15:30:00Z"
       },
       "score": 5.15,
+      "risk": "LOW",
+      "rank": 4
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "status": "a",
+      "next_fixture": {
+        "gw": 6,
+        "opponent": "BOU",
+        "venue": "H",
+        "difficulty": 3,
+        "kickoff": "2026-10-10T14:00:00Z"
+      },
+      "score": 5.05,
       "risk": "LOW",
       "rank": 5
     }
@@ -245,6 +245,21 @@
         "projected_edge": -1.95,
         "affordable": true,
         "bank_after": 0.4,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Mykolenko"
+        ],
+        "projected_edge": -1.95,
+        "affordable": true,
+        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"

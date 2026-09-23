@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1363037,
+    "overall_rank": 1363038,
     "last_gw_points": 34,
-    "last_gw_rank": 9804222
+    "last_gw_rank": 9804194
   },
   "gameweek": {
     "id": 5,
@@ -162,7 +162,7 @@
       "xg": "2.56",
       "xa": "1.32",
       "xgi": "3.88",
-      "selected_by_percent": "38.7"
+      "selected_by_percent": "38.6"
     },
     {
       "id": 368,
@@ -198,7 +198,7 @@
       "news": "",
       "minutes": 437,
       "total_points": 29,
-      "form": "5.8",
+      "form": "5.2",
       "xg": "1.72",
       "xa": "1.23",
       "xgi": "2.95",
@@ -258,11 +258,11 @@
       "news": "Knee injury - 75% chance of playing",
       "minutes": 360,
       "total_points": 33,
-      "form": "6.6",
+      "form": "5.5",
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "65.7"
+      "selected_by_percent": "65.6"
     },
     {
       "id": 58,
@@ -322,7 +322,7 @@
       "xg": "0.00",
       "xa": "0.00",
       "xgi": "0.00",
-      "selected_by_percent": "1.7"
+      "selected_by_percent": "1.6"
     },
     {
       "id": 272,
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-09-23T16:54:35.748Z",
+  "generated_at": "2026-09-23T20:19:31.142Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
