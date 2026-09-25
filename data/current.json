@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1363037,
+    "overall_rank": 1363034,
     "last_gw_points": 34,
-    "last_gw_rank": 9804078
+    "last_gw_rank": 9804045
   },
   "gameweek": {
     "id": 5,
@@ -262,7 +262,7 @@
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "65.5"
+      "selected_by_percent": "65.4"
     },
     {
       "id": 58,
@@ -486,7 +486,7 @@
       "team_h": 1,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 5,
       "pulse_id": 0
     },
@@ -506,7 +506,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 3,
-      "team_a_difficulty": 4,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -562,7 +562,7 @@
       "team_h": 20,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -581,7 +581,7 @@
       "team_h": 16,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 4,
       "pulse_id": 0
     },
@@ -657,7 +657,7 @@
       "team_h": 7,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 2,
       "pulse_id": 0
     },
@@ -771,7 +771,7 @@
       "team_h": 3,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -790,8 +790,8 @@
       "team_h": 5,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
-      "team_a_difficulty": 3,
+      "team_h_difficulty": 2,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -886,7 +886,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 4,
-      "team_a_difficulty": 4,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -942,7 +942,7 @@
       "team_h": 6,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 4,
       "pulse_id": 0
     },
@@ -961,7 +961,7 @@
       "team_h": 8,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -999,7 +999,7 @@
       "team_h": 14,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 4,
       "pulse_id": 0
     },
@@ -1037,7 +1037,7 @@
       "team_h": 20,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1075,7 +1075,7 @@
       "team_h": 3,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1113,7 +1113,7 @@
       "team_h": 7,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 2,
       "pulse_id": 0
     },
@@ -1151,7 +1151,7 @@
       "team_h": 15,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 5,
       "pulse_id": 0
     },
@@ -1170,7 +1170,7 @@
       "team_h": 19,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1190,7 +1190,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 2,
-      "team_a_difficulty": 4,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -1265,7 +1265,7 @@
       "team_h": 13,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1303,7 +1303,7 @@
       "team_h": 10,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1342,7 +1342,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 3,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -1455,8 +1455,8 @@
       "team_h": 2,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
-      "team_a_difficulty": 4,
+      "team_h_difficulty": 3,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -1493,7 +1493,7 @@
       "team_h": 6,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 4,
       "pulse_id": 0
     },
@@ -1512,7 +1512,7 @@
       "team_h": 7,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 2,
       "pulse_id": 0
     },
@@ -1569,7 +1569,7 @@
       "team_h": 11,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 2,
       "pulse_id": 0
     },
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-09-25T07:44:55.988Z",
+  "generated_at": "2026-09-25T13:44:07.068Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
