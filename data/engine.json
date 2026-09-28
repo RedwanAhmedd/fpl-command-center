@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:24:31.088Z",
+  "generated_at": "2026-09-28T21:57:57.146Z",
   "captaincy": [
     {
       "id": 426,
@@ -180,21 +180,6 @@
           "Gvardiol"
         ],
         "in": [
-          "Hall"
-        ],
-        "projected_edge": -0.95,
-        "affordable": true,
-        "bank_after": 0.6,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
           "Vuskovic"
         ],
         "projected_edge": -1.22,
@@ -225,6 +210,36 @@
           "Gvardiol"
         ],
         "in": [
+          "Hall"
+        ],
+        "projected_edge": -1.34,
+        "affordable": true,
+        "bank_after": 0.6,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Van Hecke"
+        ],
+        "projected_edge": -1.42,
+        "affordable": true,
+        "bank_after": 1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
           "Mitchell"
         ],
         "projected_edge": -1.56,
@@ -245,21 +260,6 @@
         "projected_edge": -2.01,
         "affordable": true,
         "bank_after": 0.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Mykolenko"
-        ],
-        "projected_edge": -2.01,
-        "affordable": true,
-        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
