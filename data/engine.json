@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-09-29T08:26:04.441Z",
+  "generated_at": "2026-09-29T15:48:07.310Z",
   "captaincy": [
-    {
-      "id": 426,
-      "name": "B.Fernandes",
-      "status": "a",
-      "next_fixture": {
-        "gw": 6,
-        "opponent": "TOT",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-10T16:30:00Z"
-      },
-      "score": 6.94,
-      "risk": "LOW",
-      "rank": 1
-    },
     {
       "id": 411,
       "name": "Haaland",
@@ -29,22 +14,7 @@
       },
       "score": 6.27,
       "risk": "LOW",
-      "rank": 2
-    },
-    {
-      "id": 427,
-      "name": "Mbeumo",
-      "status": "a",
-      "next_fixture": {
-        "gw": 6,
-        "opponent": "TOT",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-10T16:30:00Z"
-      },
-      "score": 5.77,
-      "risk": "LOW",
-      "rank": 3
+      "rank": 1
     },
     {
       "id": 391,
@@ -59,6 +29,36 @@
       },
       "score": 5.33,
       "risk": "LOW",
+      "rank": 2
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "status": "a",
+      "next_fixture": {
+        "gw": 6,
+        "opponent": "TOT",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-10-10T16:30:00Z"
+      },
+      "score": 5.15,
+      "risk": "LOW",
+      "rank": 3
+    },
+    {
+      "id": 426,
+      "name": "B.Fernandes",
+      "status": "a",
+      "next_fixture": {
+        "gw": 6,
+        "opponent": "TOT",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-10-10T16:30:00Z"
+      },
+      "score": 5.15,
+      "risk": "LOW",
       "rank": 4
     },
     {
@@ -72,7 +72,7 @@
         "difficulty": 3,
         "kickoff": "2026-10-10T14:00:00Z"
       },
-      "score": 5.05,
+      "score": 5.08,
       "risk": "LOW",
       "rank": 5
     }
@@ -92,9 +92,24 @@
         "in": [
           "Groß"
         ],
-        "projected_edge": 3.74,
+        "projected_edge": 3.6,
         "affordable": true,
         "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Bogle"
+        ],
+        "projected_edge": 0.97,
+        "affordable": true,
+        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -107,7 +122,7 @@
         "in": [
           "Tzolakis"
         ],
-        "projected_edge": 1.18,
+        "projected_edge": 0.74,
         "affordable": true,
         "bank_after": 0,
         "hit_cost": "UNKNOWN",
@@ -132,14 +147,14 @@
       {
         "transfers": 1,
         "out": [
-          "Gvardiol"
+          "Calafiori"
         ],
         "in": [
-          "Bogle"
+          "Janelt"
         ],
-        "projected_edge": 0.33,
+        "projected_edge": 0.02,
         "affordable": true,
-        "bank_after": 1.3,
+        "bank_after": 1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -152,7 +167,7 @@
         "in": [
           "De Cuyper"
         ],
-        "projected_edge": -0.68,
+        "projected_edge": -0.15,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -165,24 +180,9 @@
           "Gvardiol"
         ],
         "in": [
-          "Maitland-Niles"
-        ],
-        "projected_edge": -0.82,
-        "affordable": true,
-        "bank_after": 1.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
           "Vuskovic"
         ],
-        "projected_edge": -1.22,
+        "projected_edge": -0.57,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -197,7 +197,22 @@
         "in": [
           "Schuster"
         ],
-        "projected_edge": -1.29,
+        "projected_edge": -0.77,
+        "affordable": true,
+        "bank_after": 1.4,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Maitland-Niles"
+        ],
+        "projected_edge": -0.82,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -245,21 +260,6 @@
         "projected_edge": -1.56,
         "affordable": true,
         "bank_after": 1.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Branthwaite"
-        ],
-        "projected_edge": -2.01,
-        "affordable": true,
-        "bank_after": 0.4,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
