@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:20:28.152Z",
+  "generated_at": "2026-10-04T19:34:51.972Z",
   "captaincy": [
     {
       "id": 411,
@@ -240,6 +240,21 @@
           "Gvardiol"
         ],
         "in": [
+          "Davis"
+        ],
+        "projected_edge": -1.04,
+        "affordable": true,
+        "bank_after": 1.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
           "Hall"
         ],
         "projected_edge": -1.34,
@@ -272,24 +287,9 @@
         "in": [
           "Jacquet"
         ],
-        "projected_edge": -2.24,
+        "projected_edge": -2.02,
         "affordable": true,
         "bank_after": 0.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Araujo"
-        ],
-        "projected_edge": -2.36,
-        "affordable": true,
-        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
