@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:59:19.904Z",
+  "generated_at": "2026-10-05T18:24:12.009Z",
   "captaincy": [
     {
       "id": 411,
@@ -12,7 +12,7 @@
         "difficulty": 4,
         "kickoff": "2026-10-11T15:30:00Z"
       },
-      "score": 6.27,
+      "score": 6.14,
       "risk": "LOW",
       "rank": 1
     },
@@ -27,7 +27,7 @@
         "difficulty": 4,
         "kickoff": "2026-10-11T15:30:00Z"
       },
-      "score": 5.33,
+      "score": 5.28,
       "risk": "LOW",
       "rank": 2
     },
@@ -92,7 +92,7 @@
         "in": [
           "Groß"
         ],
-        "projected_edge": 4.21,
+        "projected_edge": 5.62,
         "affordable": true,
         "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
@@ -107,24 +107,9 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": 1.34,
+        "projected_edge": 1.69,
         "affordable": true,
         "bank_after": 0.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Bogle"
-        ],
-        "projected_edge": 0.97,
-        "affordable": true,
-        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -137,24 +122,9 @@
         "in": [
           "Manzambi"
         ],
-        "projected_edge": 0.88,
+        "projected_edge": 1.55,
         "affordable": true,
         "bank_after": 0.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Verbruggen"
-        ],
-        "in": [
-          "Tzolakis"
-        ],
-        "projected_edge": 0.74,
-        "affordable": true,
-        "bank_after": 0,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -165,11 +135,26 @@
           "Calafiori"
         ],
         "in": [
-          "Janelt"
+          "Andrés"
         ],
-        "projected_edge": 0.63,
+        "projected_edge": 0.77,
         "affordable": true,
-        "bank_after": 1,
+        "bank_after": 0.5,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Bogle"
+        ],
+        "projected_edge": 0.67,
+        "affordable": true,
+        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -182,22 +167,7 @@
         "in": [
           "De Cuyper"
         ],
-        "projected_edge": -0.15,
-        "affordable": true,
-        "bank_after": 0.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Vuskovic"
-        ],
-        "projected_edge": -0.57,
+        "projected_edge": 0.35,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -212,7 +182,7 @@
         "in": [
           "Schuster"
         ],
-        "projected_edge": -0.77,
+        "projected_edge": -0.27,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -227,7 +197,7 @@
         "in": [
           "Maitland-Niles"
         ],
-        "projected_edge": -0.82,
+        "projected_edge": -0.76,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -242,7 +212,7 @@
         "in": [
           "Davis"
         ],
-        "projected_edge": -1.04,
+        "projected_edge": -0.98,
         "affordable": true,
         "bank_after": 1.9,
         "hit_cost": "UNKNOWN",
@@ -255,9 +225,24 @@
           "Gvardiol"
         ],
         "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": -1.01,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
           "Hall"
         ],
-        "projected_edge": -1.34,
+        "projected_edge": -1.04,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
@@ -270,9 +255,9 @@
           "Gvardiol"
         ],
         "in": [
-          "Mitchell"
+          "Affengruber"
         ],
-        "projected_edge": -1.56,
+        "projected_edge": -1.37,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -285,9 +270,39 @@
           "Gvardiol"
         ],
         "in": [
+          "Dasilva"
+        ],
+        "projected_edge": -1.63,
+        "affordable": true,
+        "bank_after": 1.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Muharemović"
+        ],
+        "projected_edge": -1.88,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
           "Jacquet"
         ],
-        "projected_edge": -2.02,
+        "projected_edge": -1.96,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -323,6 +338,21 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Foot injury - 75% chance of playing"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Dunk"
+        ],
+        "projected_edge": -3.17,
+        "affordable": true,
+        "bank_after": 1.4,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Neck injury - 75% chance of playing"
       }
     ],
     "two_transfer": {
