@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:24:12.009Z",
+  "generated_at": "2026-10-06T00:47:13.519Z",
   "captaincy": [
     {
       "id": 411,
@@ -94,7 +94,7 @@
         ],
         "projected_edge": 5.62,
         "affordable": true,
-        "bank_after": 0.1,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -109,7 +109,7 @@
         ],
         "projected_edge": 1.69,
         "affordable": true,
-        "bank_after": 0.9,
+        "bank_after": 1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -124,7 +124,7 @@
         ],
         "projected_edge": 1.55,
         "affordable": true,
-        "bank_after": 0.1,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -139,7 +139,7 @@
         ],
         "projected_edge": 0.77,
         "affordable": true,
-        "bank_after": 0.5,
+        "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -297,21 +297,6 @@
       {
         "transfers": 1,
         "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Jacquet"
-        ],
-        "projected_edge": -1.96,
-        "affordable": true,
-        "bank_after": 0.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
           "Calafiori"
         ],
         "in": [
@@ -319,7 +304,7 @@
         ],
         "projected_edge": -2.84,
         "affordable": true,
-        "bank_after": 0.1,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Ankle injury - Expected back 10 Oct"
@@ -353,6 +338,21 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Neck injury - 75% chance of playing"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Jacquet"
+        ],
+        "projected_edge": -3.26,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Hamstring injury - 75% chance of playing"
       }
     ],
     "two_transfer": {
