@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:31:59.985Z",
+  "generated_at": "2026-10-06T15:07:59.724Z",
   "captaincy": [
     {
       "id": 411,
@@ -32,8 +32,8 @@
       "rank": 2
     },
     {
-      "id": 427,
-      "name": "Mbeumo",
+      "id": 426,
+      "name": "B.Fernandes",
       "status": "a",
       "next_fixture": {
         "gw": 6,
@@ -47,21 +47,6 @@
       "rank": 3
     },
     {
-      "id": 426,
-      "name": "B.Fernandes",
-      "status": "a",
-      "next_fixture": {
-        "gw": 6,
-        "opponent": "TOT",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-10T16:30:00Z"
-      },
-      "score": 5.15,
-      "risk": "LOW",
-      "rank": 4
-    },
-    {
       "id": 40,
       "name": "Rogers",
       "status": "a",
@@ -73,6 +58,21 @@
         "kickoff": "2026-10-10T14:00:00Z"
       },
       "score": 5.08,
+      "risk": "LOW",
+      "rank": 4
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "status": "a",
+      "next_fixture": {
+        "gw": 6,
+        "opponent": "TOT",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-10-10T16:30:00Z"
+      },
+      "score": 4.46,
       "risk": "LOW",
       "rank": 5
     }
@@ -270,11 +270,11 @@
           "Gvardiol"
         ],
         "in": [
-          "Dasilva"
+          "Branthwaite"
         ],
-        "projected_edge": -1.63,
+        "projected_edge": -1.57,
         "affordable": true,
-        "bank_after": 1.9,
+        "bank_after": 0.4,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -293,6 +293,21 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Mykolenko"
+        ],
+        "projected_edge": -2.78,
+        "affordable": true,
+        "bank_after": 1.3,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Leg injury - 75% chance of playing"
       },
       {
         "transfers": 1,
@@ -323,21 +338,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Foot injury - 75% chance of playing"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Dunk"
-        ],
-        "projected_edge": -3.17,
-        "affordable": true,
-        "bank_after": 1.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Neck injury - 75% chance of playing"
       },
       {
         "transfers": 1,
