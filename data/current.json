@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1362872,
+    "overall_rank": 1362873,
     "last_gw_points": 34,
-    "last_gw_rank": 9802980
+    "last_gw_rank": 9802971
   },
   "gameweek": {
     "id": 5,
@@ -182,7 +182,7 @@
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
-      "selected_by_percent": "32.4"
+      "selected_by_percent": "32.3"
     },
     {
       "id": 40,
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-08T00:10:56.864Z",
+  "generated_at": "2026-10-08T05:58:44.399Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
