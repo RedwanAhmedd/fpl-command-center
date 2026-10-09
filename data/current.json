@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1362827,
+    "overall_rank": 1362826,
     "last_gw_points": 34,
-    "last_gw_rank": 9802841
+    "last_gw_rank": 9802825
   },
   "gameweek": {
     "id": 5,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.20",
       "xgi": "0.20",
-      "selected_by_percent": "21.6"
+      "selected_by_percent": "21.5"
     },
     {
       "id": 391,
@@ -162,7 +162,7 @@
       "xg": "2.56",
       "xa": "1.32",
       "xgi": "3.88",
-      "selected_by_percent": "38.3"
+      "selected_by_percent": "38.2"
     },
     {
       "id": 368,
@@ -182,7 +182,7 @@
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
-      "selected_by_percent": "32.1"
+      "selected_by_percent": "32.0"
     },
     {
       "id": 40,
@@ -242,7 +242,7 @@
       "xg": "4.42",
       "xa": "0.53",
       "xgi": "4.95",
-      "selected_by_percent": "73.9"
+      "selected_by_percent": "74.0"
     },
     {
       "id": 165,
@@ -262,7 +262,7 @@
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "64.0"
+      "selected_by_percent": "63.9"
     },
     {
       "id": 58,
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-09T00:20:55.692Z",
+  "generated_at": "2026-10-09T07:21:52.112Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
