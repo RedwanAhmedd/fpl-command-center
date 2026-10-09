@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1362826,
+    "overall_rank": 1362824,
     "last_gw_points": 34,
-    "last_gw_rank": 9802825
+    "last_gw_rank": 9802742
   },
   "gameweek": {
     "id": 5,
@@ -102,7 +102,7 @@
       "xg": "0.67",
       "xa": "0.62",
       "xgi": "1.29",
-      "selected_by_percent": "50.7"
+      "selected_by_percent": "50.9"
     },
     {
       "id": 469,
@@ -114,15 +114,15 @@
       "captain": false,
       "vice_captain": false,
       "price": 5,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Illness - 50% chance of playing",
       "minutes": 450,
       "total_points": 19,
       "form": "2.0",
       "xg": "0.41",
       "xa": "0.61",
       "xgi": "1.02",
-      "selected_by_percent": "8.6"
+      "selected_by_percent": "8.5"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "3.07",
       "xa": "0.80",
       "xgi": "3.87",
-      "selected_by_percent": "20.4"
+      "selected_by_percent": "20.3"
     },
     {
       "id": 426,
@@ -162,7 +162,7 @@
       "xg": "2.56",
       "xa": "1.32",
       "xgi": "3.88",
-      "selected_by_percent": "38.2"
+      "selected_by_percent": "38.1"
     },
     {
       "id": 368,
@@ -182,7 +182,7 @@
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
-      "selected_by_percent": "32.0"
+      "selected_by_percent": "31.6"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "1.72",
       "xa": "1.23",
       "xgi": "2.95",
-      "selected_by_percent": "41.3"
+      "selected_by_percent": "41.7"
     },
     {
       "id": 605,
@@ -254,15 +254,15 @@
       "captain": false,
       "vice_captain": false,
       "price": 7.7,
-      "status": "d",
-      "news": "Knee injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "minutes": 360,
       "total_points": 33,
       "form": "6.0",
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "63.9"
+      "selected_by_percent": "63.6"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "0.14",
       "xa": "0.08",
       "xgi": "0.22",
-      "selected_by_percent": "1.7"
+      "selected_by_percent": "1.6"
     },
     {
       "id": 556,
@@ -314,8 +314,8 @@
       "captain": false,
       "vice_captain": false,
       "price": 4,
-      "status": "d",
-      "news": "Ankle injury - 75% chance of playing",
+      "status": "i",
+      "news": "Ankle injury - Unknown return date",
       "minutes": 5,
       "total_points": 1,
       "form": "0.0",
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-09T07:21:52.112Z",
+  "generated_at": "2026-10-09T15:16:30.186Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,

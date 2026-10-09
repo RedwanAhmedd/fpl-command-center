@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-09T07:21:52.386Z",
+  "generated_at": "2026-10-09T15:16:30.452Z",
   "captaincy": [
+    {
+      "id": 165,
+      "name": "João Pedro",
+      "status": "a",
+      "next_fixture": {
+        "gw": 6,
+        "opponent": "BOU",
+        "venue": "H",
+        "difficulty": 3,
+        "kickoff": "2026-10-10T14:00:00Z"
+      },
+      "score": 6.37,
+      "risk": "LOW",
+      "rank": 1
+    },
     {
       "id": 411,
       "name": "Haaland",
@@ -14,7 +29,7 @@
       },
       "score": 6.14,
       "risk": "LOW",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": 391,
@@ -29,7 +44,7 @@
       },
       "score": 5.28,
       "risk": "LOW",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": 426,
@@ -44,7 +59,7 @@
       },
       "score": 5.15,
       "risk": "LOW",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": 40,
@@ -58,21 +73,6 @@
         "kickoff": "2026-10-10T14:00:00Z"
       },
       "score": 4.99,
-      "risk": "LOW",
-      "rank": 4
-    },
-    {
-      "id": 427,
-      "name": "Mbeumo",
-      "status": "a",
-      "next_fixture": {
-        "gw": 6,
-        "opponent": "TOT",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-10T16:30:00Z"
-      },
-      "score": 4.46,
       "risk": "LOW",
       "rank": 5
     }
@@ -113,6 +113,21 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Hinshelwood"
+        ],
+        "projected_edge": 1.46,
+        "affordable": true,
+        "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Ankle injury - 50% chance of playing"
       },
       {
         "transfers": 1,
@@ -270,6 +285,21 @@
           "Gvardiol"
         ],
         "in": [
+          "Van Hecke"
+        ],
+        "projected_edge": -1.45,
+        "affordable": true,
+        "bank_after": 1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
           "Branthwaite"
         ],
         "projected_edge": -1.57,
@@ -308,36 +338,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Leg injury - 75% chance of playing"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": -2.91,
-        "affordable": true,
-        "bank_after": 1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Foot injury - 75% chance of playing"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Hinshelwood"
-        ],
-        "projected_edge": -3,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Ankle injury - Expected back 10 Oct"
       },
       {
         "transfers": 1,
