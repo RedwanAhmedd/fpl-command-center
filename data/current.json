@@ -13,7 +13,7 @@
     "overall_points": 338,
     "overall_rank": 1362827,
     "last_gw_points": 34,
-    "last_gw_rank": 9802865
+    "last_gw_rank": 9802841
   },
   "gameweek": {
     "id": 5,
@@ -82,7 +82,7 @@
       "xg": "0.22",
       "xa": "0.74",
       "xgi": "0.96",
-      "selected_by_percent": "26.9"
+      "selected_by_percent": "27.0"
     },
     {
       "id": 8,
@@ -202,7 +202,7 @@
       "xg": "1.72",
       "xa": "1.23",
       "xgi": "2.95",
-      "selected_by_percent": "41.2"
+      "selected_by_percent": "41.3"
     },
     {
       "id": 605,
@@ -262,7 +262,7 @@
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "64.1"
+      "selected_by_percent": "64.0"
     },
     {
       "id": 58,
@@ -294,8 +294,8 @@
       "captain": false,
       "vice_captain": false,
       "price": 4.5,
-      "status": "i",
-      "news": "Unspecified injury - Unknown return date",
+      "status": "d",
+      "news": "Unspecified injury - 50% chance of playing",
       "minutes": 327,
       "total_points": 13,
       "form": "0.0",
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-08T19:55:33.954Z",
+  "generated_at": "2026-10-09T00:20:55.692Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
