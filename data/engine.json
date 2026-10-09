@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:16:30.452Z",
+  "generated_at": "2026-10-09T20:07:49.865Z",
   "captaincy": [
     {
       "id": 165,
@@ -330,6 +330,21 @@
           "Gvardiol"
         ],
         "in": [
+          "Jacquet"
+        ],
+        "projected_edge": -1.96,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
           "Mykolenko"
         ],
         "projected_edge": -2.78,
@@ -338,21 +353,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Leg injury - 75% chance of playing"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Jacquet"
-        ],
-        "projected_edge": -3.26,
-        "affordable": true,
-        "bank_after": 0.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Hamstring injury - 75% chance of playing"
       }
     ],
     "two_transfer": {

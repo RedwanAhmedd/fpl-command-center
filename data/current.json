@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1362824,
+    "overall_rank": 1362817,
     "last_gw_points": 34,
-    "last_gw_rank": 9802742
+    "last_gw_rank": 9802679
   },
   "gameweek": {
     "id": 5,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.20",
       "xgi": "0.20",
-      "selected_by_percent": "21.5"
+      "selected_by_percent": "21.4"
     },
     {
       "id": 391,
@@ -82,7 +82,7 @@
       "xg": "0.22",
       "xa": "0.74",
       "xgi": "0.96",
-      "selected_by_percent": "27.0"
+      "selected_by_percent": "27.1"
     },
     {
       "id": 8,
@@ -102,7 +102,7 @@
       "xg": "0.67",
       "xa": "0.62",
       "xgi": "1.29",
-      "selected_by_percent": "50.9"
+      "selected_by_percent": "51.0"
     },
     {
       "id": 469,
@@ -122,7 +122,7 @@
       "xg": "0.41",
       "xa": "0.61",
       "xgi": "1.02",
-      "selected_by_percent": "8.5"
+      "selected_by_percent": "8.1"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "3.07",
       "xa": "0.80",
       "xgi": "3.87",
-      "selected_by_percent": "20.3"
+      "selected_by_percent": "20.2"
     },
     {
       "id": 426,
@@ -162,7 +162,7 @@
       "xg": "2.56",
       "xa": "1.32",
       "xgi": "3.88",
-      "selected_by_percent": "38.1"
+      "selected_by_percent": "38.0"
     },
     {
       "id": 368,
@@ -182,7 +182,7 @@
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
-      "selected_by_percent": "31.6"
+      "selected_by_percent": "31.2"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "1.72",
       "xa": "1.23",
       "xgi": "2.95",
-      "selected_by_percent": "41.7"
+      "selected_by_percent": "42.0"
     },
     {
       "id": 605,
@@ -242,7 +242,7 @@
       "xg": "4.42",
       "xa": "0.53",
       "xgi": "4.95",
-      "selected_by_percent": "74.0"
+      "selected_by_percent": "74.1"
     },
     {
       "id": 165,
@@ -262,7 +262,7 @@
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "63.6"
+      "selected_by_percent": "64.2"
     },
     {
       "id": 58,
@@ -322,7 +322,7 @@
       "xg": "0.00",
       "xa": "0.00",
       "xgi": "0.00",
-      "selected_by_percent": "1.6"
+      "selected_by_percent": "1.5"
     },
     {
       "id": 272,
@@ -342,7 +342,7 @@
       "xg": "0.00",
       "xa": "0.00",
       "xgi": "0.00",
-      "selected_by_percent": "5.3"
+      "selected_by_percent": "5.2"
     }
   ],
   "bank": 0.2,
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-09T15:16:30.186Z",
+  "generated_at": "2026-10-09T20:07:49.576Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
