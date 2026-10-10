@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1362817,
+    "overall_rank": 1362809,
     "last_gw_points": 34,
-    "last_gw_rank": 9802679
+    "last_gw_rank": 9802649
   },
   "gameweek": {
     "id": 5,
@@ -82,7 +82,7 @@
       "xg": "0.22",
       "xa": "0.74",
       "xgi": "0.96",
-      "selected_by_percent": "27.1"
+      "selected_by_percent": "27.2"
     },
     {
       "id": 8,
@@ -102,7 +102,7 @@
       "xg": "0.67",
       "xa": "0.62",
       "xgi": "1.29",
-      "selected_by_percent": "51.0"
+      "selected_by_percent": "51.1"
     },
     {
       "id": 469,
@@ -122,7 +122,7 @@
       "xg": "0.41",
       "xa": "0.61",
       "xgi": "1.02",
-      "selected_by_percent": "8.1"
+      "selected_by_percent": "7.9"
     },
     {
       "id": 427,
@@ -162,7 +162,7 @@
       "xg": "2.56",
       "xa": "1.32",
       "xgi": "3.88",
-      "selected_by_percent": "38.0"
+      "selected_by_percent": "37.8"
     },
     {
       "id": 368,
@@ -182,7 +182,7 @@
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
-      "selected_by_percent": "31.2"
+      "selected_by_percent": "30.9"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "1.72",
       "xa": "1.23",
       "xgi": "2.95",
-      "selected_by_percent": "42.0"
+      "selected_by_percent": "42.2"
     },
     {
       "id": 605,
@@ -242,7 +242,7 @@
       "xg": "4.42",
       "xa": "0.53",
       "xgi": "4.95",
-      "selected_by_percent": "74.1"
+      "selected_by_percent": "74.2"
     },
     {
       "id": 165,
@@ -262,7 +262,7 @@
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "64.2"
+      "selected_by_percent": "64.5"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "0.14",
       "xa": "0.08",
       "xgi": "0.22",
-      "selected_by_percent": "1.6"
+      "selected_by_percent": "1.5"
     },
     {
       "id": 556,
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-09T20:07:49.576Z",
+  "generated_at": "2026-10-10T00:01:39.521Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
