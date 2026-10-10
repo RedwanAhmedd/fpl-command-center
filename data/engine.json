@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:50:37.295Z",
+  "generated_at": "2026-10-10T21:40:12.009Z",
   "captaincy": [
     {
       "id": 124,
@@ -12,7 +12,7 @@
         "difficulty": 3,
         "kickoff": "2026-10-10T14:00:00Z"
       },
-      "score": 8.66,
+      "score": 8.7,
       "risk": "LOW",
       "rank": 1
     },
@@ -27,7 +27,7 @@
         "difficulty": 3,
         "kickoff": "2026-10-10T14:00:00Z"
       },
-      "score": 8.11,
+      "score": 8.1,
       "risk": "LOW",
       "rank": 2
     },
@@ -42,7 +42,7 @@
         "difficulty": 3,
         "kickoff": "2026-10-10T14:00:00Z"
       },
-      "score": 7.49,
+      "score": 7.51,
       "risk": "LOW",
       "rank": 3
     },
@@ -57,20 +57,20 @@
         "difficulty": 3,
         "kickoff": "2026-10-10T14:00:00Z"
       },
-      "score": 5.69,
+      "score": 5.68,
       "risk": "LOW",
       "rank": 4
     },
     {
-      "id": 411,
-      "name": "Haaland",
+      "id": 427,
+      "name": "Mbeumo",
       "status": "a",
       "next_fixture": {
         "gw": 6,
-        "opponent": "LIV",
-        "venue": "A",
-        "difficulty": 4,
-        "kickoff": "2026-10-11T15:30:00Z"
+        "opponent": "TOT",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-10-10T16:30:00Z"
       },
       "score": 5.5,
       "risk": "LOW",
@@ -92,7 +92,7 @@
         "in": [
           "Henderson"
         ],
-        "projected_edge": 1.9,
+        "projected_edge": 1.95,
         "affordable": true,
         "bank_after": 1.2,
         "hit_cost": "UNKNOWN",
@@ -107,7 +107,7 @@
         "in": [
           "Hinshelwood"
         ],
-        "projected_edge": 0.51,
+        "projected_edge": 0.55,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -122,7 +122,7 @@
         "in": [
           "Manzambi"
         ],
-        "projected_edge": 0.01,
+        "projected_edge": 0.07,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -137,7 +137,7 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": -0.24,
+        "projected_edge": -0.2,
         "affordable": true,
         "bank_after": 1,
         "hit_cost": "UNKNOWN",
@@ -152,7 +152,7 @@
         "in": [
           "McGinn"
         ],
-        "projected_edge": -0.67,
+        "projected_edge": -0.4,
         "affordable": true,
         "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
@@ -167,7 +167,7 @@
         "in": [
           "Gomez"
         ],
-        "projected_edge": -0.91,
+        "projected_edge": -0.87,
         "affordable": true,
         "bank_after": 1.1,
         "hit_cost": "UNKNOWN",
@@ -182,7 +182,7 @@
         "in": [
           "Buendía"
         ],
-        "projected_edge": -1.05,
+        "projected_edge": -0.99,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -197,7 +197,7 @@
         "in": [
           "Andrés"
         ],
-        "projected_edge": -1.12,
+        "projected_edge": -1.08,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
@@ -227,7 +227,7 @@
         "in": [
           "Vuskovic"
         ],
-        "projected_edge": -2.36,
+        "projected_edge": -2.35,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -242,37 +242,7 @@
         "in": [
           "Maitland-Niles"
         ],
-        "projected_edge": -3.08,
-        "affordable": true,
-        "bank_after": 0.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": -3.08,
-        "affordable": true,
-        "bank_after": 0.3,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Schuster"
-        ],
-        "projected_edge": -3.37,
+        "projected_edge": -3.07,
         "affordable": true,
         "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
@@ -287,7 +257,7 @@
         "in": [
           "Davis"
         ],
-        "projected_edge": -3.65,
+        "projected_edge": -3.64,
         "affordable": true,
         "bank_after": 1.2,
         "hit_cost": "UNKNOWN",
@@ -302,7 +272,7 @@
         "in": [
           "F.Kadıoğlu"
         ],
-        "projected_edge": -3.77,
+        "projected_edge": -3.76,
         "affordable": true,
         "bank_after": 0.8,
         "hit_cost": "UNKNOWN",
@@ -317,7 +287,7 @@
         "in": [
           "Justin"
         ],
-        "projected_edge": -3.85,
+        "projected_edge": -3.84,
         "affordable": true,
         "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
@@ -330,9 +300,24 @@
           "De Cuyper"
         ],
         "in": [
+          "Schuster"
+        ],
+        "projected_edge": -4.74,
+        "affordable": true,
+        "bank_after": 0.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Ankle injury - 75% chance of playing"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
           "Mykolenko"
         ],
-        "projected_edge": -4.98,
+        "projected_edge": -4.97,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
