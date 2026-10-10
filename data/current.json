@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 338,
-    "overall_rank": 1362809,
+    "overall_rank": 1362805,
     "last_gw_points": 34,
-    "last_gw_rank": 9802649
+    "last_gw_rank": 9802624
   },
   "gameweek": {
     "id": 5,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.20",
       "xgi": "0.20",
-      "selected_by_percent": "21.4"
+      "selected_by_percent": "21.3"
     },
     {
       "id": 391,
@@ -102,7 +102,7 @@
       "xg": "0.67",
       "xa": "0.62",
       "xgi": "1.29",
-      "selected_by_percent": "51.1"
+      "selected_by_percent": "51.2"
     },
     {
       "id": 469,
@@ -122,7 +122,7 @@
       "xg": "0.41",
       "xa": "0.61",
       "xgi": "1.02",
-      "selected_by_percent": "7.9"
+      "selected_by_percent": "7.8"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "3.07",
       "xa": "0.80",
       "xgi": "3.87",
-      "selected_by_percent": "20.2"
+      "selected_by_percent": "20.1"
     },
     {
       "id": 426,
@@ -162,7 +162,7 @@
       "xg": "2.56",
       "xa": "1.32",
       "xgi": "3.88",
-      "selected_by_percent": "37.8"
+      "selected_by_percent": "37.7"
     },
     {
       "id": 368,
@@ -182,7 +182,7 @@
       "xg": "1.42",
       "xa": "0.82",
       "xgi": "2.24",
-      "selected_by_percent": "30.9"
+      "selected_by_percent": "30.7"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "1.72",
       "xa": "1.23",
       "xgi": "2.95",
-      "selected_by_percent": "42.2"
+      "selected_by_percent": "42.3"
     },
     {
       "id": 605,
@@ -262,7 +262,7 @@
       "xg": "2.17",
       "xa": "0.19",
       "xgi": "2.36",
-      "selected_by_percent": "64.5"
+      "selected_by_percent": "64.8"
     },
     {
       "id": 58,
@@ -1612,7 +1612,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-10T00:01:39.521Z",
+  "generated_at": "2026-10-10T05:47:44.996Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
