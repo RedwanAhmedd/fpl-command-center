@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T14:00:43.000Z",
+  "generated_at": "2026-10-11T18:52:05.168Z",
   "captaincy": [
     {
       "id": 124,
@@ -47,6 +47,21 @@
       "rank": 3
     },
     {
+      "id": 411,
+      "name": "Haaland",
+      "status": "a",
+      "next_fixture": {
+        "gw": 6,
+        "opponent": "LIV",
+        "venue": "A",
+        "difficulty": 4,
+        "kickoff": "2026-10-11T15:30:00Z"
+      },
+      "score": 5.91,
+      "risk": "LOW",
+      "rank": 4
+    },
+    {
       "id": 40,
       "name": "Rogers",
       "status": "a",
@@ -58,21 +73,6 @@
         "kickoff": "2026-10-10T14:00:00Z"
       },
       "score": 5.68,
-      "risk": "LOW",
-      "rank": 4
-    },
-    {
-      "id": 427,
-      "name": "Mbeumo",
-      "status": "a",
-      "next_fixture": {
-        "gw": 6,
-        "opponent": "TOT",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-10T16:30:00Z"
-      },
-      "score": 5.51,
       "risk": "LOW",
       "rank": 5
     }
@@ -120,11 +120,11 @@
           "Calafiori"
         ],
         "in": [
-          "Manzambi"
+          "Belloumi"
         ],
-        "projected_edge": 0.07,
+        "projected_edge": 0.44,
         "affordable": true,
-        "bank_after": 0.2,
+        "bank_after": 1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -135,11 +135,11 @@
           "Calafiori"
         ],
         "in": [
-          "Belloumi"
+          "Manzambi"
         ],
-        "projected_edge": -0.2,
+        "projected_edge": 0.07,
         "affordable": true,
-        "bank_after": 1,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -167,54 +167,9 @@
         "in": [
           "Kamada"
         ],
-        "projected_edge": -0.44,
+        "projected_edge": -0.69,
         "affordable": true,
         "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Gomez"
-        ],
-        "projected_edge": -0.87,
-        "affordable": true,
-        "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Buendía"
-        ],
-        "projected_edge": -0.99,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Andrés"
-        ],
-        "projected_edge": -1.08,
-        "affordable": true,
-        "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -255,54 +210,9 @@
           "De Cuyper"
         ],
         "in": [
-          "Khalaili"
-        ],
-        "projected_edge": -3.54,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": -3.63,
-        "affordable": true,
-        "bank_after": 0.3,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Davis"
-        ],
-        "projected_edge": -3.64,
-        "affordable": true,
-        "bank_after": 1.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
           "Maitland-Niles"
         ],
-        "projected_edge": -3.71,
+        "projected_edge": -2.98,
         "affordable": true,
         "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
@@ -335,6 +245,21 @@
         "projected_edge": -3.84,
         "affordable": true,
         "bank_after": 0.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Jacquet"
+        ],
+        "projected_edge": -4.1,
+        "affordable": true,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
