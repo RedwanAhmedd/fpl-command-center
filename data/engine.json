@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:09:51.243Z",
+  "generated_at": "2026-10-11T14:00:43.000Z",
   "captaincy": [
     {
       "id": 124,
@@ -165,6 +165,21 @@
           "Calafiori"
         ],
         "in": [
+          "Kamada"
+        ],
+        "projected_edge": -0.44,
+        "affordable": true,
+        "bank_after": 1.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Gomez"
         ],
         "projected_edge": -0.87,
@@ -240,11 +255,11 @@
           "De Cuyper"
         ],
         "in": [
-          "Maitland-Niles"
+          "Khalaili"
         ],
-        "projected_edge": -3.07,
+        "projected_edge": -3.54,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -275,6 +290,21 @@
         "projected_edge": -3.64,
         "affordable": true,
         "bank_after": 1.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Maitland-Niles"
+        ],
+        "projected_edge": -3.71,
+        "affordable": true,
+        "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
