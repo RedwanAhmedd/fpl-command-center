@@ -11,7 +11,7 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 421,
-    "overall_rank": 573163,
+    "overall_rank": 573164,
     "last_gw_points": 83,
     "last_gw_rank": 254708
   },
@@ -23,14 +23,14 @@
     "current_official_event": 6
   },
   "gw_stats": {
-    "points": 77,
-    "total_points": 415,
-    "overall_rank": 367407,
-    "rank": 44111,
-    "rank_sort": 45105,
+    "points": 83,
+    "total_points": 421,
+    "overall_rank": 573183,
+    "rank": 254804,
+    "rank_sort": 258336,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 1,
+    "points_on_bench": 8,
     "bank": 0.2,
     "value": 100.7
   },
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.20",
       "xgi": "0.20",
-      "selected_by_percent": "21.5"
+      "selected_by_percent": "21.6"
     },
     {
       "id": 115,
@@ -82,7 +82,7 @@
       "xg": "1.80",
       "xa": "0.67",
       "xgi": "2.47",
-      "selected_by_percent": "33.3"
+      "selected_by_percent": "33.6"
     },
     {
       "id": 8,
@@ -162,7 +162,7 @@
       "xg": "3.63",
       "xa": "1.04",
       "xgi": "4.67",
-      "selected_by_percent": "17.0"
+      "selected_by_percent": "16.9"
     },
     {
       "id": 124,
@@ -182,7 +182,7 @@
       "xg": "2.02",
       "xa": "1.05",
       "xgi": "3.07",
-      "selected_by_percent": "37.6"
+      "selected_by_percent": "37.8"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "1.90",
       "xa": "1.30",
       "xgi": "3.20",
-      "selected_by_percent": "43.9"
+      "selected_by_percent": "44.1"
     },
     {
       "id": 411,
@@ -222,7 +222,7 @@
       "xg": "4.58",
       "xa": "0.54",
       "xgi": "5.12",
-      "selected_by_percent": "74.7"
+      "selected_by_percent": "74.8"
     },
     {
       "id": 569,
@@ -262,7 +262,7 @@
       "xg": "2.77",
       "xa": "0.29",
       "xgi": "3.06",
-      "selected_by_percent": "68.1"
+      "selected_by_percent": "68.3"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "1.93",
       "xa": "0.33",
       "xgi": "2.26",
-      "selected_by_percent": "15.7"
+      "selected_by_percent": "15.6"
     },
     {
       "id": 586,
@@ -438,18 +438,18 @@
     },
     {
       "event": 6,
-      "points": 77,
-      "total_points": 415,
-      "rank": 44111,
-      "rank_sort": 45105,
-      "overall_rank": 367407,
-      "percentile_rank": 1,
-      "overall_rank_percentage": "3",
+      "points": 83,
+      "total_points": 421,
+      "rank": 254804,
+      "rank_sort": 258336,
+      "overall_rank": 573183,
+      "percentile_rank": 5,
+      "overall_rank_percentage": "5",
       "bank": 2,
       "value": 1007,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 1
+      "points_on_bench": 8
     }
   ],
   "transfers": [
@@ -4927,7 +4927,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-11T18:52:04.921Z",
+  "generated_at": "2026-10-11T22:52:06.948Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
