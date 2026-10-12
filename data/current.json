@@ -73,7 +73,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 5,
+      "price": 5.1,
       "status": "a",
       "news": "",
       "minutes": 490,
@@ -82,7 +82,7 @@
       "xg": "1.80",
       "xa": "0.67",
       "xgi": "2.47",
-      "selected_by_percent": "33.6"
+      "selected_by_percent": "33.7"
     },
     {
       "id": 8,
@@ -102,7 +102,7 @@
       "xg": "1.22",
       "xa": "0.68",
       "xgi": "1.90",
-      "selected_by_percent": "51.9"
+      "selected_by_percent": "52.0"
     },
     {
       "id": 650,
@@ -182,7 +182,7 @@
       "xg": "2.02",
       "xa": "1.05",
       "xgi": "3.07",
-      "selected_by_percent": "37.8"
+      "selected_by_percent": "37.9"
     },
     {
       "id": 40,
@@ -193,7 +193,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 7.8,
+      "price": 7.9,
       "status": "a",
       "news": "",
       "minutes": 520,
@@ -219,9 +219,9 @@
       "minutes": 529,
       "total_points": 45,
       "form": "7.0",
-      "xg": "4.58",
+      "xg": "4.82",
       "xa": "0.54",
-      "xgi": "5.12",
+      "xgi": "5.36",
       "selected_by_percent": "74.8"
     },
     {
@@ -253,7 +253,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 7.7,
+      "price": 7.8,
       "status": "a",
       "news": "",
       "minutes": 431,
@@ -262,7 +262,7 @@
       "xg": "2.77",
       "xa": "0.29",
       "xgi": "3.06",
-      "selected_by_percent": "68.3"
+      "selected_by_percent": "68.4"
     },
     {
       "id": 58,
@@ -339,10 +339,10 @@
       "minutes": 458,
       "total_points": 41,
       "form": "6.3",
-      "xg": "0.26",
-      "xa": "0.84",
-      "xgi": "1.10",
-      "selected_by_percent": "27.7"
+      "xg": "0.32",
+      "xa": "0.79",
+      "xgi": "1.11",
+      "selected_by_percent": "27.8"
     }
   ],
   "bank": 0.2,
@@ -3734,15 +3734,15 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 39,
+              "value": 45,
               "element": 400
             },
             {
-              "value": 38,
+              "value": 39,
               "element": 399
             },
             {
-              "value": 36,
+              "value": 37,
               "element": 384
             },
             {
@@ -3750,11 +3750,11 @@
               "element": 481
             },
             {
-              "value": 33,
+              "value": 30,
               "element": 411
             },
             {
-              "value": 30,
+              "value": 28,
               "element": 388
             },
             {
@@ -3766,7 +3766,7 @@
               "element": 390
             },
             {
-              "value": 16,
+              "value": 20,
               "element": 155
             },
             {
@@ -3782,7 +3782,7 @@
               "element": 397
             },
             {
-              "value": 3,
+              "value": 4,
               "element": 237
             },
             {
@@ -3792,12 +3792,8 @@
           ],
           "h": [
             {
-              "value": 20,
+              "value": 21,
               "element": 627
-            },
-            {
-              "value": 12,
-              "element": 372
             },
             {
               "value": 12,
@@ -3805,15 +3801,15 @@
             },
             {
               "value": 8,
-              "element": 366
-            },
-            {
-              "value": 6,
               "element": 371
             },
             {
-              "value": 5,
-              "element": 358
+              "value": 8,
+              "element": 372
+            },
+            {
+              "value": 7,
+              "element": 366
             },
             {
               "value": 5,
@@ -3837,6 +3833,10 @@
             },
             {
               "value": 1,
+              "element": 358
+            },
+            {
+              "value": 1,
               "element": 579
             },
             {
@@ -3844,15 +3844,11 @@
               "element": 357
             },
             {
-              "value": -1,
-              "element": 362
-            },
-            {
               "value": -2,
               "element": 350
             },
             {
-              "value": -4,
+              "value": -3,
               "element": 356
             }
           ]
@@ -3861,7 +3857,7 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 8,
+              "value": 9,
               "element": 155
             },
             {
@@ -3874,15 +3870,15 @@
             },
             {
               "value": 5,
-              "element": 388
-            },
-            {
-              "value": 5,
               "element": 389
             },
             {
               "value": 5,
               "element": 411
+            },
+            {
+              "value": 4,
+              "element": 388
             },
             {
               "value": 4,
@@ -3903,7 +3899,7 @@
           ],
           "h": [
             {
-              "value": 11,
+              "value": 12,
               "element": 362
             },
             {
@@ -3912,43 +3908,43 @@
             },
             {
               "value": 8,
-              "element": 372
-            },
-            {
-              "value": 7,
               "element": 358
             },
             {
-              "value": 7,
+              "value": 8,
               "element": 371
+            },
+            {
+              "value": 8,
+              "element": 372
             },
             {
               "value": 6,
               "element": 377
             },
             {
-              "value": 5,
+              "value": 6,
               "element": 579
+            },
+            {
+              "value": 4,
+              "element": 356
             },
             {
               "value": 4,
               "element": 366
             },
             {
-              "value": 3,
-              "element": 356
-            },
-            {
               "value": 2,
               "element": 375
             },
             {
-              "value": 1,
-              "element": 359
+              "value": 2,
+              "element": 381
             },
             {
               "value": 1,
-              "element": 381
+              "element": 359
             }
           ]
         }
@@ -4927,7 +4923,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-11T22:52:06.948Z",
+  "generated_at": "2026-10-12T02:21:50.999Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,

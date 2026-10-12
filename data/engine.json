@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:52:07.233Z",
+  "generated_at": "2026-10-12T02:21:51.291Z",
   "captaincy": [
     {
       "id": 124,
@@ -57,7 +57,7 @@
         "difficulty": 4,
         "kickoff": "2026-10-11T15:30:00Z"
       },
-      "score": 5.91,
+      "score": 5.95,
       "risk": "LOW",
       "rank": 4
     },
@@ -124,7 +124,7 @@
         ],
         "projected_edge": 0.44,
         "affordable": true,
-        "bank_after": 1,
+        "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -199,7 +199,7 @@
         ],
         "projected_edge": -2.35,
         "affordable": true,
-        "bank_after": 0.2,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -214,7 +214,22 @@
         ],
         "projected_edge": -2.98,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Hall"
+        ],
+        "projected_edge": -3.33,
+        "affordable": true,
+        "bank_after": 0,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -229,7 +244,7 @@
         ],
         "projected_edge": -3.76,
         "affordable": true,
-        "bank_after": 0.8,
+        "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -244,7 +259,7 @@
         ],
         "projected_edge": -3.84,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.8,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -259,7 +274,7 @@
         ],
         "projected_edge": -4.1,
         "affordable": true,
-        "bank_after": 0.2,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -274,7 +289,7 @@
         ],
         "projected_edge": -4.74,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.8,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Ankle injury - 75% chance of playing"
@@ -289,7 +304,7 @@
         ],
         "projected_edge": -4.97,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Leg injury - 75% chance of playing"
