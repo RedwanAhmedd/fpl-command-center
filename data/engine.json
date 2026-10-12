@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:21:51.291Z",
+  "generated_at": "2026-10-12T10:43:07.384Z",
   "captaincy": [
     {
       "id": 124,
@@ -122,7 +122,7 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": 0.44,
+        "projected_edge": 0.43,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
