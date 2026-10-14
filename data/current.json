@@ -82,7 +82,7 @@
       "xg": "1.80",
       "xa": "0.67",
       "xgi": "2.47",
-      "selected_by_percent": "35.5"
+      "selected_by_percent": "35.6"
     },
     {
       "id": 8,
@@ -182,7 +182,7 @@
       "xg": "2.02",
       "xa": "1.05",
       "xgi": "3.07",
-      "selected_by_percent": "39.6"
+      "selected_by_percent": "39.7"
     },
     {
       "id": 40,
@@ -222,7 +222,7 @@
       "xg": "4.82",
       "xa": "0.54",
       "xgi": "5.36",
-      "selected_by_percent": "75.2"
+      "selected_by_percent": "75.3"
     },
     {
       "id": 569,
@@ -302,7 +302,7 @@
       "xg": "1.93",
       "xa": "0.33",
       "xgi": "2.26",
-      "selected_by_percent": "15.1"
+      "selected_by_percent": "15.0"
     },
     {
       "id": 586,
@@ -1695,7 +1695,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-14T18:35:31.020Z",
+  "generated_at": "2026-10-14T22:16:37.732Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,

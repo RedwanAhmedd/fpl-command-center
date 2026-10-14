@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:35:31.297Z",
+  "generated_at": "2026-10-14T22:16:37.952Z",
   "captaincy": [
     {
       "id": 115,
@@ -210,21 +210,6 @@
           "De Cuyper"
         ],
         "in": [
-          "Bogle"
-        ],
-        "projected_edge": -1.84,
-        "affordable": true,
-        "bank_after": 0.6,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
           "Vuskovic"
         ],
         "projected_edge": -2.09,
@@ -270,6 +255,21 @@
           "De Cuyper"
         ],
         "in": [
+          "Justin"
+        ],
+        "projected_edge": -2.95,
+        "affordable": true,
+        "bank_after": 0.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
           "Maitland-Niles"
         ],
         "projected_edge": -3.17,
@@ -300,11 +300,11 @@
           "De Cuyper"
         ],
         "in": [
-          "Justin"
+          "Hall"
         ],
-        "projected_edge": -3.46,
+        "projected_edge": -3.33,
         "affordable": true,
-        "bank_after": 0.8,
+        "bank_after": 0,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
