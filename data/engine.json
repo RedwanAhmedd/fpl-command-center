@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:56:58.110Z",
+  "generated_at": "2026-10-15T20:19:44.856Z",
   "captaincy": [
     {
       "id": 115,
@@ -90,6 +90,21 @@
           "Calafiori"
         ],
         "in": [
+          "Hinshelwood"
+        ],
+        "projected_edge": 3.2,
+        "affordable": true,
+        "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Henderson"
         ],
         "projected_edge": 3.15,
@@ -113,21 +128,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Hinshelwood"
-        ],
-        "projected_edge": 0.76,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Ankle injury - 75% chance of playing"
       },
       {
         "transfers": 1,
