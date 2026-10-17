@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 453,
-    "overall_rank": 732886,
+    "overall_rank": 732885,
     "last_gw_points": 32,
-    "last_gw_rank": 5153537
+    "last_gw_rank": 5153533
   },
   "gameweek": {
     "id": 7,
@@ -23,14 +23,14 @@
     "current_official_event": 7
   },
   "gw_stats": {
-    "points": 0,
-    "total_points": 421,
-    "overall_rank": 647792,
-    "rank": null,
-    "rank_sort": null,
+    "points": 32,
+    "total_points": 453,
+    "overall_rank": 732885,
+    "rank": 5153537,
+    "rank_sort": 5197623,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 0,
+    "points_on_bench": 6,
     "bank": 0.2,
     "value": 101.5
   },
@@ -82,7 +82,7 @@
       "xg": "1.80",
       "xa": "0.67",
       "xgi": "2.47",
-      "selected_by_percent": "39.9"
+      "selected_by_percent": "40.0"
     },
     {
       "id": 8,
@@ -182,7 +182,7 @@
       "xg": "2.02",
       "xa": "1.05",
       "xgi": "3.07",
-      "selected_by_percent": "44.1"
+      "selected_by_percent": "44.2"
     },
     {
       "id": 40,
@@ -239,9 +239,9 @@
       "minutes": 595,
       "total_points": 18,
       "form": "2.0",
-      "xg": "3.47",
-      "xa": "0.74",
-      "xgi": "4.21",
+      "xg": "3.46",
+      "xa": "0.73",
+      "xgi": "4.19",
       "selected_by_percent": "7.2"
     },
     {
@@ -453,18 +453,18 @@
     },
     {
       "event": 7,
-      "points": 0,
-      "total_points": 421,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 647792,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 32,
+      "total_points": 453,
+      "rank": 5153537,
+      "rank_sort": 5197623,
+      "overall_rank": 732885,
+      "percentile_rank": 50,
+      "overall_rank_percentage": "7",
       "bank": 2,
       "value": 1015,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 6
     }
   ],
   "transfers": [
@@ -1456,12 +1456,12 @@
               "element": 286
             },
             {
-              "value": 10,
-              "element": 642
+              "value": 12,
+              "element": 277
             },
             {
-              "value": 8,
-              "element": 277
+              "value": 10,
+              "element": 642
             },
             {
               "value": 7,
@@ -1534,7 +1534,7 @@
               "element": 257
             },
             {
-              "value": 24,
+              "value": 22,
               "element": 650
             },
             {
@@ -3511,7 +3511,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-17T19:21:53.597Z",
+  "generated_at": "2026-10-17T22:16:10.516Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,

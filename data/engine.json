@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:21:53.861Z",
+  "generated_at": "2026-10-17T22:16:10.740Z",
   "captaincy": [
     {
       "id": 411,
@@ -105,21 +105,6 @@
           "Calafiori"
         ],
         "in": [
-          "Manzambi"
-        ],
-        "projected_edge": 2.64,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
           "Henderson"
         ],
         "projected_edge": 1.92,
@@ -165,9 +150,24 @@
           "Calafiori"
         ],
         "in": [
+          "Manzambi"
+        ],
+        "projected_edge": 0.52,
+        "affordable": true,
+        "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Calf injury - 75% chance of playing"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Iwobi"
         ],
-        "projected_edge": 0.27,
+        "projected_edge": 0.26,
         "affordable": true,
         "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
@@ -197,7 +197,7 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": -0.19,
+        "projected_edge": -0.2,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
