@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:07:47.101Z",
+  "generated_at": "2026-10-17T19:21:53.861Z",
   "captaincy": [
     {
       "id": 411,
@@ -105,6 +105,21 @@
           "Calafiori"
         ],
         "in": [
+          "Manzambi"
+        ],
+        "projected_edge": 2.64,
+        "affordable": true,
+        "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Henderson"
         ],
         "projected_edge": 1.92,
@@ -125,21 +140,6 @@
         "projected_edge": 0.84,
         "affordable": true,
         "bank_after": 0.3,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Manzambi"
-        ],
-        "projected_edge": 0.74,
-        "affordable": true,
-        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -180,11 +180,11 @@
           "Calafiori"
         ],
         "in": [
-          "McGinn"
+          "Buendía"
         ],
-        "projected_edge": -0.18,
+        "projected_edge": -0.14,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -225,11 +225,11 @@
           "Calafiori"
         ],
         "in": [
-          "Lewis-Potter"
+          "McGinn"
         ],
-        "projected_edge": -0.4,
+        "projected_edge": -0.3,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -240,11 +240,11 @@
           "Calafiori"
         ],
         "in": [
-          "Buendía"
+          "Lewis-Potter"
         ],
-        "projected_edge": -0.52,
+        "projected_edge": -0.4,
         "affordable": true,
-        "bank_after": 0.2,
+        "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -285,21 +285,6 @@
           "De Cuyper"
         ],
         "in": [
-          "Bogle"
-        ],
-        "projected_edge": -2.31,
-        "affordable": true,
-        "bank_after": 0.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
           "Dasilva"
         ],
         "projected_edge": -2.32,
@@ -315,11 +300,11 @@
           "De Cuyper"
         ],
         "in": [
-          "Justin"
+          "Hall"
         ],
         "projected_edge": -2.61,
         "affordable": true,
-        "bank_after": 0.9,
+        "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -330,11 +315,11 @@
           "De Cuyper"
         ],
         "in": [
-          "Hall"
+          "Justin"
         ],
-        "projected_edge": -2.62,
+        "projected_edge": -2.61,
         "affordable": true,
-        "bank_after": 0.1,
+        "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -383,6 +368,21 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Schuster"
+        ],
+        "projected_edge": -3.92,
+        "affordable": true,
+        "bank_after": 0.9,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Ankle injury - 75% chance of playing"
       }
     ],
     "two_transfer": {
