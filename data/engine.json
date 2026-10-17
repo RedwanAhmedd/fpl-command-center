@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-10-17T10:38:27.900Z",
+  "generated_at": "2026-10-17T14:11:50.956Z",
   "captaincy": [
-    {
-      "id": 115,
-      "name": "De Cuyper",
-      "status": "a",
-      "next_fixture": {
-        "gw": 7,
-        "opponent": "CRY",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-18T13:00:00Z"
-      },
-      "score": 9.25,
-      "risk": "LOW",
-      "rank": 1
-    },
     {
       "id": 124,
       "name": "Groß",
@@ -27,7 +12,22 @@
         "difficulty": 2,
         "kickoff": "2026-10-18T13:00:00Z"
       },
-      "score": 9.22,
+      "score": 8.08,
+      "risk": "LOW",
+      "rank": 1
+    },
+    {
+      "id": 115,
+      "name": "De Cuyper",
+      "status": "a",
+      "next_fixture": {
+        "gw": 7,
+        "opponent": "CRY",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-10-18T13:00:00Z"
+      },
+      "score": 8.04,
       "risk": "LOW",
       "rank": 2
     },
@@ -42,7 +42,7 @@
         "difficulty": 2,
         "kickoff": "2026-10-17T14:00:00Z"
       },
-      "score": 7.62,
+      "score": 6.51,
       "risk": "LOW",
       "rank": 3
     },
@@ -57,22 +57,22 @@
         "difficulty": 3,
         "kickoff": "2026-10-17T11:30:00Z"
       },
-      "score": 6.91,
+      "score": 5.98,
       "risk": "LOW",
       "rank": 4
     },
     {
-      "id": 109,
-      "name": "Verbruggen",
+      "id": 391,
+      "name": "Gvardiol",
       "status": "a",
       "next_fixture": {
         "gw": 7,
-        "opponent": "CRY",
+        "opponent": "IPS",
         "venue": "H",
         "difficulty": 2,
-        "kickoff": "2026-10-18T13:00:00Z"
+        "kickoff": "2026-10-17T14:00:00Z"
       },
-      "score": 5.68,
+      "score": 5.1,
       "risk": "LOW",
       "rank": 5
     }
@@ -92,7 +92,7 @@
         "in": [
           "Hinshelwood"
         ],
-        "projected_edge": 3.2,
+        "projected_edge": 3.7,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -107,7 +107,7 @@
         "in": [
           "Henderson"
         ],
-        "projected_edge": 3.15,
+        "projected_edge": 1.92,
         "affordable": true,
         "bank_after": 1.2,
         "hit_cost": "UNKNOWN",
@@ -122,7 +122,7 @@
         "in": [
           "Manzambi"
         ],
-        "projected_edge": 1.23,
+        "projected_edge": 0.82,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -137,7 +137,7 @@
         "in": [
           "Brobbey"
         ],
-        "projected_edge": 0.87,
+        "projected_edge": 0.4,
         "affordable": true,
         "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
@@ -152,7 +152,7 @@
         "in": [
           "Cherif"
         ],
-        "projected_edge": 0.53,
+        "projected_edge": 0.29,
         "affordable": true,
         "bank_after": 1,
         "hit_cost": "UNKNOWN",
@@ -167,7 +167,7 @@
         "in": [
           "McGinn"
         ],
-        "projected_edge": 0.14,
+        "projected_edge": -0.18,
         "affordable": true,
         "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
@@ -182,7 +182,7 @@
         "in": [
           "Buendía"
         ],
-        "projected_edge": -0.07,
+        "projected_edge": -0.38,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -197,7 +197,7 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": -0.15,
+        "projected_edge": -0.43,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -212,24 +212,9 @@
         "in": [
           "Gomez"
         ],
-        "projected_edge": -0.3,
+        "projected_edge": -0.45,
         "affordable": true,
         "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Anthony"
-        ],
-        "projected_edge": -0.85,
-        "affordable": true,
-        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -242,7 +227,7 @@
         "in": [
           "Vuskovic"
         ],
-        "projected_edge": -2.09,
+        "projected_edge": -1.85,
         "affordable": true,
         "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
@@ -255,9 +240,9 @@
           "De Cuyper"
         ],
         "in": [
-          "Dasilva"
+          "Mfuni"
         ],
-        "projected_edge": -2.31,
+        "projected_edge": -2.04,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -270,9 +255,24 @@
           "De Cuyper"
         ],
         "in": [
-          "Mfuni"
+          "Bogle"
         ],
-        "projected_edge": -2.37,
+        "projected_edge": -2.31,
+        "affordable": true,
+        "bank_after": 0.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Dasilva"
+        ],
+        "projected_edge": -2.32,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -287,7 +287,7 @@
         "in": [
           "Justin"
         ],
-        "projected_edge": -2.95,
+        "projected_edge": -2.61,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -300,9 +300,9 @@
           "De Cuyper"
         ],
         "in": [
-          "Maitland-Niles"
+          "Hadjam"
         ],
-        "projected_edge": -3.17,
+        "projected_edge": -2.71,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -317,7 +317,7 @@
         "in": [
           "Thomas"
         ],
-        "projected_edge": -3.2,
+        "projected_edge": -2.86,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -332,7 +332,7 @@
         "in": [
           "Hall"
         ],
-        "projected_edge": -3.33,
+        "projected_edge": -2.93,
         "affordable": true,
         "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
@@ -345,24 +345,9 @@
           "De Cuyper"
         ],
         "in": [
-          "F.Kadıoğlu"
+          "Maitland-Niles"
         ],
-        "projected_edge": -3.62,
-        "affordable": true,
-        "bank_after": 1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Ajer"
-        ],
-        "projected_edge": -3.79,
+        "projected_edge": -3.08,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
@@ -375,9 +360,24 @@
           "De Cuyper"
         ],
         "in": [
+          "F.Kadıoğlu"
+        ],
+        "projected_edge": -3.26,
+        "affordable": true,
+        "bank_after": 1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
           "Schuster"
         ],
-        "projected_edge": -4.45,
+        "projected_edge": -3.92,
         "affordable": true,
         "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
