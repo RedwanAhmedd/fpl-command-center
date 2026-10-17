@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T05:34:17.391Z",
+  "generated_at": "2026-10-17T10:38:27.900Z",
   "captaincy": [
     {
       "id": 115,
@@ -125,6 +125,36 @@
         "projected_edge": 1.23,
         "affordable": true,
         "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Brobbey"
+        ],
+        "projected_edge": 0.87,
+        "affordable": true,
+        "bank_after": 0.3,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Cherif"
+        ],
+        "projected_edge": 0.53,
+        "affordable": true,
+        "bank_after": 1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
