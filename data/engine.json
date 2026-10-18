@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:16:10.740Z",
+  "generated_at": "2026-10-18T00:03:55.177Z",
   "captaincy": [
     {
       "id": 411,
@@ -94,7 +94,7 @@
         ],
         "projected_edge": 3.7,
         "affordable": true,
-        "bank_after": 0.2,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -109,7 +109,7 @@
         ],
         "projected_edge": 1.92,
         "affordable": true,
-        "bank_after": 1.2,
+        "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -152,7 +152,7 @@
         "in": [
           "Manzambi"
         ],
-        "projected_edge": 0.52,
+        "projected_edge": 0.54,
         "affordable": true,
         "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
@@ -169,7 +169,7 @@
         ],
         "projected_edge": 0.26,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.8,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -184,7 +184,7 @@
         ],
         "projected_edge": -0.14,
         "affordable": true,
-        "bank_after": 0.2,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -199,7 +199,7 @@
         ],
         "projected_edge": -0.2,
         "affordable": true,
-        "bank_after": 0.9,
+        "bank_after": 1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -229,7 +229,7 @@
         ],
         "projected_edge": -0.3,
         "affordable": true,
-        "bank_after": 0.7,
+        "bank_after": 0.8,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -244,7 +244,7 @@
         ],
         "projected_edge": -0.4,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
