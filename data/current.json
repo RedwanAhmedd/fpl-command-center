@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 487,
-    "overall_rank": 669255,
+    "overall_rank": 670608,
     "last_gw_points": 66,
-    "last_gw_rank": 2528159
+    "last_gw_rank": 2573302
   },
   "gameweek": {
     "id": 7,
@@ -100,8 +100,8 @@
       "total_points": 44,
       "form": "5.3",
       "xg": "1.22",
-      "xa": "0.80",
-      "xgi": "2.02",
+      "xa": "0.98",
+      "xgi": "2.20",
       "selected_by_percent": "53.5"
     },
     {
@@ -142,7 +142,7 @@
       "xg": "3.94",
       "xa": "0.90",
       "xgi": "4.84",
-      "selected_by_percent": "19.8"
+      "selected_by_percent": "19.9"
     },
     {
       "id": 12,
@@ -160,8 +160,8 @@
       "total_points": 37,
       "form": "2.3",
       "xg": "3.63",
-      "xa": "1.19",
-      "xgi": "4.82",
+      "xa": "1.20",
+      "xgi": "4.83",
       "selected_by_percent": "16.9"
     },
     {
@@ -3660,11 +3660,11 @@
             },
             {
               "value": 3,
-              "element": 31
+              "element": 13
             },
             {
-              "value": 1,
-              "element": 13
+              "value": 3,
+              "element": 31
             }
           ],
           "h": []
@@ -3678,18 +3678,18 @@
             },
             {
               "value": 29,
-              "element": 31
+              "element": 13
             },
             {
-              "value": 28,
-              "element": 13
+              "value": 29,
+              "element": 31
             },
             {
               "value": 27,
               "element": 4
             },
             {
-              "value": 24,
+              "value": 23,
               "element": 8
             },
             {
@@ -3714,15 +3714,15 @@
             },
             {
               "value": 5,
+              "element": 14
+            },
+            {
+              "value": 5,
               "element": 17
             },
             {
               "value": 4,
               "element": 5
-            },
-            {
-              "value": 4,
-              "element": 14
             },
             {
               "value": 3,
@@ -3735,7 +3735,7 @@
           ],
           "h": [
             {
-              "value": 20,
+              "value": 16,
               "element": 558
             },
             {
@@ -3743,16 +3743,16 @@
               "element": 472
             },
             {
-              "value": 12,
-              "element": 487
+              "value": 10,
+              "element": 167
             },
             {
               "value": 10,
               "element": 486
             },
             {
-              "value": 9,
-              "element": 167
+              "value": 8,
+              "element": 487
             },
             {
               "value": 8,
@@ -3763,12 +3763,12 @@
               "element": 469
             },
             {
-              "value": 4,
-              "element": 467
+              "value": 5,
+              "element": 474
             },
             {
               "value": 4,
-              "element": 474
+              "element": 467
             },
             {
               "value": 4,
@@ -3808,7 +3808,7 @@
               "element": 452
             },
             {
-              "value": 8,
+              "value": 9,
               "element": 13
             },
             {
@@ -3820,12 +3820,12 @@
               "element": 31
             },
             {
-              "value": 3,
-              "element": 8
+              "value": 2,
+              "element": 5
             },
             {
               "value": 2,
-              "element": 5
+              "element": 8
             },
             {
               "value": 2,
@@ -3850,7 +3850,7 @@
           ],
           "h": [
             {
-              "value": 13,
+              "value": 14,
               "element": 558
             },
             {
@@ -4878,7 +4878,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-18T23:08:43.973Z",
+  "generated_at": "2026-10-19T01:13:14.797Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
