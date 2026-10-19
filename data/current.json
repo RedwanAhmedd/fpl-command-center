@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 487,
-    "overall_rank": 670608,
+    "overall_rank": 670609,
     "last_gw_points": 66,
-    "last_gw_rank": 2573301
+    "last_gw_rank": 2573299
   },
   "gameweek": {
     "id": 7,
@@ -82,7 +82,7 @@
       "xg": "1.80",
       "xa": "0.80",
       "xgi": "2.60",
-      "selected_by_percent": "40.5"
+      "selected_by_percent": "40.6"
     },
     {
       "id": 8,
@@ -102,7 +102,7 @@
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "53.5"
+      "selected_by_percent": "53.6"
     },
     {
       "id": 391,
@@ -142,7 +142,7 @@
       "xg": "3.96",
       "xa": "0.90",
       "xgi": "4.86",
-      "selected_by_percent": "19.9"
+      "selected_by_percent": "20.0"
     },
     {
       "id": 12,
@@ -182,7 +182,7 @@
       "xg": "2.16",
       "xa": "1.16",
       "xgi": "3.32",
-      "selected_by_percent": "44.8"
+      "selected_by_percent": "45.0"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "2.07",
       "xa": "1.36",
       "xgi": "3.43",
-      "selected_by_percent": "47.6"
+      "selected_by_percent": "47.7"
     },
     {
       "id": 411,
@@ -214,15 +214,15 @@
       "captain": true,
       "vice_captain": false,
       "price": 15.7,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Unspecified injury - 75% chance of playing",
       "minutes": 619,
       "total_points": 58,
       "form": "8.3",
       "xg": "5.67",
       "xa": "0.91",
       "xgi": "6.58",
-      "selected_by_percent": "76.7"
+      "selected_by_percent": "76.8"
     },
     {
       "id": 569,
@@ -342,7 +342,7 @@
       "xg": "1.93",
       "xa": "0.34",
       "xgi": "2.27",
-      "selected_by_percent": "13.8"
+      "selected_by_percent": "13.9"
     }
   ],
   "bank": 0.2,
@@ -4878,7 +4878,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-19T06:11:46.481Z",
+  "generated_at": "2026-10-19T13:06:52.432Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,

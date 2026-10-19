@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-10-19T06:11:46.784Z",
+  "generated_at": "2026-10-19T13:06:52.761Z",
   "captaincy": [
-    {
-      "id": 411,
-      "name": "Haaland",
-      "status": "a",
-      "next_fixture": {
-        "gw": 7,
-        "opponent": "IPS",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-10-17T14:00:00Z"
-      },
-      "score": 9.15,
-      "risk": "LOW",
-      "rank": 1
-    },
     {
       "id": 115,
       "name": "De Cuyper",
@@ -29,7 +14,7 @@
       },
       "score": 8.53,
       "risk": "LOW",
-      "rank": 2
+      "rank": 1
     },
     {
       "id": 124,
@@ -44,7 +29,7 @@
       },
       "score": 8.4,
       "risk": "LOW",
-      "rank": 3
+      "rank": 2
     },
     {
       "id": 165,
@@ -59,6 +44,21 @@
       },
       "score": 6.67,
       "risk": "LOW",
+      "rank": 3
+    },
+    {
+      "id": 411,
+      "name": "Haaland",
+      "status": "d",
+      "next_fixture": {
+        "gw": 7,
+        "opponent": "IPS",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-10-17T14:00:00Z"
+      },
+      "score": 6.4,
+      "risk": "HIGH",
       "rank": 4
     },
     {
@@ -135,21 +135,6 @@
           "Gvardiol"
         ],
         "in": [
-          "Brobbey"
-        ],
-        "projected_edge": 0.84,
-        "affordable": true,
-        "bank_after": 0.3,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
           "Cherif"
         ],
         "projected_edge": 0.73,
@@ -195,21 +180,6 @@
           "Calafiori"
         ],
         "in": [
-          "Manzambi"
-        ],
-        "projected_edge": -0.11,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Calf injury - 75% chance of playing"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
           "Iwobi"
         ],
         "projected_edge": -0.39,
@@ -240,14 +210,29 @@
           "Calafiori"
         ],
         "in": [
-          "Buendía"
+          "Manzambi"
         ],
-        "projected_edge": -0.79,
+        "projected_edge": -0.47,
+        "affordable": true,
+        "bank_after": 0.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Calf injury - 75% chance of playing"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Brobbey"
+        ],
+        "projected_edge": -0.62,
         "affordable": true,
         "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
-        "failure_mode": "projection/role regression"
+        "failure_mode": "Hamstring injury - 75% chance of playing"
       },
       {
         "transfers": 1,
@@ -350,6 +335,21 @@
         "projected_edge": -3.03,
         "affordable": true,
         "bank_after": 0.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Justin"
+        ],
+        "projected_edge": -3.03,
+        "affordable": true,
+        "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
