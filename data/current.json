@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 487,
-    "overall_rank": 697465,
+    "overall_rank": 748441,
     "last_gw_points": 66,
-    "last_gw_rank": 2806925
+    "last_gw_rank": 3470171
   },
   "gameweek": {
     "id": 7,
@@ -25,9 +25,9 @@
   "gw_stats": {
     "points": 66,
     "total_points": 487,
-    "overall_rank": 697465,
-    "rank": 2806925,
-    "rank_sort": 2821999,
+    "overall_rank": 748441,
+    "rank": 3470174,
+    "rank_sort": 3486937,
     "event_transfers": 0,
     "event_transfers_cost": 0,
     "points_on_bench": 6,
@@ -102,7 +102,7 @@
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "53.7"
+      "selected_by_percent": "53.8"
     },
     {
       "id": 391,
@@ -118,11 +118,11 @@
       "news": "",
       "minutes": 487,
       "total_points": 41,
-      "form": "2.7",
+      "form": "2.0",
       "xg": "0.32",
       "xa": "0.88",
       "xgi": "1.20",
-      "selected_by_percent": "28.4"
+      "selected_by_percent": "28.3"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "3.96",
       "xa": "0.90",
       "xgi": "4.86",
-      "selected_by_percent": "20.2"
+      "selected_by_percent": "20.3"
     },
     {
       "id": 12,
@@ -182,7 +182,7 @@
       "xg": "2.16",
       "xa": "1.16",
       "xgi": "3.32",
-      "selected_by_percent": "45.2"
+      "selected_by_percent": "45.3"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "2.07",
       "xa": "1.36",
       "xgi": "3.43",
-      "selected_by_percent": "47.9"
+      "selected_by_percent": "48.0"
     },
     {
       "id": 411,
@@ -218,11 +218,11 @@
       "news": "Unspecified injury - 75% chance of playing",
       "minutes": 619,
       "total_points": 58,
-      "form": "8.3",
+      "form": "9.5",
       "xg": "5.69",
       "xa": "0.77",
       "xgi": "6.46",
-      "selected_by_percent": "76.8"
+      "selected_by_percent": "76.7"
     },
     {
       "id": 569,
@@ -262,7 +262,7 @@
       "xg": "3.05",
       "xa": "0.31",
       "xgi": "3.36",
-      "selected_by_percent": "72.7"
+      "selected_by_percent": "72.8"
     },
     {
       "id": 58,
@@ -342,7 +342,7 @@
       "xg": "1.93",
       "xa": "0.34",
       "xgi": "2.27",
-      "selected_by_percent": "13.9"
+      "selected_by_percent": "14.0"
     }
   ],
   "bank": 0.2,
@@ -455,11 +455,11 @@
       "event": 7,
       "points": 66,
       "total_points": 487,
-      "rank": 2806925,
-      "rank_sort": 2821999,
-      "overall_rank": 697465,
-      "percentile_rank": 30,
-      "overall_rank_percentage": "6",
+      "rank": 3470174,
+      "rank_sort": 3486937,
+      "overall_rank": 748441,
+      "percentile_rank": 35,
+      "overall_rank_percentage": "7",
       "bank": 2,
       "value": 1015,
       "event_transfers": 0,
@@ -1710,7 +1710,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-20T10:00:49.829Z",
+  "generated_at": "2026-10-20T15:02:23.732Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
