@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-20T15:02:23.994Z",
+  "generated_at": "2026-10-20T19:13:06.816Z",
   "captaincy": [
+    {
+      "id": 411,
+      "name": "Haaland",
+      "status": "a",
+      "next_fixture": {
+        "gw": 8,
+        "opponent": "AVL",
+        "venue": "A",
+        "difficulty": 3,
+        "kickoff": "2026-10-24T11:30:00Z"
+      },
+      "score": 8.29,
+      "risk": "LOW",
+      "rank": 1
+    },
     {
       "id": 165,
       "name": "João Pedro",
@@ -14,7 +29,7 @@
       },
       "score": 7.67,
       "risk": "LOW",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": 115,
@@ -29,7 +44,22 @@
       },
       "score": 6.77,
       "risk": "LOW",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "status": "a",
+      "next_fixture": {
+        "gw": 8,
+        "opponent": "BOU",
+        "venue": "H",
+        "difficulty": 3,
+        "kickoff": "2026-10-25T14:00:00Z"
+      },
+      "score": 6.32,
+      "risk": "LOW",
+      "rank": 4
     },
     {
       "id": 40,
@@ -44,36 +74,6 @@
       },
       "score": 5.96,
       "risk": "LOW",
-      "rank": 3
-    },
-    {
-      "id": 8,
-      "name": "Calafiori",
-      "status": "a",
-      "next_fixture": {
-        "gw": 8,
-        "opponent": "EVE",
-        "venue": "H",
-        "difficulty": 3,
-        "kickoff": "2026-10-24T14:00:00Z"
-      },
-      "score": 5.84,
-      "risk": "LOW",
-      "rank": 4
-    },
-    {
-      "id": 411,
-      "name": "Haaland",
-      "status": "d",
-      "next_fixture": {
-        "gw": 8,
-        "opponent": "AVL",
-        "venue": "A",
-        "difficulty": 3,
-        "kickoff": "2026-10-24T11:30:00Z"
-      },
-      "score": 5.8,
-      "risk": "HIGH",
       "rank": 5
     }
   ],
@@ -195,6 +195,21 @@
           "Calafiori"
         ],
         "in": [
+          "Iwobi"
+        ],
+        "projected_edge": -0.91,
+        "affordable": true,
+        "bank_after": 0.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Gomez"
         ],
         "projected_edge": -0.96,
@@ -248,21 +263,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "Calf injury - 75% chance of playing"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Iwobi"
-        ],
-        "projected_edge": -1.15,
-        "affordable": true,
-        "bank_after": 0.8,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
       },
       {
         "transfers": 1,
