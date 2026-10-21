@@ -182,7 +182,7 @@
       "xg": "2.16",
       "xa": "1.16",
       "xgi": "3.32",
-      "selected_by_percent": "45.3"
+      "selected_by_percent": "45.4"
     },
     {
       "id": 40,
@@ -1710,7 +1710,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-21T00:38:58.255Z",
+  "generated_at": "2026-10-21T06:00:04.370Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
