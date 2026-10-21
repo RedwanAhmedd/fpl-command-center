@@ -11,7 +11,7 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 487,
-    "overall_rank": 748436,
+    "overall_rank": 748435,
     "last_gw_points": 66,
     "last_gw_rank": 3470146
   },
@@ -82,7 +82,7 @@
       "xg": "1.80",
       "xa": "0.80",
       "xgi": "2.60",
-      "selected_by_percent": "41.1"
+      "selected_by_percent": "41.2"
     },
     {
       "id": 8,
@@ -154,15 +154,15 @@
       "captain": false,
       "vice_captain": true,
       "price": 9.6,
-      "status": "a",
-      "news": "",
+      "status": "d",
+      "news": "Thigh injury - 75% chance of playing",
       "minutes": 596,
       "total_points": 37,
       "form": "2.5",
       "xg": "3.63",
       "xa": "1.20",
       "xgi": "4.83",
-      "selected_by_percent": "16.7"
+      "selected_by_percent": "16.6"
     },
     {
       "id": 124,
@@ -182,7 +182,7 @@
       "xg": "2.16",
       "xa": "1.16",
       "xgi": "3.32",
-      "selected_by_percent": "45.4"
+      "selected_by_percent": "45.5"
     },
     {
       "id": 40,
@@ -1710,7 +1710,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-21T17:08:26.115Z",
+  "generated_at": "2026-10-21T20:36:57.944Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
