@@ -122,7 +122,7 @@
       "xg": "0.32",
       "xa": "0.88",
       "xgi": "1.20",
-      "selected_by_percent": "28.2"
+      "selected_by_percent": "28.1"
     },
     {
       "id": 427,
@@ -162,7 +162,7 @@
       "xg": "3.63",
       "xa": "1.20",
       "xgi": "4.83",
-      "selected_by_percent": "16.3"
+      "selected_by_percent": "16.1"
     },
     {
       "id": 124,
@@ -202,7 +202,7 @@
       "xg": "2.07",
       "xa": "1.36",
       "xgi": "3.43",
-      "selected_by_percent": "48.2"
+      "selected_by_percent": "48.3"
     },
     {
       "id": 411,
@@ -1710,7 +1710,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-22T04:38:58.189Z",
+  "generated_at": "2026-10-22T10:08:28.895Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
