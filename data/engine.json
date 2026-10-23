@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:17:48.282Z",
+  "generated_at": "2026-10-23T22:07:00.132Z",
   "captaincy": [
     {
       "id": 411,
@@ -200,6 +200,21 @@
         "projected_edge": 0.29,
         "affordable": true,
         "bank_after": 0.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "O'Shea"
+        ],
+        "projected_edge": 0.03,
+        "affordable": true,
+        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
