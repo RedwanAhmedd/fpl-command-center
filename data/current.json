@@ -11,7 +11,7 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 487,
-    "overall_rank": 723263,
+    "overall_rank": 775523,
     "last_gw_points": 0,
     "last_gw_rank": 8199978
   },
@@ -25,9 +25,9 @@
   "gw_stats": {
     "points": 0,
     "total_points": 487,
-    "overall_rank": 748441,
-    "rank": null,
-    "rank_sort": null,
+    "overall_rank": 775520,
+    "rank": 8199913,
+    "rank_sort": 8459147,
     "event_transfers": 1,
     "event_transfers_cost": 0,
     "points_on_bench": 0,
@@ -302,7 +302,7 @@
       "xg": "2.16",
       "xa": "1.16",
       "xgi": "3.32",
-      "selected_by_percent": "46.3"
+      "selected_by_percent": "46.4"
     },
     {
       "id": 115,
@@ -470,11 +470,11 @@
       "event": 8,
       "points": 0,
       "total_points": 487,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 748441,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "rank": 8199913,
+      "rank_sort": 8459147,
+      "overall_rank": 775520,
+      "percentile_rank": 75,
+      "overall_rank_percentage": "7",
       "bank": 0,
       "value": 1021,
       "event_transfers": 1,
@@ -2063,7 +2063,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-23T22:06:59.894Z",
+  "generated_at": "2026-10-24T00:38:46.430Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
