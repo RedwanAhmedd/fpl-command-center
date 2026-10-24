@@ -11,7 +11,7 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 487,
-    "overall_rank": 775523,
+    "overall_rank": 775528,
     "last_gw_points": 0,
     "last_gw_rank": 8199978
   },
@@ -142,7 +142,7 @@
       "xg": "3.96",
       "xa": "0.90",
       "xgi": "4.86",
-      "selected_by_percent": "21.8"
+      "selected_by_percent": "21.9"
     },
     {
       "id": 154,
@@ -718,7 +718,7 @@
               "element": 469
             },
             {
-              "value": 19,
+              "value": 17,
               "element": 558
             },
             {
@@ -734,16 +734,20 @@
               "element": 474
             },
             {
-              "value": 8,
-              "element": 483
-            },
-            {
               "value": 7,
               "element": 471
             },
             {
-              "value": 5,
+              "value": 6,
               "element": 472
+            },
+            {
+              "value": 5,
+              "element": 482
+            },
+            {
+              "value": 5,
+              "element": 483
             },
             {
               "value": 3,
@@ -754,17 +758,13 @@
               "element": 478
             },
             {
-              "value": 2,
-              "element": 482
-            },
-            {
               "value": 1,
               "element": 167
             }
           ],
           "h": [
             {
-              "value": 35,
+              "value": 39,
               "element": 591
             },
             {
@@ -784,24 +784,24 @@
               "element": 300
             },
             {
-              "value": 9,
-              "element": 592
+              "value": 11,
+              "element": 318
             },
             {
-              "value": 8,
-              "element": 316
+              "value": 11,
+              "element": 592
             },
             {
               "value": 7,
               "element": 304
             },
             {
-              "value": 7,
-              "element": 318
+              "value": 5,
+              "element": 259
             },
             {
               "value": 5,
-              "element": 259
+              "element": 316
             },
             {
               "value": 5,
@@ -883,12 +883,16 @@
               "element": 619
             },
             {
-              "value": 11,
+              "value": 12,
               "element": 571
             },
             {
-              "value": 7,
+              "value": 8,
               "element": 304
+            },
+            {
+              "value": 7,
+              "element": 592
             },
             {
               "value": 6,
@@ -899,8 +903,12 @@
               "element": 305
             },
             {
-              "value": 6,
-              "element": 592
+              "value": 5,
+              "element": 591
+            },
+            {
+              "value": 4,
+              "element": 640
             },
             {
               "value": 3,
@@ -909,14 +917,6 @@
             {
               "value": 3,
               "element": 318
-            },
-            {
-              "value": 3,
-              "element": 591
-            },
-            {
-              "value": 3,
-              "element": 640
             },
             {
               "value": 2,
@@ -2063,7 +2063,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-24T00:38:46.430Z",
+  "generated_at": "2026-10-24T05:48:11.724Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
