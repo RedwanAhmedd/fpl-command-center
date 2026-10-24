@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:48:11.932Z",
+  "generated_at": "2026-10-24T10:53:42.608Z",
   "captaincy": [
     {
       "id": 411,
@@ -162,6 +162,21 @@
       {
         "transfers": 1,
         "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Manzambi"
+        ],
+        "projected_edge": 0.78,
+        "affordable": true,
+        "bank_after": 0,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
           "Gvardiol"
         ],
         "in": [
@@ -263,21 +278,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Manzambi"
-        ],
-        "projected_edge": -0.95,
-        "affordable": true,
-        "bank_after": 0,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Calf injury - 75% chance of playing"
       },
       {
         "transfers": 1,
