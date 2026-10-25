@@ -13,7 +13,7 @@
     "overall_points": 519,
     "overall_rank": 1135521,
     "last_gw_points": 32,
-    "last_gw_rank": 8445137
+    "last_gw_rank": 8445119
   },
   "gameweek": {
     "id": 8,
@@ -102,7 +102,7 @@
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "53.6"
+      "selected_by_percent": "53.4"
     },
     {
       "id": 391,
@@ -122,7 +122,7 @@
       "xg": "0.77",
       "xa": "0.92",
       "xgi": "1.69",
-      "selected_by_percent": "27.3"
+      "selected_by_percent": "27.2"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "4.22",
       "xa": "0.94",
       "xgi": "5.16",
-      "selected_by_percent": "21.9"
+      "selected_by_percent": "21.8"
     },
     {
       "id": 154,
@@ -162,7 +162,7 @@
       "xg": "1.50",
       "xa": "1.09",
       "xgi": "2.59",
-      "selected_by_percent": "27.9"
+      "selected_by_percent": "27.8"
     },
     {
       "id": 94,
@@ -202,7 +202,7 @@
       "xg": "2.13",
       "xa": "1.39",
       "xgi": "3.52",
-      "selected_by_percent": "49.9"
+      "selected_by_percent": "50.0"
     },
     {
       "id": 411,
@@ -242,7 +242,7 @@
       "xg": "3.61",
       "xa": "0.74",
       "xgi": "4.35",
-      "selected_by_percent": "6.0"
+      "selected_by_percent": "5.9"
     },
     {
       "id": 165,
@@ -262,7 +262,7 @@
       "xg": "3.05",
       "xa": "0.31",
       "xgi": "3.36",
-      "selected_by_percent": "72.3"
+      "selected_by_percent": "72.1"
     },
     {
       "id": 58,
@@ -3598,7 +3598,7 @@
               "element": 61
             },
             {
-              "value": 31,
+              "value": 33,
               "element": 79
             },
             {
@@ -3626,12 +3626,12 @@
               "element": 71
             },
             {
-              "value": 12,
-              "element": 75
+              "value": 11,
+              "element": 73
             },
             {
               "value": 10,
-              "element": 73
+              "element": 75
             },
             {
               "value": 6,
@@ -3661,19 +3661,19 @@
             },
             {
               "value": 15,
+              "element": 428
+            },
+            {
+              "value": 15,
               "element": 431
             },
             {
-              "value": 13,
+              "value": 14,
               "element": 131
             },
             {
-              "value": 12,
+              "value": 14,
               "element": 427
-            },
-            {
-              "value": 11,
-              "element": 428
             },
             {
               "value": 5,
@@ -3717,7 +3717,7 @@
               "element": 67
             },
             {
-              "value": 12,
+              "value": 13,
               "element": 73
             },
             {
@@ -3729,7 +3729,7 @@
               "element": 566
             },
             {
-              "value": 8,
+              "value": 9,
               "element": 79
             },
             {
@@ -3772,11 +3772,11 @@
             },
             {
               "value": 9,
-              "element": 430
+              "element": 131
             },
             {
-              "value": 8,
-              "element": 131
+              "value": 9,
+              "element": 430
             },
             {
               "value": 8,
@@ -3787,12 +3787,12 @@
               "element": 417
             },
             {
-              "value": 6,
-              "element": 420
+              "value": 5,
+              "element": 418
             },
             {
               "value": 5,
-              "element": 418
+              "element": 420
             },
             {
               "value": 5,
@@ -3800,11 +3800,11 @@
             },
             {
               "value": 4,
-              "element": 431
+              "element": 419
             },
             {
-              "value": 3,
-              "element": 419
+              "value": 4,
+              "element": 431
             },
             {
               "value": 3,
@@ -3947,7 +3947,7 @@
               "element": 332
             },
             {
-              "value": 22,
+              "value": 21,
               "element": 330
             },
             {
@@ -3955,7 +3955,7 @@
               "element": 331
             },
             {
-              "value": 17,
+              "value": 15,
               "element": 345
             },
             {
@@ -4005,16 +4005,16 @@
               "element": 534
             },
             {
-              "value": 18,
+              "value": 20,
               "element": 536
-            },
-            {
-              "value": 18,
-              "element": 551
             },
             {
               "value": 17,
               "element": 544
+            },
+            {
+              "value": 17,
+              "element": 551
             },
             {
               "value": 14,
@@ -4022,11 +4022,11 @@
             },
             {
               "value": 12,
-              "element": 548
+              "element": 545
             },
             {
-              "value": 10,
-              "element": 545
+              "value": 12,
+              "element": 548
             },
             {
               "value": 6,
@@ -4062,7 +4062,7 @@
               "element": 327
             },
             {
-              "value": 12,
+              "value": 13,
               "element": 334
             },
             {
@@ -4108,7 +4108,7 @@
           ],
           "h": [
             {
-              "value": 19,
+              "value": 17,
               "element": 539
             },
             {
@@ -5121,7 +5121,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-25T19:01:22.169Z",
+  "generated_at": "2026-10-25T21:44:59.709Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
