@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:20:50.823Z",
+  "generated_at": "2026-10-25T16:12:19.337Z",
   "captaincy": [
     {
       "id": 411,
@@ -27,7 +27,7 @@
         "difficulty": 3,
         "kickoff": "2026-10-25T14:00:00Z"
       },
-      "score": 5.51,
+      "score": 5.53,
       "risk": "LOW",
       "rank": 2
     },
@@ -90,21 +90,6 @@
           "Calafiori"
         ],
         "in": [
-          "Hinshelwood"
-        ],
-        "projected_edge": 2.97,
-        "affordable": true,
-        "bank_after": 0.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
           "Henderson"
         ],
         "projected_edge": 2.45,
@@ -135,11 +120,11 @@
           "Calafiori"
         ],
         "in": [
-          "Iwobi"
+          "Hinshelwood"
         ],
-        "projected_edge": 1.06,
+        "projected_edge": 1.48,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -152,7 +137,7 @@
         "in": [
           "Kostoulas"
         ],
-        "projected_edge": 1.05,
+        "projected_edge": 1.1,
         "affordable": true,
         "bank_after": 0,
         "hit_cost": "UNKNOWN",
@@ -165,9 +150,24 @@
           "Calafiori"
         ],
         "in": [
+          "Iwobi"
+        ],
+        "projected_edge": 1.06,
+        "affordable": true,
+        "bank_after": 0.6,
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Ayari"
         ],
-        "projected_edge": 0.95,
+        "projected_edge": 0.97,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
@@ -195,9 +195,24 @@
           "Calafiori"
         ],
         "in": [
+          "Belloumi"
+        ],
+        "projected_edge": 0.89,
+        "affordable": true,
+        "bank_after": 0.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Gomez"
         ],
-        "projected_edge": 0.81,
+        "projected_edge": 0.87,
         "affordable": true,
         "bank_after": 1,
         "hit_cost": "UNKNOWN",
@@ -255,21 +270,6 @@
           "Affengruber"
         ],
         "in": [
-          "Boscagli"
-        ],
-        "projected_edge": -0.2,
-        "affordable": true,
-        "bank_after": 0,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Affengruber"
-        ],
-        "in": [
           "Bassey"
         ],
         "projected_edge": -0.28,
@@ -282,27 +282,12 @@
       {
         "transfers": 1,
         "out": [
-          "Affengruber"
-        ],
-        "in": [
-          "F.Kadıoğlu"
-        ],
-        "projected_edge": -0.39,
-        "affordable": true,
-        "bank_after": 0.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
           "Verbruggen"
         ],
         "in": [
           "Leno"
         ],
-        "projected_edge": -0.44,
+        "projected_edge": -0.45,
         "affordable": true,
         "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
