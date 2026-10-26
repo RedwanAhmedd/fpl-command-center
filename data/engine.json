@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T21:44:59.992Z",
+  "generated_at": "2026-10-26T00:19:16.398Z",
   "captaincy": [
     {
       "id": 411,
@@ -137,7 +137,7 @@
         "in": [
           "Kostoulas"
         ],
-        "projected_edge": 1.1,
+        "projected_edge": 1.12,
         "affordable": true,
         "bank_after": 0,
         "hit_cost": "UNKNOWN",
@@ -167,7 +167,7 @@
         "in": [
           "Ayari"
         ],
-        "projected_edge": 0.97,
+        "projected_edge": 0.98,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
@@ -197,7 +197,7 @@
         "in": [
           "Gomez"
         ],
-        "projected_edge": 0.87,
+        "projected_edge": 0.89,
         "affordable": true,
         "bank_after": 1,
         "hit_cost": "UNKNOWN",
