@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:08:29.803Z",
+  "generated_at": "2026-10-27T02:02:48.250Z",
   "captaincy": [
     {
       "id": 411,
@@ -94,7 +94,7 @@
         ],
         "projected_edge": 2.12,
         "affordable": true,
-        "bank_after": 0.9,
+        "bank_after": 0.8,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -124,7 +124,7 @@
         ],
         "projected_edge": 1.1,
         "affordable": true,
-        "bank_after": 0.4,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -139,7 +139,7 @@
         ],
         "projected_edge": 1.02,
         "affordable": true,
-        "bank_after": 0.4,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -154,7 +154,7 @@
         ],
         "projected_edge": 0.93,
         "affordable": true,
-        "bank_after": 0.8,
+        "bank_after": 0.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -169,7 +169,7 @@
         ],
         "projected_edge": 0.89,
         "affordable": true,
-        "bank_after": 0.4,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
