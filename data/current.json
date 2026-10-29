@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 519,
-    "overall_rank": 1316681,
+    "overall_rank": 1316682,
     "last_gw_points": 32,
-    "last_gw_rank": 9853028
+    "last_gw_rank": 9852971
   },
   "gameweek": {
     "id": 8,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
-      "selected_by_percent": "22.4"
+      "selected_by_percent": "22.3"
     },
     {
       "id": 650,
@@ -102,7 +102,7 @@
       "xg": "0.77",
       "xa": "0.92",
       "xgi": "1.69",
-      "selected_by_percent": "26.8"
+      "selected_by_percent": "26.7"
     },
     {
       "id": 8,
@@ -122,7 +122,7 @@
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "51.0"
+      "selected_by_percent": "50.6"
     },
     {
       "id": 94,
@@ -182,7 +182,7 @@
       "xg": "2.13",
       "xa": "1.39",
       "xgi": "3.52",
-      "selected_by_percent": "50.2"
+      "selected_by_percent": "50.3"
     },
     {
       "id": 154,
@@ -222,7 +222,7 @@
       "xg": "2.16",
       "xa": "1.51",
       "xgi": "3.67",
-      "selected_by_percent": "46.2"
+      "selected_by_percent": "46.1"
     },
     {
       "id": 411,
@@ -262,7 +262,7 @@
       "xg": "3.61",
       "xa": "0.74",
       "xgi": "4.35",
-      "selected_by_percent": "5.5"
+      "selected_by_percent": "5.4"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "3.05",
       "xa": "0.31",
       "xgi": "3.36",
-      "selected_by_percent": "62.6"
+      "selected_by_percent": "61.4"
     },
     {
       "id": 115,
@@ -334,8 +334,8 @@
       "captain": false,
       "vice_captain": false,
       "price": 4.1,
-      "status": "i",
-      "news": "Groin injury - Expected back 31 Oct",
+      "status": "a",
+      "news": "",
       "minutes": 339,
       "total_points": 28,
       "form": "1.0",
@@ -1734,7 +1734,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-29T09:53:27.863Z",
+  "generated_at": "2026-10-29T16:54:17.819Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
