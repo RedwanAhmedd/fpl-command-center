@@ -13,7 +13,7 @@
     "overall_points": 519,
     "overall_rank": 1316681,
     "last_gw_points": 32,
-    "last_gw_rank": 9852954
+    "last_gw_rank": 9852944
   },
   "gameweek": {
     "id": 8,
@@ -113,7 +113,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 6,
+      "price": 5.9,
       "status": "d",
       "news": "Hip injury - 75% chance of playing",
       "minutes": 609,
@@ -122,7 +122,7 @@
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "50.3"
+      "selected_by_percent": "50.1"
     },
     {
       "id": 94,
@@ -162,7 +162,7 @@
       "xg": "4.22",
       "xa": "0.94",
       "xgi": "5.16",
-      "selected_by_percent": "21.4"
+      "selected_by_percent": "21.3"
     },
     {
       "id": 40,
@@ -222,7 +222,7 @@
       "xg": "2.16",
       "xa": "1.51",
       "xgi": "3.67",
-      "selected_by_percent": "46.1"
+      "selected_by_percent": "46.0"
     },
     {
       "id": 411,
@@ -302,7 +302,7 @@
       "xg": "3.05",
       "xa": "0.31",
       "xgi": "3.36",
-      "selected_by_percent": "60.3"
+      "selected_by_percent": "59.7"
     },
     {
       "id": 115,
@@ -342,7 +342,7 @@
       "xg": "0.62",
       "xa": "0.00",
       "xgi": "0.62",
-      "selected_by_percent": "4.8"
+      "selected_by_percent": "4.7"
     }
   ],
   "bank": 0,
@@ -1734,7 +1734,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-29T21:47:25.551Z",
+  "generated_at": "2026-10-30T01:56:05.411Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
