@@ -10,29 +10,29 @@
   "manager": {
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
-    "overall_points": 519,
-    "overall_rank": 1316680,
-    "last_gw_points": 32,
-    "last_gw_rank": 9852868
+    "overall_points": 522,
+    "overall_rank": 1232528,
+    "last_gw_points": 3,
+    "last_gw_rank": 1298754
   },
   "gameweek": {
-    "id": 8,
-    "name": "Gameweek 8",
-    "deadline": "2026-10-23T17:30:00Z",
-    "finished": true,
-    "current_official_event": 8
+    "id": 9,
+    "name": "Gameweek 9",
+    "deadline": "2026-10-31T11:00:00Z",
+    "finished": false,
+    "current_official_event": 9
   },
   "gw_stats": {
-    "points": 32,
+    "points": 0,
     "total_points": 519,
     "overall_rank": 1316700,
-    "rank": 9853311,
-    "rank_sort": 9859658,
+    "rank": null,
+    "rank_sort": null,
     "event_transfers": 1,
     "event_transfers_cost": 0,
-    "points_on_bench": 1,
-    "bank": 0,
-    "value": 102.1
+    "points_on_bench": 0,
+    "bank": 0.8,
+    "value": 101.8
   },
   "captain": {
     "id": 411,
@@ -40,8 +40,8 @@
     "multiplier": 2
   },
   "vice_captain": {
-    "id": 154,
-    "name": "Palmer"
+    "id": 427,
+    "name": "Mbeumo"
   },
   "squad": [
     {
@@ -58,11 +58,11 @@
       "news": "",
       "minutes": 720,
       "total_points": 40,
-      "form": "5.7",
+      "form": "4.2",
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
-      "selected_by_percent": "21.9"
+      "selected_by_percent": "22.4"
     },
     {
       "id": 650,
@@ -78,38 +78,18 @@
       "news": "",
       "minutes": 450,
       "total_points": 27,
-      "form": "5.0",
+      "form": "3.8",
       "xg": "0.08",
       "xa": "0.05",
       "xgi": "0.13",
       "selected_by_percent": "0.6"
     },
     {
-      "id": 391,
-      "name": "Gvardiol",
-      "team_id": 15,
-      "team": "MCI",
-      "position": 3,
-      "multiplier": 1,
-      "captain": false,
-      "vice_captain": false,
-      "price": 5.7,
-      "status": "a",
-      "news": "",
-      "minutes": 577,
-      "total_points": 42,
-      "form": "1.7",
-      "xg": "0.77",
-      "xa": "0.92",
-      "xgi": "1.69",
-      "selected_by_percent": "26.3"
-    },
-    {
       "id": 8,
       "name": "Calafiori",
       "team_id": 1,
       "team": "ARS",
-      "position": 4,
+      "position": 3,
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
@@ -118,31 +98,51 @@
       "news": "Hip injury - 75% chance of playing",
       "minutes": 609,
       "total_points": 45,
-      "form": "5.3",
+      "form": "4.0",
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "47.5"
+      "selected_by_percent": "48.3"
     },
     {
-      "id": 94,
-      "name": "Schade",
-      "team_id": 4,
-      "team": "BRE",
+      "id": 391,
+      "name": "Gvardiol",
+      "team_id": 15,
+      "team": "MCI",
+      "position": 4,
+      "multiplier": 1,
+      "captain": false,
+      "vice_captain": false,
+      "price": 5.7,
+      "status": "a",
+      "news": "",
+      "minutes": 577,
+      "total_points": 42,
+      "form": "1.2",
+      "xg": "0.77",
+      "xa": "0.92",
+      "xgi": "1.69",
+      "selected_by_percent": "26.6"
+    },
+    {
+      "id": 115,
+      "name": "De Cuyper",
+      "team_id": 5,
+      "team": "BHA",
       "position": 5,
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 6.2,
+      "price": 5.3,
       "status": "a",
       "news": "",
-      "minutes": 604,
-      "total_points": 42,
-      "form": "1.0",
-      "xg": "2.12",
-      "xa": "0.34",
-      "xgi": "2.46",
-      "selected_by_percent": "14.9"
+      "minutes": 670,
+      "total_points": 60,
+      "form": "5.5",
+      "xg": "1.85",
+      "xa": "1.08",
+      "xgi": "2.93",
+      "selected_by_percent": "43.6"
     },
     {
       "id": 427,
@@ -152,77 +152,77 @@
       "position": 6,
       "multiplier": 1,
       "captain": false,
-      "vice_captain": false,
+      "vice_captain": true,
       "price": 7.9,
       "status": "a",
       "news": "",
-      "minutes": 720,
-      "total_points": 43,
-      "form": "6.0",
+      "minutes": 765,
+      "total_points": 44,
+      "form": "4.8",
       "xg": "4.22",
-      "xa": "0.94",
-      "xgi": "5.16",
-      "selected_by_percent": "21.0"
-    },
-    {
-      "id": 40,
-      "name": "Rogers",
-      "team_id": 6,
-      "team": "CHE",
-      "position": 7,
-      "multiplier": 1,
-      "captain": false,
-      "vice_captain": false,
-      "price": 8.1,
-      "status": "a",
-      "news": "",
-      "minutes": 700,
-      "total_points": 41,
-      "form": "4.0",
-      "xg": "2.13",
-      "xa": "1.39",
-      "xgi": "3.52",
-      "selected_by_percent": "50.7"
+      "xa": "1.27",
+      "xgi": "5.49",
+      "selected_by_percent": "21.2"
     },
     {
       "id": 154,
       "name": "Palmer",
       "team_id": 6,
       "team": "CHE",
-      "position": 8,
+      "position": 7,
       "multiplier": 1,
       "captain": false,
-      "vice_captain": true,
+      "vice_captain": false,
       "price": 9.8,
       "status": "a",
       "news": "",
-      "minutes": 698,
-      "total_points": 37,
-      "form": "3.0",
+      "minutes": 743,
+      "total_points": 38,
+      "form": "2.5",
       "xg": "1.50",
-      "xa": "1.09",
-      "xgi": "2.59",
-      "selected_by_percent": "27.4"
+      "xa": "1.10",
+      "xgi": "2.60",
+      "selected_by_percent": "27.3"
     },
     {
-      "id": 124,
-      "name": "Groß",
-      "team_id": 5,
-      "team": "BHA",
-      "position": 9,
+      "id": 94,
+      "name": "Schade",
+      "team_id": 4,
+      "team": "BRE",
+      "position": 8,
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
       "price": 6.2,
       "status": "a",
       "news": "",
-      "minutes": 700,
-      "total_points": 58,
-      "form": "3.7",
-      "xg": "2.16",
-      "xa": "1.51",
-      "xgi": "3.67",
-      "selected_by_percent": "45.5"
+      "minutes": 604,
+      "total_points": 42,
+      "form": "0.8",
+      "xg": "2.12",
+      "xa": "0.34",
+      "xgi": "2.46",
+      "selected_by_percent": "14.8"
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "team_id": 6,
+      "team": "CHE",
+      "position": 9,
+      "multiplier": 1,
+      "captain": false,
+      "vice_captain": false,
+      "price": 8.1,
+      "status": "a",
+      "news": "",
+      "minutes": 745,
+      "total_points": 42,
+      "form": "3.2",
+      "xg": "2.13",
+      "xa": "1.42",
+      "xgi": "3.55",
+      "selected_by_percent": "51.0"
     },
     {
       "id": 411,
@@ -238,31 +238,31 @@
       "news": "",
       "minutes": 709,
       "total_points": 66,
-      "form": "9.0",
+      "form": "6.8",
       "xg": "6.09",
       "xa": "0.77",
       "xgi": "6.86",
-      "selected_by_percent": "78.8"
+      "selected_by_percent": "78.9"
     },
     {
-      "id": 569,
-      "name": "Gonzalo",
-      "team_id": 10,
-      "team": "FUL",
+      "id": 166,
+      "name": "N.Jackson",
+      "team_id": 2,
+      "team": "AVL",
       "position": 11,
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 6,
+      "price": 6.9,
       "status": "a",
       "news": "",
-      "minutes": 668,
-      "total_points": 20,
-      "form": "2.0",
-      "xg": "3.61",
-      "xa": "0.74",
-      "xgi": "4.35",
-      "selected_by_percent": "4.8"
+      "minutes": 547,
+      "total_points": 34,
+      "form": "6.0",
+      "xg": "1.83",
+      "xa": "0.87",
+      "xgi": "2.70",
+      "selected_by_percent": "23.1"
     },
     {
       "id": 58,
@@ -285,44 +285,44 @@
       "selected_by_percent": "3.4"
     },
     {
-      "id": 165,
-      "name": "João Pedro",
-      "team_id": 6,
-      "team": "CHE",
+      "id": 124,
+      "name": "Groß",
+      "team_id": 5,
+      "team": "BHA",
       "position": 13,
       "multiplier": 0,
       "captain": false,
       "vice_captain": false,
-      "price": 7.8,
-      "status": "i",
-      "news": "Thigh injury - Unknown return date",
-      "minutes": 521,
-      "total_points": 47,
-      "form": "4.7",
-      "xg": "3.05",
-      "xa": "0.31",
-      "xgi": "3.36",
-      "selected_by_percent": "49.3"
+      "price": 6.2,
+      "status": "a",
+      "news": "",
+      "minutes": 700,
+      "total_points": 58,
+      "form": "2.8",
+      "xg": "2.16",
+      "xa": "1.51",
+      "xgi": "3.67",
+      "selected_by_percent": "46.7"
     },
     {
-      "id": 115,
-      "name": "De Cuyper",
-      "team_id": 5,
-      "team": "BHA",
+      "id": 569,
+      "name": "Gonzalo",
+      "team_id": 10,
+      "team": "FUL",
       "position": 14,
       "multiplier": 0,
       "captain": false,
       "vice_captain": false,
-      "price": 5.3,
+      "price": 6,
       "status": "a",
       "news": "",
-      "minutes": 670,
-      "total_points": 60,
-      "form": "7.3",
-      "xg": "1.85",
-      "xa": "1.08",
-      "xgi": "2.93",
-      "selected_by_percent": "42.4"
+      "minutes": 668,
+      "total_points": 20,
+      "form": "1.5",
+      "xg": "3.61",
+      "xa": "0.74",
+      "xgi": "4.35",
+      "selected_by_percent": "4.7"
     },
     {
       "id": 586,
@@ -338,14 +338,14 @@
       "news": "",
       "minutes": 339,
       "total_points": 28,
-      "form": "1.0",
+      "form": "0.8",
       "xg": "0.62",
       "xa": "0.00",
       "xgi": "0.62",
-      "selected_by_percent": "4.7"
+      "selected_by_percent": "4.8"
     }
   ],
-  "bank": 0,
+  "bank": 0.8,
   "free_transfers": "UNKNOWN_PUBLIC_API",
   "chips": [
     {
@@ -480,9 +480,33 @@
       "event_transfers": 1,
       "event_transfers_cost": 0,
       "points_on_bench": 1
+    },
+    {
+      "event": 9,
+      "points": 0,
+      "total_points": 519,
+      "rank": null,
+      "rank_sort": null,
+      "overall_rank": 1316700,
+      "percentile_rank": null,
+      "overall_rank_percentage": null,
+      "bank": 8,
+      "value": 1018,
+      "event_transfers": 1,
+      "event_transfers_cost": 0,
+      "points_on_bench": 0
     }
   ],
   "transfers": [
+    {
+      "element_in": 166,
+      "element_in_cost": 68,
+      "element_out": 165,
+      "element_out_cost": 76,
+      "entry": 1169933,
+      "event": 9,
+      "time": "2026-10-28T16:30:14.868448Z"
+    },
     {
       "element_in": 154,
       "element_in_cost": 98,
@@ -600,14 +624,266 @@
       "finished_provisional": false,
       "id": 84,
       "kickoff_time": "2026-10-31T12:30:00Z",
-      "minutes": 0,
+      "minutes": 45,
       "provisional_start_time": false,
-      "started": false,
+      "started": true,
       "team_a": 16,
-      "team_a_score": null,
+      "team_a_score": 0,
       "team_h": 6,
-      "team_h_score": null,
-      "stats": [],
+      "team_h_score": 0,
+      "stats": [
+        {
+          "identifier": "goals_scored",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "assists",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "own_goals",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "penalties_saved",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "penalties_missed",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "yellow_cards",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "red_cards",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "saves",
+          "a": [
+            {
+              "value": 3,
+              "element": 412
+            }
+          ],
+          "h": [
+            {
+              "value": 1,
+              "element": 560
+            }
+          ]
+        },
+        {
+          "identifier": "bonus",
+          "a": [
+            {
+              "value": 1,
+              "element": 412
+            }
+          ],
+          "h": [
+            {
+              "value": 3,
+              "element": 145
+            },
+            {
+              "value": 2,
+              "element": 151
+            }
+          ]
+        },
+        {
+          "identifier": "bps",
+          "a": [
+            {
+              "value": 13,
+              "element": 412
+            },
+            {
+              "value": 9,
+              "element": 427
+            },
+            {
+              "value": 8,
+              "element": 420
+            },
+            {
+              "value": 8,
+              "element": 426
+            },
+            {
+              "value": 7,
+              "element": 419
+            },
+            {
+              "value": 7,
+              "element": 428
+            },
+            {
+              "value": 6,
+              "element": 417
+            },
+            {
+              "value": 4,
+              "element": 162
+            },
+            {
+              "value": 4,
+              "element": 418
+            },
+            {
+              "value": 4,
+              "element": 431
+            },
+            {
+              "value": 1,
+              "element": 131
+            }
+          ],
+          "h": [
+            {
+              "value": 20,
+              "element": 145
+            },
+            {
+              "value": 19,
+              "element": 151
+            },
+            {
+              "value": 12,
+              "element": 157
+            },
+            {
+              "value": 10,
+              "element": 161
+            },
+            {
+              "value": 6,
+              "element": 40
+            },
+            {
+              "value": 6,
+              "element": 154
+            },
+            {
+              "value": 6,
+              "element": 560
+            },
+            {
+              "value": 5,
+              "element": 149
+            },
+            {
+              "value": 5,
+              "element": 152
+            },
+            {
+              "value": 5,
+              "element": 159
+            },
+            {
+              "value": 3,
+              "element": 156
+            }
+          ]
+        },
+        {
+          "identifier": "defensive_contribution",
+          "a": [
+            {
+              "value": 10,
+              "element": 431
+            },
+            {
+              "value": 8,
+              "element": 162
+            },
+            {
+              "value": 5,
+              "element": 420
+            },
+            {
+              "value": 5,
+              "element": 426
+            },
+            {
+              "value": 4,
+              "element": 417
+            },
+            {
+              "value": 4,
+              "element": 428
+            },
+            {
+              "value": 3,
+              "element": 131
+            },
+            {
+              "value": 3,
+              "element": 418
+            },
+            {
+              "value": 2,
+              "element": 419
+            },
+            {
+              "value": 2,
+              "element": 427
+            }
+          ],
+          "h": [
+            {
+              "value": 12,
+              "element": 161
+            },
+            {
+              "value": 7,
+              "element": 157
+            },
+            {
+              "value": 6,
+              "element": 149
+            },
+            {
+              "value": 6,
+              "element": 151
+            },
+            {
+              "value": 5,
+              "element": 145
+            },
+            {
+              "value": 5,
+              "element": 154
+            },
+            {
+              "value": 4,
+              "element": 40
+            },
+            {
+              "value": 2,
+              "element": 152
+            },
+            {
+              "value": 2,
+              "element": 156
+            },
+            {
+              "value": 2,
+              "element": 159
+            }
+          ]
+        }
+      ],
       "team_h_difficulty": 4,
       "team_a_difficulty": 4,
       "pulse_id": 0
@@ -1734,7 +2010,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-10-31T06:58:04.282Z",
+  "generated_at": "2026-10-31T13:37:22.963Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
