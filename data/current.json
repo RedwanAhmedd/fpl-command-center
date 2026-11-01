@@ -10,10 +10,10 @@
   "manager": {
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
-    "overall_points": 578,
-    "overall_rank": 732389,
-    "last_gw_points": 59,
-    "last_gw_rank": 420115
+    "overall_points": 586,
+    "overall_rank": 807968,
+    "last_gw_points": 67,
+    "last_gw_rank": 489530
   },
   "gameweek": {
     "id": 9,
@@ -23,11 +23,11 @@
     "current_official_event": 9
   },
   "gw_stats": {
-    "points": 59,
-    "total_points": 578,
-    "overall_rank": 732389,
-    "rank": 420113,
-    "rank_sort": 422593,
+    "points": 67,
+    "total_points": 586,
+    "overall_rank": 807965,
+    "rank": 489534,
+    "rank_sort": 493881,
     "event_transfers": 1,
     "event_transfers_cost": 0,
     "points_on_bench": 7,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
-      "selected_by_percent": "22.7"
+      "selected_by_percent": "22.8"
     },
     {
       "id": 650,
@@ -96,12 +96,12 @@
       "price": 5.9,
       "status": "a",
       "news": "",
-      "minutes": 609,
-      "total_points": 45,
-      "form": "4.0",
+      "minutes": 699,
+      "total_points": 53,
+      "form": "6.0",
       "xg": "1.22",
-      "xa": "0.98",
-      "xgi": "2.20",
+      "xa": "1.00",
+      "xgi": "2.22",
       "selected_by_percent": "47.8"
     },
     {
@@ -122,7 +122,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "26.4"
+      "selected_by_percent": "26.3"
     },
     {
       "id": 115,
@@ -142,7 +142,7 @@
       "xg": "2.09",
       "xa": "1.08",
       "xgi": "3.17",
-      "selected_by_percent": "44.2"
+      "selected_by_percent": "44.4"
     },
     {
       "id": 427,
@@ -162,7 +162,7 @@
       "xg": "4.24",
       "xa": "1.27",
       "xgi": "5.51",
-      "selected_by_percent": "20.9"
+      "selected_by_percent": "20.8"
     },
     {
       "id": 154,
@@ -182,7 +182,7 @@
       "xg": "2.51",
       "xa": "1.11",
       "xgi": "3.62",
-      "selected_by_percent": "27.7"
+      "selected_by_percent": "27.8"
     },
     {
       "id": 94,
@@ -222,7 +222,7 @@
       "xg": "2.78",
       "xa": "1.44",
       "xgi": "4.22",
-      "selected_by_percent": "51.7"
+      "selected_by_percent": "51.8"
     },
     {
       "id": 411,
@@ -262,7 +262,7 @@
       "xg": "2.16",
       "xa": "0.88",
       "xgi": "3.04",
-      "selected_by_percent": "24.4"
+      "selected_by_percent": "24.7"
     },
     {
       "id": 58,
@@ -483,11 +483,11 @@
     },
     {
       "event": 9,
-      "points": 59,
-      "total_points": 578,
-      "rank": 420113,
-      "rank_sort": 422593,
-      "overall_rank": 732389,
+      "points": 67,
+      "total_points": 586,
+      "rank": 489534,
+      "rank_sort": 493881,
+      "overall_rank": 807965,
       "percentile_rank": 5,
       "overall_rank_percentage": "7",
       "bank": 8,
@@ -3540,17 +3540,375 @@
       "code": 2645281,
       "event": 9,
       "finished": false,
-      "finished_provisional": false,
+      "finished_provisional": true,
       "id": 87,
       "kickoff_time": "2026-11-01T16:30:00Z",
-      "minutes": 0,
+      "minutes": 90,
       "provisional_start_time": false,
-      "started": false,
+      "started": true,
       "team_a": 1,
-      "team_a_score": null,
+      "team_a_score": 1,
       "team_h": 14,
-      "team_h_score": null,
-      "stats": [],
+      "team_h_score": 0,
+      "stats": [
+        {
+          "identifier": "goals_scored",
+          "a": [
+            {
+              "value": 1,
+              "element": 26
+            }
+          ],
+          "h": []
+        },
+        {
+          "identifier": "assists",
+          "a": [
+            {
+              "value": 1,
+              "element": 13
+            }
+          ],
+          "h": []
+        },
+        {
+          "identifier": "own_goals",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "penalties_saved",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "penalties_missed",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "yellow_cards",
+          "a": [
+            {
+              "value": 1,
+              "element": 1
+            },
+            {
+              "value": 1,
+              "element": 5
+            },
+            {
+              "value": 1,
+              "element": 7
+            },
+            {
+              "value": 1,
+              "element": 16
+            }
+          ],
+          "h": [
+            {
+              "value": 1,
+              "element": 356
+            },
+            {
+              "value": 1,
+              "element": 358
+            },
+            {
+              "value": 1,
+              "element": 372
+            },
+            {
+              "value": 1,
+              "element": 627
+            }
+          ]
+        },
+        {
+          "identifier": "red_cards",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "saves",
+          "a": [],
+          "h": [
+            {
+              "value": 2,
+              "element": 350
+            }
+          ]
+        },
+        {
+          "identifier": "bonus",
+          "a": [
+            {
+              "value": 3,
+              "element": 26
+            },
+            {
+              "value": 2,
+              "element": 13
+            },
+            {
+              "value": 2,
+              "element": 31
+            }
+          ],
+          "h": []
+        },
+        {
+          "identifier": "bps",
+          "a": [
+            {
+              "value": 33,
+              "element": 26
+            },
+            {
+              "value": 32,
+              "element": 13
+            },
+            {
+              "value": 32,
+              "element": 31
+            },
+            {
+              "value": 29,
+              "element": 4
+            },
+            {
+              "value": 23,
+              "element": 5
+            },
+            {
+              "value": 23,
+              "element": 8
+            },
+            {
+              "value": 21,
+              "element": 1
+            },
+            {
+              "value": 17,
+              "element": 15
+            },
+            {
+              "value": 14,
+              "element": 557
+            },
+            {
+              "value": 11,
+              "element": 16
+            },
+            {
+              "value": 9,
+              "element": 452
+            },
+            {
+              "value": 4,
+              "element": 7
+            },
+            {
+              "value": 4,
+              "element": 17
+            },
+            {
+              "value": 3,
+              "element": 25
+            },
+            {
+              "value": 2,
+              "element": 9
+            }
+          ],
+          "h": [
+            {
+              "value": 14,
+              "element": 362
+            },
+            {
+              "value": 11,
+              "element": 358
+            },
+            {
+              "value": 10,
+              "element": 368
+            },
+            {
+              "value": 10,
+              "element": 375
+            },
+            {
+              "value": 9,
+              "element": 366
+            },
+            {
+              "value": 9,
+              "element": 579
+            },
+            {
+              "value": 8,
+              "element": 379
+            },
+            {
+              "value": 7,
+              "element": 350
+            },
+            {
+              "value": 7,
+              "element": 367
+            },
+            {
+              "value": 6,
+              "element": 356
+            },
+            {
+              "value": 6,
+              "element": 372
+            },
+            {
+              "value": 6,
+              "element": 627
+            },
+            {
+              "value": 5,
+              "element": 369
+            },
+            {
+              "value": 4,
+              "element": 377
+            },
+            {
+              "value": 4,
+              "element": 381
+            },
+            {
+              "value": 2,
+              "element": 364
+            }
+          ]
+        },
+        {
+          "identifier": "defensive_contribution",
+          "a": [
+            {
+              "value": 15,
+              "element": 31
+            },
+            {
+              "value": 10,
+              "element": 8
+            },
+            {
+              "value": 9,
+              "element": 4
+            },
+            {
+              "value": 9,
+              "element": 13
+            },
+            {
+              "value": 8,
+              "element": 15
+            },
+            {
+              "value": 7,
+              "element": 5
+            },
+            {
+              "value": 7,
+              "element": 16
+            },
+            {
+              "value": 7,
+              "element": 26
+            },
+            {
+              "value": 6,
+              "element": 452
+            },
+            {
+              "value": 6,
+              "element": 557
+            },
+            {
+              "value": 3,
+              "element": 9
+            },
+            {
+              "value": 2,
+              "element": 7
+            },
+            {
+              "value": 2,
+              "element": 25
+            },
+            {
+              "value": 1,
+              "element": 17
+            }
+          ],
+          "h": [
+            {
+              "value": 11,
+              "element": 579
+            },
+            {
+              "value": 10,
+              "element": 372
+            },
+            {
+              "value": 9,
+              "element": 362
+            },
+            {
+              "value": 7,
+              "element": 356
+            },
+            {
+              "value": 7,
+              "element": 368
+            },
+            {
+              "value": 6,
+              "element": 358
+            },
+            {
+              "value": 6,
+              "element": 375
+            },
+            {
+              "value": 5,
+              "element": 627
+            },
+            {
+              "value": 4,
+              "element": 366
+            },
+            {
+              "value": 4,
+              "element": 367
+            },
+            {
+              "value": 4,
+              "element": 381
+            },
+            {
+              "value": 3,
+              "element": 379
+            },
+            {
+              "value": 2,
+              "element": 369
+            },
+            {
+              "value": 1,
+              "element": 377
+            }
+          ]
+        }
+      ],
       "team_h_difficulty": 4,
       "team_a_difficulty": 4,
       "pulse_id": 0
@@ -4525,7 +4883,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-01T15:59:23.639Z",
+  "generated_at": "2026-11-01T20:28:28.814Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
