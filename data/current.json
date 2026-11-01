@@ -13,7 +13,7 @@
     "overall_points": 578,
     "overall_rank": 732389,
     "last_gw_points": 59,
-    "last_gw_rank": 420117
+    "last_gw_rank": 420115
   },
   "gameweek": {
     "id": 9,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
-      "selected_by_percent": "22.6"
+      "selected_by_percent": "22.7"
     },
     {
       "id": 650,
@@ -94,15 +94,15 @@
       "captain": false,
       "vice_captain": false,
       "price": 5.9,
-      "status": "d",
-      "news": "Hip injury - 75% chance of playing",
+      "status": "a",
+      "news": "",
       "minutes": 609,
       "total_points": 45,
       "form": "4.0",
       "xg": "1.22",
       "xa": "0.98",
       "xgi": "2.20",
-      "selected_by_percent": "47.9"
+      "selected_by_percent": "47.8"
     },
     {
       "id": 391,
@@ -142,7 +142,7 @@
       "xg": "2.09",
       "xa": "1.08",
       "xgi": "3.17",
-      "selected_by_percent": "44.1"
+      "selected_by_percent": "44.2"
     },
     {
       "id": 427,
@@ -182,7 +182,7 @@
       "xg": "2.51",
       "xa": "1.11",
       "xgi": "3.62",
-      "selected_by_percent": "27.6"
+      "selected_by_percent": "27.7"
     },
     {
       "id": 94,
@@ -202,7 +202,7 @@
       "xg": "2.12",
       "xa": "0.34",
       "xgi": "2.46",
-      "selected_by_percent": "14.7"
+      "selected_by_percent": "14.6"
     },
     {
       "id": 40,
@@ -222,7 +222,7 @@
       "xg": "2.78",
       "xa": "1.44",
       "xgi": "4.22",
-      "selected_by_percent": "51.5"
+      "selected_by_percent": "51.7"
     },
     {
       "id": 411,
@@ -262,7 +262,7 @@
       "xg": "2.16",
       "xa": "0.88",
       "xgi": "3.04",
-      "selected_by_percent": "24.1"
+      "selected_by_percent": "24.4"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "2.16",
       "xa": "1.57",
       "xgi": "3.73",
-      "selected_by_percent": "46.7"
+      "selected_by_percent": "46.8"
     },
     {
       "id": 569,
@@ -4525,7 +4525,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-01T09:11:55.826Z",
+  "generated_at": "2026-11-01T15:59:23.639Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
