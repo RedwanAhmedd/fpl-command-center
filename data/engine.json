@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:40:18.990Z",
+  "generated_at": "2026-11-02T07:38:48.128Z",
   "captaincy": [
     {
       "id": 411,
@@ -62,17 +62,17 @@
       "rank": 4
     },
     {
-      "id": 8,
-      "name": "Calafiori",
+      "id": 427,
+      "name": "Mbeumo",
       "status": "a",
       "next_fixture": {
         "gw": 9,
-        "opponent": "LIV",
+        "opponent": "CHE",
         "venue": "A",
         "difficulty": 4,
-        "kickoff": "2026-11-01T16:30:00Z"
+        "kickoff": "2026-10-31T12:30:00Z"
       },
-      "score": 4.47,
+      "score": 4.29,
       "risk": "LOW",
       "rank": 5
     }
@@ -152,7 +152,7 @@
         "in": [
           "Tavernier"
         ],
-        "projected_edge": 1.08,
+        "projected_edge": 1.32,
         "affordable": true,
         "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
@@ -192,6 +192,21 @@
       {
         "transfers": 1,
         "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Manzambi"
+        ],
+        "projected_edge": 0.82,
+        "affordable": true,
+        "bank_after": 0.6,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
           "Affengruber"
         ],
         "in": [
@@ -200,21 +215,6 @@
         "projected_edge": 0.65,
         "affordable": true,
         "bank_after": 0.3,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Manzambi"
-        ],
-        "projected_edge": 0.58,
-        "affordable": true,
-        "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -257,7 +257,7 @@
         "in": [
           "Ayari"
         ],
-        "projected_edge": 0.06,
+        "projected_edge": 0.3,
         "affordable": true,
         "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
@@ -275,6 +275,51 @@
         "projected_edge": 0.01,
         "affordable": true,
         "bank_after": 0.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Enciso"
+        ],
+        "projected_edge": -0.11,
+        "affordable": true,
+        "bank_after": 1.2,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Rudoni"
+        ],
+        "projected_edge": -0.16,
+        "affordable": true,
+        "bank_after": 1.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Neto"
+        ],
+        "projected_edge": -0.24,
+        "affordable": true,
+        "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -300,54 +345,9 @@
           "Calafiori"
         ],
         "in": [
-          "Enciso"
-        ],
-        "projected_edge": -0.35,
-        "affordable": true,
-        "bank_after": 1.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Rudoni"
-        ],
-        "projected_edge": -0.4,
-        "affordable": true,
-        "bank_after": 1.8,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Neto"
-        ],
-        "projected_edge": -0.48,
-        "affordable": true,
-        "bank_after": 0.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
           "Iwobi"
         ],
-        "projected_edge": -0.58,
+        "projected_edge": -0.34,
         "affordable": true,
         "bank_after": 1.3,
         "hit_cost": "UNKNOWN",
@@ -362,7 +362,7 @@
         "in": [
           "Belloumi"
         ],
-        "projected_edge": -0.83,
+        "projected_edge": -0.59,
         "affordable": true,
         "bank_after": 1.4,
         "hit_cost": "UNKNOWN",
@@ -377,7 +377,7 @@
         "in": [
           "Gomez"
         ],
-        "projected_edge": -1.01,
+        "projected_edge": -0.77,
         "affordable": true,
         "bank_after": 1.7,
         "hit_cost": "UNKNOWN",

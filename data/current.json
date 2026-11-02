@@ -10,10 +10,10 @@
   "manager": {
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
-    "overall_points": 586,
-    "overall_rank": 807966,
-    "last_gw_points": 67,
-    "last_gw_rank": 489530
+    "overall_points": 584,
+    "overall_rank": 842945,
+    "last_gw_points": 65,
+    "last_gw_rank": 590408
   },
   "gameweek": {
     "id": 9,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
-      "selected_by_percent": "22.8"
+      "selected_by_percent": "22.9"
     },
     {
       "id": 650,
@@ -97,8 +97,8 @@
       "status": "a",
       "news": "",
       "minutes": 699,
-      "total_points": 53,
-      "form": "6.0",
+      "total_points": 51,
+      "form": "5.5",
       "xg": "1.22",
       "xa": "1.00",
       "xgi": "2.22",
@@ -222,7 +222,7 @@
       "xg": "2.78",
       "xa": "1.44",
       "xgi": "4.22",
-      "selected_by_percent": "51.9"
+      "selected_by_percent": "52.0"
     },
     {
       "id": 411,
@@ -262,7 +262,7 @@
       "xg": "2.16",
       "xa": "0.88",
       "xgi": "3.04",
-      "selected_by_percent": "24.9"
+      "selected_by_percent": "25.0"
     },
     {
       "id": 58,
@@ -3662,7 +3662,7 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 33,
+              "value": 34,
               "element": 26
             },
             {
@@ -3678,16 +3678,20 @@
               "element": 4
             },
             {
-              "value": 23,
-              "element": 5
-            },
-            {
-              "value": 23,
-              "element": 8
+              "value": 21,
+              "element": 1
             },
             {
               "value": 21,
-              "element": 1
+              "element": 8
+            },
+            {
+              "value": 20,
+              "element": 5
+            },
+            {
+              "value": 18,
+              "element": 16
             },
             {
               "value": 17,
@@ -3698,38 +3702,34 @@
               "element": 557
             },
             {
-              "value": 11,
-              "element": 16
-            },
-            {
               "value": 9,
               "element": 452
+            },
+            {
+              "value": 6,
+              "element": 17
             },
             {
               "value": 4,
               "element": 7
             },
             {
-              "value": 4,
-              "element": 17
+              "value": 3,
+              "element": 9
             },
             {
               "value": 3,
               "element": 25
-            },
-            {
-              "value": 2,
-              "element": 9
             }
           ],
           "h": [
             {
               "value": 14,
-              "element": 362
+              "element": 358
             },
             {
-              "value": 11,
-              "element": 358
+              "value": 14,
+              "element": 362
             },
             {
               "value": 10,
@@ -3797,12 +3797,12 @@
               "element": 31
             },
             {
-              "value": 10,
-              "element": 8
+              "value": 9,
+              "element": 4
             },
             {
               "value": 9,
-              "element": 4
+              "element": 8
             },
             {
               "value": 9,
@@ -3810,18 +3810,18 @@
             },
             {
               "value": 8,
-              "element": 15
-            },
-            {
-              "value": 7,
               "element": 5
             },
             {
-              "value": 7,
+              "value": 8,
+              "element": 15
+            },
+            {
+              "value": 8,
               "element": 16
             },
             {
-              "value": 7,
+              "value": 8,
               "element": 26
             },
             {
@@ -3842,20 +3842,20 @@
             },
             {
               "value": 2,
-              "element": 25
+              "element": 17
             },
             {
-              "value": 1,
-              "element": 17
+              "value": 2,
+              "element": 25
             }
           ],
           "h": [
             {
-              "value": 11,
+              "value": 12,
               "element": 579
             },
             {
-              "value": 10,
+              "value": 11,
               "element": 372
             },
             {
@@ -3868,11 +3868,11 @@
             },
             {
               "value": 7,
-              "element": 368
+              "element": 358
             },
             {
-              "value": 6,
-              "element": 358
+              "value": 7,
+              "element": 368
             },
             {
               "value": 6,
@@ -4883,7 +4883,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-02T00:40:18.664Z",
+  "generated_at": "2026-11-02T07:38:47.853Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
