@@ -11,7 +11,7 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 586,
-    "overall_rank": 807968,
+    "overall_rank": 807966,
     "last_gw_points": 67,
     "last_gw_rank": 489530
   },
@@ -25,7 +25,7 @@
   "gw_stats": {
     "points": 67,
     "total_points": 586,
-    "overall_rank": 807965,
+    "overall_rank": 807968,
     "rank": 489534,
     "rank_sort": 493881,
     "event_transfers": 1,
@@ -102,7 +102,7 @@
       "xg": "1.22",
       "xa": "1.00",
       "xgi": "2.22",
-      "selected_by_percent": "47.8"
+      "selected_by_percent": "47.9"
     },
     {
       "id": 391,
@@ -122,7 +122,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "26.3"
+      "selected_by_percent": "26.2"
     },
     {
       "id": 115,
@@ -142,7 +142,7 @@
       "xg": "2.09",
       "xa": "1.08",
       "xgi": "3.17",
-      "selected_by_percent": "44.4"
+      "selected_by_percent": "44.5"
     },
     {
       "id": 427,
@@ -162,7 +162,7 @@
       "xg": "4.24",
       "xa": "1.27",
       "xgi": "5.51",
-      "selected_by_percent": "20.8"
+      "selected_by_percent": "20.7"
     },
     {
       "id": 154,
@@ -202,7 +202,7 @@
       "xg": "2.12",
       "xa": "0.34",
       "xgi": "2.46",
-      "selected_by_percent": "14.6"
+      "selected_by_percent": "14.5"
     },
     {
       "id": 40,
@@ -222,7 +222,7 @@
       "xg": "2.78",
       "xa": "1.44",
       "xgi": "4.22",
-      "selected_by_percent": "51.8"
+      "selected_by_percent": "51.9"
     },
     {
       "id": 411,
@@ -262,7 +262,7 @@
       "xg": "2.16",
       "xa": "0.88",
       "xgi": "3.04",
-      "selected_by_percent": "24.7"
+      "selected_by_percent": "24.9"
     },
     {
       "id": 58,
@@ -322,7 +322,7 @@
       "xg": "3.97",
       "xa": "0.75",
       "xgi": "4.72",
-      "selected_by_percent": "4.6"
+      "selected_by_percent": "4.5"
     },
     {
       "id": 586,
@@ -487,7 +487,7 @@
       "total_points": 586,
       "rank": 489534,
       "rank_sort": 493881,
-      "overall_rank": 807965,
+      "overall_rank": 807968,
       "percentile_rank": 5,
       "overall_rank_percentage": "7",
       "bank": 8,
@@ -4883,7 +4883,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-01T20:28:28.814Z",
+  "generated_at": "2026-11-02T00:40:18.664Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
