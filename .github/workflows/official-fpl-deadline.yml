@@ -1,0 +1,28 @@
+name: Official FPL deadline snapshot
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  deadline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate deadline parser
+        run: node --test tests/deadline.test.js
+      - name: Fetch official deadline
+        run: node src/deadline-snapshot.js artifacts/fpl-deadline.json
+      - name: Publish snapshot even on failure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: official-fpl-deadline
+          path: artifacts/fpl-deadline.json
+          if-no-files-found: error
+          retention-days: 7
