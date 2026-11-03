@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:17:35.633Z",
+  "generated_at": "2026-11-03T01:32:20.469Z",
   "captaincy": [
     {
       "id": 411,
@@ -327,6 +327,21 @@
       {
         "transfers": 1,
         "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Dewsbury-Hall"
+        ],
+        "projected_edge": -0.29,
+        "affordable": true,
+        "bank_after": 0.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
           "Affengruber"
         ],
         "in": [
@@ -365,21 +380,6 @@
         "projected_edge": -0.59,
         "affordable": true,
         "bank_after": 1.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Gomez"
-        ],
-        "projected_edge": -0.77,
-        "affordable": true,
-        "bank_after": 1.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
