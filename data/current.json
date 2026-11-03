@@ -13,21 +13,21 @@
     "overall_points": 584,
     "overall_rank": 949821,
     "last_gw_points": 65,
-    "last_gw_rank": 953898
+    "last_gw_rank": 953896
   },
   "gameweek": {
     "id": 9,
     "name": "Gameweek 9",
     "deadline": "2026-10-31T11:00:00Z",
-    "finished": false,
+    "finished": true,
     "current_official_event": 9
   },
   "gw_stats": {
     "points": 65,
     "total_points": 584,
-    "overall_rank": 912335,
-    "rank": 798489,
-    "rank_sort": 805117,
+    "overall_rank": 949820,
+    "rank": 953898,
+    "rank_sort": 961259,
     "event_transfers": 1,
     "event_transfers_cost": 0,
     "points_on_bench": 7,
@@ -62,7 +62,7 @@
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
-      "selected_by_percent": "23.0"
+      "selected_by_percent": "23.1"
     },
     {
       "id": 650,
@@ -142,7 +142,7 @@
       "xg": "2.09",
       "xa": "1.08",
       "xgi": "3.17",
-      "selected_by_percent": "44.9"
+      "selected_by_percent": "45.0"
     },
     {
       "id": 427,
@@ -162,7 +162,7 @@
       "xg": "4.24",
       "xa": "1.27",
       "xgi": "5.51",
-      "selected_by_percent": "20.5"
+      "selected_by_percent": "20.4"
     },
     {
       "id": 154,
@@ -182,7 +182,7 @@
       "xg": "2.51",
       "xa": "1.11",
       "xgi": "3.62",
-      "selected_by_percent": "28.0"
+      "selected_by_percent": "28.1"
     },
     {
       "id": 94,
@@ -222,7 +222,7 @@
       "xg": "2.78",
       "xa": "1.44",
       "xgi": "4.22",
-      "selected_by_percent": "52.3"
+      "selected_by_percent": "52.4"
     },
     {
       "id": 411,
@@ -262,7 +262,7 @@
       "xg": "2.16",
       "xa": "0.88",
       "xgi": "3.04",
-      "selected_by_percent": "25.8"
+      "selected_by_percent": "25.9"
     },
     {
       "id": 58,
@@ -485,9 +485,9 @@
       "event": 9,
       "points": 65,
       "total_points": 584,
-      "rank": 798489,
-      "rank_sort": 805117,
-      "overall_rank": 912335,
+      "rank": 953898,
+      "rank_sort": 961259,
+      "overall_rank": 949820,
       "percentile_rank": 10,
       "overall_rank_percentage": "8",
       "bank": 8,
@@ -651,7 +651,7 @@
       "team_h": 13,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -709,7 +709,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 4,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 2,
       "pulse_id": 0
     },
     {
@@ -747,7 +747,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 4,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 2,
       "pulse_id": 0
     },
     {
@@ -804,7 +804,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 3,
-      "team_a_difficulty": 4,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -841,7 +841,7 @@
       "team_h": 2,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -861,7 +861,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 3,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -955,7 +955,7 @@
       "team_h": 11,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 4,
       "team_a_difficulty": 2,
       "pulse_id": 0
     },
@@ -974,7 +974,7 @@
       "team_h": 14,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 4,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 4,
       "pulse_id": 0
     },
@@ -994,7 +994,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 3,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -1013,7 +1013,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 4,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 2,
       "pulse_id": 0
     },
     {
@@ -1051,7 +1051,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 3,
-      "team_a_difficulty": 4,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -1127,7 +1127,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 2,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 2,
       "pulse_id": 0
     },
     {
@@ -1164,7 +1164,7 @@
       "team_h": 20,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1259,7 +1259,7 @@
       "team_h": 14,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 4,
       "pulse_id": 0
     },
@@ -1316,8 +1316,8 @@
       "team_h": 3,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
-      "team_a_difficulty": 3,
+      "team_h_difficulty": 4,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -1336,7 +1336,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 4,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -1354,7 +1354,7 @@
       "team_h": 17,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 4,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1431,7 +1431,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 2,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -1469,7 +1469,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 2,
-      "team_a_difficulty": 4,
+      "team_a_difficulty": 3,
       "pulse_id": 0
     },
     {
@@ -1487,8 +1487,8 @@
       "team_h": 18,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
-      "team_a_difficulty": 3,
+      "team_h_difficulty": 4,
+      "team_a_difficulty": 2,
       "pulse_id": 0
     },
     {
@@ -1507,7 +1507,7 @@
       "team_h_score": null,
       "stats": [],
       "team_h_difficulty": 4,
-      "team_a_difficulty": 3,
+      "team_a_difficulty": 4,
       "pulse_id": 0
     },
     {
@@ -1544,7 +1544,7 @@
       "team_h": 17,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 3,
+      "team_h_difficulty": 2,
       "team_a_difficulty": 3,
       "pulse_id": 0
     },
@@ -1734,8 +1734,8 @@
       "team_h": 8,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 4,
-      "team_a_difficulty": 3,
+      "team_h_difficulty": 3,
+      "team_a_difficulty": 2,
       "pulse_id": 0
     },
     {
@@ -1753,12 +1753,12 @@
       "team_h": 11,
       "team_h_score": null,
       "stats": [],
-      "team_h_difficulty": 2,
+      "team_h_difficulty": 3,
       "team_a_difficulty": 2,
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-03T11:07:37.255Z",
+  "generated_at": "2026-11-03T17:49:23.105Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
