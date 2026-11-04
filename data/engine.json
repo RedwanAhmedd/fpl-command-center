@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:17:09.764Z",
+  "generated_at": "2026-11-04T03:01:33.783Z",
   "captaincy": [
     {
       "id": 411,
@@ -124,7 +124,7 @@
         ],
         "projected_edge": 2.07,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -244,7 +244,7 @@
         ],
         "projected_edge": 0.36,
         "affordable": true,
-        "bank_after": 0.3,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"

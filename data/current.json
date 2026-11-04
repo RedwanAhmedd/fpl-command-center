@@ -142,7 +142,7 @@
       "xg": "2.09",
       "xa": "1.08",
       "xgi": "3.17",
-      "selected_by_percent": "45.0"
+      "selected_by_percent": "45.1"
     },
     {
       "id": 427,
@@ -213,7 +213,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 8.1,
+      "price": 8.2,
       "status": "a",
       "news": "",
       "minutes": 790,
@@ -1758,7 +1758,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-03T23:17:09.453Z",
+  "generated_at": "2026-11-04T03:01:33.514Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
