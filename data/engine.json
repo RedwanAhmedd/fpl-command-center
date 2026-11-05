@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:26:53.096Z",
+  "generated_at": "2026-11-05T22:40:06.015Z",
   "captaincy": [
     {
       "id": 411,
@@ -110,21 +110,6 @@
         "projected_edge": 2.12,
         "affordable": true,
         "bank_after": 0.3,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Affengruber"
-        ],
-        "in": [
-          "Konsa"
-        ],
-        "projected_edge": 2.07,
-        "affordable": true,
-        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -248,6 +233,21 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Konsa"
+        ],
+        "projected_edge": 0.33,
+        "affordable": true,
+        "bank_after": 0.5,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Knee injury - 75% chance of playing"
       },
       {
         "transfers": 1,
