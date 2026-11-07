@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:02:56.510Z",
+  "generated_at": "2026-11-07T21:46:10.112Z",
   "captaincy": [
     {
       "id": 411,
@@ -92,11 +92,11 @@
         "in": [
           "Ayari"
         ],
-        "projected_edge": 2.11,
+        "projected_edge": 2.97,
         "affordable": true,
         "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
+        "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
       },
       {
@@ -107,11 +107,11 @@
         "in": [
           "Rudoni"
         ],
-        "projected_edge": 1.66,
+        "projected_edge": 2.52,
         "affordable": true,
         "bank_after": 1.1,
         "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
+        "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
       },
       {
@@ -122,12 +122,42 @@
         "in": [
           "Iwobi"
         ],
-        "projected_edge": 1.37,
+        "projected_edge": 2.22,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
+        "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Belloumi"
+        ],
+        "projected_edge": 1.84,
+        "affordable": true,
+        "bank_after": 0.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Henderson"
+        ],
+        "projected_edge": 1.22,
+        "affordable": true,
+        "bank_after": 1.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "Illness - 75% chance of playing"
       },
       {
         "transfers": 1,
@@ -147,21 +177,6 @@
       {
         "transfers": 1,
         "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Belloumi"
-        ],
-        "projected_edge": 0.98,
-        "affordable": true,
-        "bank_after": 0.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
           "Calafiori"
         ],
         "in": [
@@ -173,21 +188,6 @@
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Henderson"
-        ],
-        "projected_edge": 0.36,
-        "affordable": true,
-        "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "Illness - 75% chance of playing"
       },
       {
         "transfers": 1,
@@ -255,6 +255,21 @@
           "Calafiori"
         ],
         "in": [
+          "Justin"
+        ],
+        "projected_edge": -0.68,
+        "affordable": true,
+        "bank_after": 1.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
           "Bogle"
         ],
         "projected_edge": -0.68,
@@ -273,21 +288,6 @@
           "Castagne"
         ],
         "projected_edge": -0.82,
-        "affordable": true,
-        "bank_after": 1.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Justin"
-        ],
-        "projected_edge": -0.89,
         "affordable": true,
         "bank_after": 1.7,
         "hit_cost": "UNKNOWN",
