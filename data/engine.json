@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:01:28.508Z",
+  "generated_at": "2026-11-07T19:02:56.510Z",
   "captaincy": [
     {
       "id": 411,
@@ -12,7 +12,7 @@
         "difficulty": 2,
         "kickoff": "2026-11-07T17:30:00Z"
       },
-      "score": 7.74,
+      "score": 7.98,
       "risk": "LOW",
       "rank": 1
     },
@@ -120,21 +120,6 @@
           "Gvardiol"
         ],
         "in": [
-          "Enciso"
-        ],
-        "projected_edge": 1.43,
-        "affordable": true,
-        "bank_after": 0.5,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
           "Iwobi"
         ],
         "projected_edge": 1.37,
@@ -182,7 +167,7 @@
         "in": [
           "Van Hecke"
         ],
-        "projected_edge": 0.71,
+        "projected_edge": 0.72,
         "affordable": true,
         "bank_after": 1.2,
         "hit_cost": "UNKNOWN",
@@ -270,21 +255,6 @@
           "Calafiori"
         ],
         "in": [
-          "Justin"
-        ],
-        "projected_edge": -0.68,
-        "affordable": true,
-        "bank_after": 1.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
           "Bogle"
         ],
         "projected_edge": -0.68,
@@ -303,6 +273,21 @@
           "Castagne"
         ],
         "projected_edge": -0.82,
+        "affordable": true,
+        "bank_after": 1.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Justin"
+        ],
+        "projected_edge": -0.89,
         "affordable": true,
         "bank_after": 1.7,
         "hit_cost": "UNKNOWN",
