@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:54:06.463Z",
+  "generated_at": "2026-11-07T12:55:37.677Z",
   "captaincy": [
     {
       "id": 411,
@@ -147,21 +147,6 @@
       {
         "transfers": 1,
         "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": 0.91,
-        "affordable": true,
-        "bank_after": 1.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
           "Gvardiol"
         ],
         "in": [
@@ -200,6 +185,21 @@
         "projected_edge": 0.74,
         "affordable": true,
         "bank_after": 0.7,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Van Hecke"
+        ],
+        "projected_edge": 0.71,
+        "affordable": true,
+        "bank_after": 1.2,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -270,21 +270,6 @@
           "Calafiori"
         ],
         "in": [
-          "Robertson"
-        ],
-        "projected_edge": -0.61,
-        "affordable": true,
-        "bank_after": 1.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
           "Hill"
         ],
         "projected_edge": -0.73,
@@ -315,11 +300,11 @@
           "Calafiori"
         ],
         "in": [
-          "Muharemović"
+          "Boscagli"
         ],
-        "projected_edge": -0.81,
+        "projected_edge": -0.88,
         "affordable": true,
-        "bank_after": 1.1,
+        "bank_after": 1.7,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -330,11 +315,26 @@
           "Calafiori"
         ],
         "in": [
-          "Boscagli"
+          "Tarkowski"
         ],
-        "projected_edge": -0.88,
+        "projected_edge": -0.94,
         "affordable": true,
-        "bank_after": 1.7,
+        "bank_after": 0,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Calafiori"
+        ],
+        "in": [
+          "Muharemović"
+        ],
+        "projected_edge": -0.95,
+        "affordable": true,
+        "bank_after": 1.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
