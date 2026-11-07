@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:20:46.886Z",
+  "generated_at": "2026-11-07T00:06:11.976Z",
   "captaincy": [
     {
       "id": 411,
@@ -94,7 +94,7 @@
         ],
         "projected_edge": 1.87,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -107,7 +107,7 @@
         "in": [
           "Rudoni"
         ],
-        "projected_edge": 1.32,
+        "projected_edge": 1.46,
         "affordable": true,
         "bank_after": 1.1,
         "hit_cost": "UNKNOWN",
@@ -237,6 +237,21 @@
       {
         "transfers": 1,
         "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Barry"
+        ],
+        "projected_edge": -0.09,
+        "affordable": true,
+        "bank_after": 0,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
           "Calafiori"
         ],
         "in": [
@@ -305,21 +320,6 @@
         "projected_edge": -0.81,
         "affordable": true,
         "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Tarkowski"
-        ],
-        "projected_edge": -0.87,
-        "affordable": true,
-        "bank_after": 0,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
