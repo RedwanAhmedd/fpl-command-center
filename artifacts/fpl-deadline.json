@@ -1,10 +1,10 @@
 {
   "source": "https://fantasy.premierleague.com/api/bootstrap-static/",
   "entry_id": 1169933,
-  "fetched_at_utc": "2026-11-08T15:04:20.618Z",
+  "fetched_at_utc": "2026-11-08T19:38:07.126Z",
   "gameweek": 11,
   "deadline_utc": "2026-11-21T11:00:00.000Z",
   "deadline_asia_dhaka": "2026-11-21, 17:00",
-  "minutes_until_deadline": 18475,
+  "minutes_until_deadline": 18201,
   "status": "verified_official"
 }
