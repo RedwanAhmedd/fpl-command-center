@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:56:47.306Z",
+  "generated_at": "2026-11-08T20:27:32.289Z",
   "captaincy": [
     {
       "id": 411,
@@ -42,9 +42,24 @@
         "difficulty": 3,
         "kickoff": "2026-11-08T14:00:00Z"
       },
-      "score": 6.76,
+      "score": 6.75,
       "risk": "LOW",
       "rank": 3
+    },
+    {
+      "id": 166,
+      "name": "N.Jackson",
+      "status": "a",
+      "next_fixture": {
+        "gw": 10,
+        "opponent": "MUN",
+        "venue": "A",
+        "difficulty": 3,
+        "kickoff": "2026-11-08T16:30:00Z"
+      },
+      "score": 6.51,
+      "risk": "LOW",
+      "rank": 4
     },
     {
       "id": 8,
@@ -59,21 +74,6 @@
       },
       "score": 5.72,
       "risk": "LOW",
-      "rank": 4
-    },
-    {
-      "id": 166,
-      "name": "N.Jackson",
-      "status": "a",
-      "next_fixture": {
-        "gw": 10,
-        "opponent": "MUN",
-        "venue": "A",
-        "difficulty": 3,
-        "kickoff": "2026-11-08T16:30:00Z"
-      },
-      "score": 5.29,
-      "risk": "LOW",
       "rank": 5
     }
   ],
@@ -84,6 +84,21 @@
       "note": "baseline"
     },
     "one_transfer": [
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "McGinn"
+        ],
+        "projected_edge": 3.1,
+        "affordable": true,
+        "bank_after": 0.6,
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
       {
         "transfers": 1,
         "out": [
@@ -122,7 +137,7 @@
         "in": [
           "Gomez"
         ],
-        "projected_edge": 2.81,
+        "projected_edge": 2.8,
         "affordable": true,
         "bank_after": 1,
         "hit_cost": "UNKNOWN",
@@ -242,7 +257,7 @@
         "in": [
           "Barry"
         ],
-        "projected_edge": -0.66,
+        "projected_edge": -0.65,
         "affordable": true,
         "bank_after": 0,
         "hit_cost": "UNKNOWN",
@@ -260,21 +275,6 @@
         "projected_edge": -0.68,
         "affordable": true,
         "bank_after": 1.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Jacquet"
-        ],
-        "projected_edge": -0.77,
-        "affordable": true,
-        "bank_after": 1.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
