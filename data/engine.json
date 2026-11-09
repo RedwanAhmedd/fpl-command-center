@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:27:32.289Z",
+  "generated_at": "2026-11-09T00:50:31.197Z",
   "captaincy": [
     {
       "id": 411,
@@ -94,7 +94,7 @@
         ],
         "projected_edge": 3.1,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -109,7 +109,7 @@
         ],
         "projected_edge": 3.06,
         "affordable": true,
-        "bank_after": 0.5,
+        "bank_after": 0.4,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -124,7 +124,7 @@
         ],
         "projected_edge": 2.89,
         "affordable": true,
-        "bank_after": 0.3,
+        "bank_after": 0.2,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -139,7 +139,7 @@
         ],
         "projected_edge": 2.8,
         "affordable": true,
-        "bank_after": 1,
+        "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -154,7 +154,7 @@
         ],
         "projected_edge": 2.33,
         "affordable": true,
-        "bank_after": 1.1,
+        "bank_after": 1,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -169,7 +169,7 @@
         ],
         "projected_edge": 2.22,
         "affordable": true,
-        "bank_after": 0.6,
+        "bank_after": 0.5,
         "hit_cost": "UNKNOWN",
         "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
@@ -184,7 +184,7 @@
         ],
         "projected_edge": 1.37,
         "affordable": true,
-        "bank_after": 1,
+        "bank_after": 0.9,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -214,7 +214,7 @@
         ],
         "projected_edge": 0.72,
         "affordable": true,
-        "bank_after": 1.2,
+        "bank_after": 1.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -259,7 +259,7 @@
         ],
         "projected_edge": -0.65,
         "affordable": true,
-        "bank_after": 0,
+        "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -287,7 +287,7 @@
         "in": [
           "Hill"
         ],
-        "projected_edge": -0.81,
+        "projected_edge": -0.79,
         "affordable": true,
         "bank_after": 0.6,
         "hit_cost": "UNKNOWN",
