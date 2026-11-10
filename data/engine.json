@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:44:08.115Z",
+  "generated_at": "2026-11-10T14:27:53.958Z",
   "captaincy": [
     {
       "id": 411,
@@ -252,6 +252,21 @@
       {
         "transfers": 1,
         "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "Barry"
+        ],
+        "projected_edge": -0.17,
+        "affordable": true,
+        "bank_after": 0.1,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
           "Calafiori"
         ],
         "in": [
@@ -260,21 +275,6 @@
         "projected_edge": -0.22,
         "affordable": true,
         "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Barry"
-        ],
-        "projected_edge": -0.22,
-        "affordable": true,
-        "bank_after": 0.1,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -350,6 +350,21 @@
         "projected_edge": -0.89,
         "affordable": true,
         "bank_after": 0.8,
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "De Cuyper"
+        ],
+        "in": [
+          "McBurnie"
+        ],
+        "projected_edge": -2.59,
+        "affordable": true,
+        "bank_after": 0.3,
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
