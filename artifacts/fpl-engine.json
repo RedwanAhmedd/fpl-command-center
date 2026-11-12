@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:58:36.210Z",
+  "generated_at": "2026-11-12T18:59:55.271Z",
   "captaincy": [
     {
       "id": 411,
@@ -87,284 +87,44 @@
       {
         "transfers": 1,
         "out": [
-          "Gvardiol"
+          "Forster"
         ],
         "in": [
-          "Ayari"
+          "Raya"
         ],
-        "projected_edge": 3.55,
-        "affordable": true,
-        "bank_after": 0.4,
+        "projected_edge": 4.81,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
+        "confidence": "LOW",
         "failure_mode": "projection/role regression"
       },
       {
         "transfers": 1,
         "out": [
           "Gvardiol"
-        ],
-        "in": [
-          "E.Le Fée"
-        ],
-        "projected_edge": 3.53,
-        "affordable": true,
-        "bank_after": 0.2,
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Gomez"
-        ],
-        "projected_edge": 3.07,
-        "affordable": true,
-        "bank_after": 0.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Iwobi"
-        ],
-        "projected_edge": 2.43,
-        "affordable": true,
-        "bank_after": 0.5,
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
         ],
         "in": [
           "Vuskovic"
         ],
-        "projected_edge": 1.85,
-        "affordable": true,
-        "bank_after": 0.9,
+        "projected_edge": 4.49,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
+        "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
       },
       {
         "transfers": 1,
         "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Konsa"
-        ],
-        "projected_edge": 1.54,
-        "affordable": true,
-        "bank_after": 1.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": 1.23,
-        "affordable": true,
-        "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Muharemović"
-        ],
-        "projected_edge": 0.42,
-        "affordable": true,
-        "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Bogle"
-        ],
-        "projected_edge": -0.04,
-        "affordable": true,
-        "bank_after": 1.4,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Castagne"
-        ],
-        "projected_edge": -0.12,
-        "affordable": true,
-        "bank_after": 1.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Hill"
-        ],
-        "projected_edge": -0.14,
-        "affordable": true,
-        "bank_after": 0.6,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "De Cuyper"
-        ],
-        "in": [
-          "Barry"
-        ],
-        "projected_edge": -0.17,
-        "affordable": true,
-        "bank_after": 0.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Silva"
-        ],
-        "projected_edge": -0.22,
-        "affordable": true,
-        "bank_after": 1.1,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Justin"
-        ],
-        "projected_edge": -0.27,
-        "affordable": true,
-        "bank_after": 1.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "White"
-        ],
-        "projected_edge": -0.31,
-        "affordable": true,
-        "bank_after": 0.8,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Boscagli"
-        ],
-        "projected_edge": -0.38,
-        "affordable": true,
-        "bank_after": 1.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Robertson"
-        ],
-        "projected_edge": -0.39,
-        "affordable": true,
-        "bank_after": 1.9,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Calafiori"
-        ],
-        "in": [
-          "Araujo"
-        ],
-        "projected_edge": -0.42,
-        "affordable": true,
-        "bank_after": 0.7,
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Verbruggen"
+          "Forster"
         ],
         "in": [
           "Trafford"
         ],
-        "projected_edge": -0.58,
-        "affordable": true,
-        "bank_after": 0,
+        "projected_edge": 4.42,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
         "failure_mode": "projection/role regression"
@@ -372,16 +132,256 @@
       {
         "transfers": 1,
         "out": [
-          "Calafiori"
+          "Gvardiol"
         ],
         "in": [
-          "Truffert"
+          "Gabriel"
         ],
-        "projected_edge": -0.89,
-        "affordable": true,
-        "bank_after": 0.8,
+        "projected_edge": 4.41,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Konsa"
+        ],
+        "projected_edge": 4.18,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Van Hecke"
+        ],
+        "projected_edge": 3.87,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 3.54,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Gabriel"
+        ],
+        "projected_edge": 3.46,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Konsa"
+        ],
+        "projected_edge": 3.23,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Muharemović"
+        ],
+        "projected_edge": 3.06,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Van Hecke"
+        ],
+        "projected_edge": 2.92,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 2.9,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Gabriel"
+        ],
+        "projected_edge": 2.82,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Schade"
+        ],
+        "in": [
+          "Tavernier"
+        ],
+        "projected_edge": 2.71,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Bogle"
+        ],
+        "projected_edge": 2.6,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Konsa"
+        ],
+        "projected_edge": 2.59,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Castagne"
+        ],
+        "projected_edge": 2.52,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Hill"
+        ],
+        "projected_edge": 2.5,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Silva"
+        ],
+        "projected_edge": 2.42,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Justin"
+        ],
+        "projected_edge": 2.37,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
       }
     ],
@@ -392,7 +392,7 @@
       "bank": 0.3,
       "free_transfers": "UNKNOWN_PUBLIC_API"
     },
-    "rule": "No route is ACT NOW unless legality and private state are verified."
+    "rule": "No route is ACT NOW unless legality, actual selling prices, and private state are verified. Positional compatibility is mandatory."
   },
   "disclaimer": "Scores are transparent heuristics for comparison, not claimed expected points. Command Center reasoning must still validate role, news, minutes and sources before action."
 }
