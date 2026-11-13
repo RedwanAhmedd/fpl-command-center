@@ -13,7 +13,7 @@
     "overall_points": 633,
     "overall_rank": 1395565,
     "last_gw_points": 49,
-    "last_gw_rank": 7703344
+    "last_gw_rank": 7703330
   },
   "gameweek": {
     "id": 10,
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "22.7"
+      "selected_by_percent": "22.6"
     },
     {
       "id": 115,
@@ -202,7 +202,7 @@
       "xg": "2.44",
       "xa": "0.34",
       "xgi": "2.78",
-      "selected_by_percent": "12.9"
+      "selected_by_percent": "12.8"
     },
     {
       "id": 411,
@@ -222,7 +222,7 @@
       "xg": "7.06",
       "xa": "0.87",
       "xgi": "7.93",
-      "selected_by_percent": "78.9"
+      "selected_by_percent": "78.8"
     },
     {
       "id": 166,
@@ -1782,7 +1782,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-13T11:07:56.413Z",
+  "generated_at": "2026-11-13T19:48:32.378Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
