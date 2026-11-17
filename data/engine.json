@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:18:00.910Z",
+  "generated_at": "2026-11-17T22:18:12.669Z",
   "captaincy": [
     {
       "id": 166,
@@ -90,9 +90,9 @@
           "Forster"
         ],
         "in": [
-          "Raya"
+          "Trafford"
         ],
-        "projected_edge": 4.81,
+        "projected_edge": 4.8,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -105,9 +105,9 @@
           "Forster"
         ],
         "in": [
-          "Trafford"
+          "Raya"
         ],
-        "projected_edge": 4.8,
+        "projected_edge": 4.58,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -122,7 +122,7 @@
         "in": [
           "Gabriel"
         ],
-        "projected_edge": 4.37,
+        "projected_edge": 4.51,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -137,7 +137,7 @@
         "in": [
           "Gabriel"
         ],
-        "projected_edge": 4.21,
+        "projected_edge": 4.35,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -152,7 +152,22 @@
         "in": [
           "Konsa"
         ],
-        "projected_edge": 4.14,
+        "projected_edge": 4.28,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Konsa"
+        ],
+        "projected_edge": 4.12,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -168,21 +183,6 @@
           "Vuskovic"
         ],
         "projected_edge": 4.07,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Mendy"
-        ],
-        "in": [
-          "Konsa"
-        ],
-        "projected_edge": 3.98,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -267,6 +267,21 @@
       {
         "transfers": 1,
         "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Gabriel"
+        ],
+        "projected_edge": 3.1,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
           "Mendy"
         ],
         "in": [
@@ -285,24 +300,9 @@
           "Affengruber"
         ],
         "in": [
-          "Gabriel"
-        ],
-        "projected_edge": 2.96,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Affengruber"
-        ],
-        "in": [
           "Konsa"
         ],
-        "projected_edge": 2.73,
+        "projected_edge": 2.87,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
