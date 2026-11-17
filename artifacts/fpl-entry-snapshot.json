@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 633,
-    "overall_rank": 1395560,
+    "overall_rank": 1395559,
     "last_gw_points": 49,
-    "last_gw_rank": 7703248
+    "last_gw_rank": 7703234
   },
   "gameweek": {
     "id": 10,
@@ -58,7 +58,7 @@
       "news": "",
       "minutes": 900,
       "total_points": 57,
-      "form": "6.2",
+      "form": "6.3",
       "xg": "0.00",
       "xa": "0.21",
       "xgi": "0.21",
@@ -78,7 +78,7 @@
       "news": "",
       "minutes": 767,
       "total_points": 57,
-      "form": "4.8",
+      "form": "4.3",
       "xg": "1.22",
       "xa": "1.01",
       "xgi": "2.23",
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "22.4"
+      "selected_by_percent": "22.3"
     },
     {
       "id": 115,
@@ -118,7 +118,7 @@
       "news": "",
       "minutes": 822,
       "total_points": 75,
-      "form": "5.5",
+      "form": "5.3",
       "xg": "2.44",
       "xa": "1.46",
       "xgi": "3.90",
@@ -138,7 +138,7 @@
       "news": "",
       "minutes": 892,
       "total_points": 46,
-      "form": "3.2",
+      "form": "1.7",
       "xg": "4.63",
       "xa": "1.29",
       "xgi": "5.92",
@@ -242,7 +242,7 @@
       "xg": "3.46",
       "xa": "0.90",
       "xgi": "4.36",
-      "selected_by_percent": "31.6"
+      "selected_by_percent": "31.7"
     },
     {
       "id": 79,
@@ -258,7 +258,7 @@
       "news": "",
       "minutes": 837,
       "total_points": 61,
-      "form": "9.0",
+      "form": "8.0",
       "xg": "4.45",
       "xa": "1.05",
       "xgi": "5.50",
@@ -298,7 +298,7 @@
       "news": "",
       "minutes": 880,
       "total_points": 70,
-      "form": "4.2",
+      "form": "4.0",
       "xg": "3.03",
       "xa": "2.22",
       "xgi": "5.25",
@@ -1782,7 +1782,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-17T03:57:40.020Z",
+  "generated_at": "2026-11-17T16:08:56.578Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,

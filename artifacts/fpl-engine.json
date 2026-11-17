@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T03:57:40.411Z",
+  "generated_at": "2026-11-17T16:08:56.804Z",
   "captaincy": [
     {
       "id": 166,
@@ -42,7 +42,7 @@
         "difficulty": 2,
         "kickoff": "2026-11-22T14:00:00Z"
       },
-      "score": 7.11,
+      "score": 7.04,
       "risk": "LOW",
       "rank": 3
     },
@@ -57,7 +57,7 @@
         "difficulty": 3,
         "kickoff": "2026-11-21T15:00:00Z"
       },
-      "score": 6.85,
+      "score": 6.55,
       "risk": "LOW",
       "rank": 4
     },
@@ -72,7 +72,7 @@
         "difficulty": 2,
         "kickoff": "2026-11-22T14:00:00Z"
       },
-      "score": 5.46,
+      "score": 5.5,
       "risk": "LOW",
       "rank": 5
     }
@@ -90,28 +90,13 @@
           "Forster"
         ],
         "in": [
-          "Raya"
+          "Trafford"
         ],
-        "projected_edge": 4.81,
+        "projected_edge": 4.8,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Vuskovic"
-        ],
-        "projected_edge": 4.45,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
         "failure_mode": "projection/role regression"
       },
       {
@@ -120,9 +105,9 @@
           "Forster"
         ],
         "in": [
-          "Trafford"
+          "Raya"
         ],
-        "projected_edge": 4.42,
+        "projected_edge": 4.58,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -137,22 +122,7 @@
         "in": [
           "Gabriel"
         ],
-        "projected_edge": 4.37,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Mendy"
-        ],
-        "in": [
-          "Vuskovic"
-        ],
-        "projected_edge": 4.29,
+        "projected_edge": 4.51,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -167,7 +137,7 @@
         "in": [
           "Gabriel"
         ],
-        "projected_edge": 4.21,
+        "projected_edge": 4.35,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -182,7 +152,7 @@
         "in": [
           "Konsa"
         ],
-        "projected_edge": 4.14,
+        "projected_edge": 4.28,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -197,7 +167,37 @@
         "in": [
           "Konsa"
         ],
-        "projected_edge": 3.98,
+        "projected_edge": 4.12,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 4.07,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 3.91,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -237,12 +237,12 @@
       {
         "transfers": 1,
         "out": [
-          "Affengruber"
+          "Forster"
         ],
         "in": [
-          "Vuskovic"
+          "Roefs"
         ],
-        "projected_edge": 3.04,
+        "projected_edge": 3.55,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -257,7 +257,7 @@
         "in": [
           "Muharemović"
         ],
-        "projected_edge": 3.02,
+        "projected_edge": 3.16,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -272,7 +272,7 @@
         "in": [
           "Gabriel"
         ],
-        "projected_edge": 2.96,
+        "projected_edge": 3.1,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -287,7 +287,7 @@
         "in": [
           "Muharemović"
         ],
-        "projected_edge": 2.86,
+        "projected_edge": 3,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -302,7 +302,37 @@
         "in": [
           "Konsa"
         ],
-        "projected_edge": 2.73,
+        "projected_edge": 2.87,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Bogle"
+        ],
+        "projected_edge": 2.71,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "MEDIUM",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 2.66,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -327,27 +357,12 @@
       {
         "transfers": 1,
         "out": [
-          "Schade"
-        ],
-        "in": [
-          "Tavernier"
-        ],
-        "projected_edge": 2.57,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
           "Gvardiol"
         ],
         "in": [
-          "Bogle"
+          "Justin"
         ],
-        "projected_edge": 2.56,
+        "projected_edge": 2.6,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -360,24 +375,9 @@
           "Mendy"
         ],
         "in": [
-          "Araujo"
+          "Bogle"
         ],
-        "projected_edge": 2.48,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "MEDIUM",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Hill"
-        ],
-        "projected_edge": 2.46,
+        "projected_edge": 2.55,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
