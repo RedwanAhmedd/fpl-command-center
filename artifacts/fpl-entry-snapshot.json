@@ -13,7 +13,7 @@
     "overall_points": 633,
     "overall_rank": 1395547,
     "last_gw_points": 49,
-    "last_gw_rank": 7703157
+    "last_gw_rank": 7703151
   },
   "gameweek": {
     "id": 10,
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "21.7"
+      "selected_by_percent": "21.6"
     },
     {
       "id": 115,
@@ -142,7 +142,7 @@
       "xg": "4.63",
       "xa": "1.29",
       "xgi": "5.92",
-      "selected_by_percent": "18.8"
+      "selected_by_percent": "18.7"
     },
     {
       "id": 154,
@@ -202,7 +202,7 @@
       "xg": "2.44",
       "xa": "0.34",
       "xgi": "2.78",
-      "selected_by_percent": "12.7"
+      "selected_by_percent": "12.6"
     },
     {
       "id": 411,
@@ -233,7 +233,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 7.1,
+      "price": 7.2,
       "status": "a",
       "news": "",
       "minutes": 722,
@@ -242,7 +242,7 @@
       "xg": "3.46",
       "xa": "0.90",
       "xgi": "4.36",
-      "selected_by_percent": "32.5"
+      "selected_by_percent": "32.7"
     },
     {
       "id": 79,
@@ -262,7 +262,7 @@
       "xg": "4.45",
       "xa": "1.05",
       "xgi": "5.50",
-      "selected_by_percent": "24.5"
+      "selected_by_percent": "24.6"
     },
     {
       "id": 58,
@@ -1782,7 +1782,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-19T20:44:10.790Z",
+  "generated_at": "2026-11-20T02:22:25.890Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
