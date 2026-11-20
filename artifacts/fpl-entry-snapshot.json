@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 633,
-    "overall_rank": 1395547,
+    "overall_rank": 1395548,
     "last_gw_points": 49,
-    "last_gw_rank": 7703151
+    "last_gw_rank": 7703136
   },
   "gameweek": {
     "id": 10,
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "21.6"
+      "selected_by_percent": "21.3"
     },
     {
       "id": 115,
@@ -122,7 +122,7 @@
       "xg": "2.44",
       "xa": "1.46",
       "xgi": "3.90",
-      "selected_by_percent": "48.4"
+      "selected_by_percent": "48.6"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "4.63",
       "xa": "1.29",
       "xgi": "5.92",
-      "selected_by_percent": "18.7"
+      "selected_by_percent": "18.6"
     },
     {
       "id": 154,
@@ -162,7 +162,7 @@
       "xg": "2.55",
       "xa": "1.18",
       "xgi": "3.73",
-      "selected_by_percent": "28.3"
+      "selected_by_percent": "28.2"
     },
     {
       "id": 40,
@@ -182,7 +182,7 @@
       "xg": "3.04",
       "xa": "1.51",
       "xgi": "4.55",
-      "selected_by_percent": "54.1"
+      "selected_by_percent": "54.2"
     },
     {
       "id": 94,
@@ -242,7 +242,7 @@
       "xg": "3.46",
       "xa": "0.90",
       "xgi": "4.36",
-      "selected_by_percent": "32.7"
+      "selected_by_percent": "33.0"
     },
     {
       "id": 79,
@@ -262,7 +262,7 @@
       "xg": "4.45",
       "xa": "1.05",
       "xgi": "5.50",
-      "selected_by_percent": "24.6"
+      "selected_by_percent": "24.7"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "3.03",
       "xa": "2.22",
       "xgi": "5.25",
-      "selected_by_percent": "48.5"
+      "selected_by_percent": "48.6"
     },
     {
       "id": 650,
@@ -1782,7 +1782,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-20T02:22:25.890Z",
+  "generated_at": "2026-11-20T11:49:15.563Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
