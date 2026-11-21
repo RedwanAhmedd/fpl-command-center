@@ -10,10 +10,10 @@
   "manager": {
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
-    "overall_points": 653,
-    "overall_rank": 1517069,
-    "last_gw_points": 20,
-    "last_gw_rank": 4548411
+    "overall_points": 654,
+    "overall_rank": 1586575,
+    "last_gw_points": 21,
+    "last_gw_rank": 5691405
   },
   "gameweek": {
     "id": 11,
@@ -23,14 +23,14 @@
     "current_official_event": 11
   },
   "gw_stats": {
-    "points": 0,
-    "total_points": 633,
-    "overall_rank": 1395587,
-    "rank": null,
-    "rank_sort": null,
+    "points": 21,
+    "total_points": 654,
+    "overall_rank": 1586577,
+    "rank": 5691412,
+    "rank_sort": 5715654,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 0,
+    "points_on_bench": 4,
     "bank": 0.3,
     "value": 102.3
   },
@@ -76,12 +76,12 @@
       "price": 5.9,
       "status": "a",
       "news": "",
-      "minutes": 767,
-      "total_points": 57,
-      "form": "3.2",
-      "xg": "1.22",
-      "xa": "1.01",
-      "xgi": "2.23",
+      "minutes": 857,
+      "total_points": 58,
+      "form": "3.5",
+      "xg": "1.26",
+      "xa": "1.04",
+      "xgi": "2.30",
       "selected_by_percent": "48.6"
     },
     {
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "20.3"
+      "selected_by_percent": "20.2"
     },
     {
       "id": 115,
@@ -159,10 +159,10 @@
       "minutes": 968,
       "total_points": 49,
       "form": "2.8",
-      "xg": "2.57",
+      "xg": "2.58",
       "xa": "1.25",
-      "xgi": "3.82",
-      "selected_by_percent": "28.1"
+      "xgi": "3.83",
+      "selected_by_percent": "28.0"
     },
     {
       "id": 40,
@@ -179,9 +179,9 @@
       "minutes": 970,
       "total_points": 57,
       "form": "4.2",
-      "xg": "3.21",
+      "xg": "3.25",
       "xa": "1.54",
-      "xgi": "4.75",
+      "xgi": "4.79",
       "selected_by_percent": "54.6"
     },
     {
@@ -219,10 +219,10 @@
       "minutes": 979,
       "total_points": 72,
       "form": "3.5",
-      "xg": "8.06",
+      "xg": "8.09",
       "xa": "0.92",
-      "xgi": "8.98",
-      "selected_by_percent": "78.7"
+      "xgi": "9.01",
+      "selected_by_percent": "78.6"
     },
     {
       "id": 166,
@@ -242,7 +242,7 @@
       "xg": "3.61",
       "xa": "1.13",
       "xgi": "4.74",
-      "selected_by_percent": "35.8"
+      "selected_by_percent": "35.9"
     },
     {
       "id": 79,
@@ -259,10 +259,10 @@
       "minutes": 927,
       "total_points": 67,
       "form": "7.5",
-      "xg": "5.46",
-      "xa": "1.08",
-      "xgi": "6.54",
-      "selected_by_percent": "26.2"
+      "xg": "5.57",
+      "xa": "1.07",
+      "xgi": "6.64",
+      "selected_by_percent": "26.3"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "2.44",
       "xa": "0.34",
       "xgi": "2.78",
-      "selected_by_percent": "12.2"
+      "selected_by_percent": "12.1"
     },
     {
       "id": 650,
@@ -513,18 +513,18 @@
     },
     {
       "event": 11,
-      "points": 0,
-      "total_points": 633,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 1395587,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 21,
+      "total_points": 654,
+      "rank": 5691412,
+      "rank_sort": 5715654,
+      "overall_rank": 1586577,
+      "percentile_rank": 55,
+      "overall_rank_percentage": "14",
       "bank": 3,
       "value": 1023,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 4
     }
   ],
   "transfers": [
@@ -763,7 +763,7 @@
             },
             {
               "value": 1,
-              "element": 265
+              "element": 264
             }
           ],
           "h": [
@@ -781,23 +781,23 @@
               "element": 271
             },
             {
-              "value": 21,
+              "value": 20,
+              "element": 264
+            },
+            {
+              "value": 19,
               "element": 265
             },
             {
-              "value": 20,
-              "element": 264
+              "value": 17,
+              "element": 580
             },
             {
               "value": 15,
               "element": 256
             },
             {
-              "value": 15,
-              "element": 580
-            },
-            {
-              "value": 13,
+              "value": 14,
               "element": 250
             },
             {
@@ -805,15 +805,11 @@
               "element": 650
             },
             {
-              "value": 9,
+              "value": 10,
               "element": 257
             },
             {
-              "value": 7,
-              "element": 261
-            },
-            {
-              "value": 7,
+              "value": 8,
               "element": 268
             },
             {
@@ -821,12 +817,16 @@
               "element": 254
             },
             {
-              "value": 5,
-              "element": 569
+              "value": 6,
+              "element": 261
             },
             {
               "value": 3,
               "element": 266
+            },
+            {
+              "value": 3,
+              "element": 569
             },
             {
               "value": 3,
@@ -851,7 +851,7 @@
               "element": 400
             },
             {
-              "value": 17,
+              "value": 18,
               "element": 398
             },
             {
@@ -876,11 +876,11 @@
             },
             {
               "value": 8,
-              "element": 399
+              "element": 393
             },
             {
-              "value": 7,
-              "element": 393
+              "value": 8,
+              "element": 399
             },
             {
               "value": 6,
@@ -908,6 +908,10 @@
           "identifier": "defensive_contribution",
           "a": [
             {
+              "value": 15,
+              "element": 580
+            },
+            {
               "value": 14,
               "element": 256
             },
@@ -916,15 +920,11 @@
               "element": 265
             },
             {
-              "value": 14,
-              "element": 580
-            },
-            {
               "value": 12,
               "element": 650
             },
             {
-              "value": 9,
+              "value": 8,
               "element": 264
             },
             {
@@ -974,15 +974,15 @@
               "element": 387
             },
             {
+              "value": 8,
+              "element": 390
+            },
+            {
               "value": 7,
               "element": 388
             },
             {
               "value": 7,
-              "element": 390
-            },
-            {
-              "value": 6,
               "element": 393
             },
             {
@@ -1468,20 +1468,16 @@
               "element": 467
             },
             {
-              "value": 15,
+              "value": 16,
               "element": 480
             },
             {
-              "value": 15,
+              "value": 14,
               "element": 486
             },
             {
               "value": 13,
               "element": 474
-            },
-            {
-              "value": 8,
-              "element": 471
             },
             {
               "value": 8,
@@ -1492,16 +1488,12 @@
               "element": 558
             },
             {
-              "value": 4,
-              "element": 469
+              "value": 6,
+              "element": 471
             },
             {
               "value": 4,
               "element": 478
-            },
-            {
-              "value": 4,
-              "element": 491
             },
             {
               "value": 3,
@@ -1514,6 +1506,14 @@
             {
               "value": 2,
               "element": 167
+            },
+            {
+              "value": 2,
+              "element": 469
+            },
+            {
+              "value": 2,
+              "element": 491
             },
             {
               "value": 1,
@@ -1546,20 +1546,20 @@
               "element": 64
             },
             {
-              "value": 28,
+              "value": 26,
               "element": 61
             },
             {
-              "value": 24,
+              "value": 25,
               "element": 57
             },
             {
               "value": 13,
-              "element": 75
+              "element": 73
             },
             {
-              "value": 12,
-              "element": 73
+              "value": 13,
+              "element": 75
             },
             {
               "value": 7,
@@ -1591,7 +1591,7 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 14,
+              "value": 13,
               "element": 486
             },
             {
@@ -1612,15 +1612,15 @@
             },
             {
               "value": 6,
+              "element": 489
+            },
+            {
+              "value": 6,
               "element": 558
             },
             {
               "value": 5,
               "element": 480
-            },
-            {
-              "value": 5,
-              "element": 489
             },
             {
               "value": 3,
@@ -1636,12 +1636,16 @@
             },
             {
               "value": 1,
+              "element": 167
+            },
+            {
+              "value": 1,
               "element": 473
             }
           ],
           "h": [
             {
-              "value": 17,
+              "value": 16,
               "element": 566
             },
             {
@@ -1649,7 +1653,7 @@
               "element": 60
             },
             {
-              "value": 9,
+              "value": 11,
               "element": 73
             },
             {
@@ -1897,10 +1901,6 @@
               "element": 339
             },
             {
-              "value": 4,
-              "element": 331
-            },
-            {
               "value": 3,
               "element": 329
             },
@@ -1911,6 +1911,10 @@
             {
               "value": 3,
               "element": 641
+            },
+            {
+              "value": 1,
+              "element": 331
             }
           ],
           "h": [
@@ -1931,7 +1935,7 @@
               "element": 40
             },
             {
-              "value": 11,
+              "value": 12,
               "element": 157
             },
             {
@@ -1939,7 +1943,7 @@
               "element": 101
             },
             {
-              "value": 7,
+              "value": 9,
               "element": 164
             },
             {
@@ -1971,10 +1975,6 @@
               "element": 583
             },
             {
-              "value": -1,
-              "element": 149
-            },
-            {
               "value": -4,
               "element": 151
             }
@@ -1996,7 +1996,7 @@
               "element": 345
             },
             {
-              "value": 11,
+              "value": 10,
               "element": 598
             },
             {
@@ -2043,15 +2043,15 @@
             },
             {
               "value": 7,
+              "element": 149
+            },
+            {
+              "value": 7,
               "element": 157
             },
             {
               "value": 6,
               "element": 40
-            },
-            {
-              "value": 6,
-              "element": 149
             },
             {
               "value": 6,
@@ -2070,7 +2070,7 @@
               "element": 159
             },
             {
-              "value": 3,
+              "value": 4,
               "element": 164
             },
             {
@@ -2235,7 +2235,7 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 45,
+              "value": 46,
               "element": 211
             },
             {
@@ -2247,7 +2247,11 @@
               "element": 644
             },
             {
-              "value": 15,
+              "value": 14,
+              "element": 241
+            },
+            {
+              "value": 13,
               "element": 153
             },
             {
@@ -2256,23 +2260,19 @@
             },
             {
               "value": 10,
-              "element": 241
+              "element": 210
             },
             {
               "value": 8,
               "element": 198
             },
             {
-              "value": 8,
-              "element": 210
+              "value": 7,
+              "element": 202
             },
             {
               "value": 7,
               "element": 588
-            },
-            {
-              "value": 6,
-              "element": 202
             },
             {
               "value": 4,
@@ -2301,12 +2301,16 @@
               "element": 183
             },
             {
-              "value": 31,
+              "value": 28,
               "element": 185
             },
             {
               "value": 27,
               "element": 492
+            },
+            {
+              "value": 17,
+              "element": 655
             },
             {
               "value": 15,
@@ -2317,8 +2321,8 @@
               "element": 110
             },
             {
-              "value": 14,
-              "element": 655
+              "value": 13,
+              "element": 184
             },
             {
               "value": 13,
@@ -2330,10 +2334,6 @@
             },
             {
               "value": 11,
-              "element": 184
-            },
-            {
-              "value": 11,
               "element": 194
             },
             {
@@ -2341,7 +2341,7 @@
               "element": 104
             },
             {
-              "value": 3,
+              "value": 5,
               "element": 91
             },
             {
@@ -2362,7 +2362,7 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 11,
+              "value": 12,
               "element": 202
             },
             {
@@ -2374,15 +2374,15 @@
               "element": 241
             },
             {
+              "value": 9,
+              "element": 211
+            },
+            {
               "value": 8,
               "element": 153
             },
             {
               "value": 8,
-              "element": 211
-            },
-            {
-              "value": 7,
               "element": 210
             },
             {
@@ -2390,12 +2390,12 @@
               "element": 214
             },
             {
-              "value": 5,
-              "element": 204
+              "value": 6,
+              "element": 588
             },
             {
               "value": 5,
-              "element": 588
+              "element": 204
             },
             {
               "value": 2,
@@ -2601,7 +2601,7 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 24,
+              "value": 25,
               "element": 300
             },
             {
@@ -2625,12 +2625,12 @@
               "element": 592
             },
             {
-              "value": 8,
-              "element": 315
+              "value": 9,
+              "element": 619
             },
             {
               "value": 8,
-              "element": 619
+              "element": 315
             },
             {
               "value": 6,
@@ -2695,12 +2695,12 @@
               "element": 525
             },
             {
-              "value": 17,
-              "element": 512
+              "value": 19,
+              "element": 519
             },
             {
               "value": 17,
-              "element": 519
+              "element": 512
             },
             {
               "value": 10,
@@ -2852,17 +2852,391 @@
       "code": 2645303,
       "event": 11,
       "finished": false,
-      "finished_provisional": false,
+      "finished_provisional": true,
       "id": 109,
       "kickoff_time": "2026-11-21T17:30:00Z",
-      "minutes": 0,
+      "minutes": 90,
       "provisional_start_time": false,
-      "started": false,
+      "started": true,
       "team_a": 1,
-      "team_a_score": null,
+      "team_a_score": 2,
       "team_h": 17,
-      "team_h_score": null,
-      "stats": [],
+      "team_h_score": 2,
+      "stats": [
+        {
+          "identifier": "goals_scored",
+          "a": [
+            {
+              "value": 1,
+              "element": 14
+            },
+            {
+              "value": 1,
+              "element": 16
+            }
+          ],
+          "h": [
+            {
+              "value": 1,
+              "element": 445
+            },
+            {
+              "value": 1,
+              "element": 453
+            }
+          ]
+        },
+        {
+          "identifier": "assists",
+          "a": [
+            {
+              "value": 1,
+              "element": 15
+            },
+            {
+              "value": 1,
+              "element": 26
+            }
+          ],
+          "h": [
+            {
+              "value": 1,
+              "element": 460
+            },
+            {
+              "value": 1,
+              "element": 465
+            }
+          ]
+        },
+        {
+          "identifier": "own_goals",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "penalties_saved",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "penalties_missed",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "yellow_cards",
+          "a": [
+            {
+              "value": 1,
+              "element": 13
+            },
+            {
+              "value": 1,
+              "element": 16
+            },
+            {
+              "value": 1,
+              "element": 25
+            }
+          ],
+          "h": [
+            {
+              "value": 1,
+              "element": 448
+            },
+            {
+              "value": 1,
+              "element": 453
+            },
+            {
+              "value": 1,
+              "element": 593
+            }
+          ]
+        },
+        {
+          "identifier": "red_cards",
+          "a": [],
+          "h": []
+        },
+        {
+          "identifier": "saves",
+          "a": [
+            {
+              "value": 1,
+              "element": 1
+            }
+          ],
+          "h": [
+            {
+              "value": 2,
+              "element": 567
+            }
+          ]
+        },
+        {
+          "identifier": "bonus",
+          "a": [
+            {
+              "value": 3,
+              "element": 14
+            },
+            {
+              "value": 2,
+              "element": 16
+            }
+          ],
+          "h": [
+            {
+              "value": 1,
+              "element": 453
+            }
+          ]
+        },
+        {
+          "identifier": "bps",
+          "a": [
+            {
+              "value": 34,
+              "element": 14
+            },
+            {
+              "value": 29,
+              "element": 16
+            },
+            {
+              "value": 24,
+              "element": 15
+            },
+            {
+              "value": 20,
+              "element": 26
+            },
+            {
+              "value": 13,
+              "element": 31
+            },
+            {
+              "value": 12,
+              "element": 13
+            },
+            {
+              "value": 6,
+              "element": 4
+            },
+            {
+              "value": 6,
+              "element": 5
+            },
+            {
+              "value": 5,
+              "element": 1
+            },
+            {
+              "value": 5,
+              "element": 7
+            },
+            {
+              "value": 4,
+              "element": 2
+            },
+            {
+              "value": 4,
+              "element": 8
+            },
+            {
+              "value": 3,
+              "element": 17
+            },
+            {
+              "value": 3,
+              "element": 452
+            },
+            {
+              "value": 3,
+              "element": 557
+            },
+            {
+              "value": -2,
+              "element": 25
+            }
+          ],
+          "h": [
+            {
+              "value": 25,
+              "element": 453
+            },
+            {
+              "value": 20,
+              "element": 445
+            },
+            {
+              "value": 19,
+              "element": 465
+            },
+            {
+              "value": 15,
+              "element": 460
+            },
+            {
+              "value": 13,
+              "element": 459
+            },
+            {
+              "value": 7,
+              "element": 567
+            },
+            {
+              "value": 5,
+              "element": 448
+            },
+            {
+              "value": 5,
+              "element": 456
+            },
+            {
+              "value": 3,
+              "element": 447
+            },
+            {
+              "value": 3,
+              "element": 454
+            },
+            {
+              "value": 3,
+              "element": 457
+            },
+            {
+              "value": 2,
+              "element": 450
+            },
+            {
+              "value": 2,
+              "element": 462
+            },
+            {
+              "value": 2,
+              "element": 464
+            },
+            {
+              "value": -3,
+              "element": 593
+            }
+          ]
+        },
+        {
+          "identifier": "defensive_contribution",
+          "a": [
+            {
+              "value": 11,
+              "element": 13
+            },
+            {
+              "value": 7,
+              "element": 16
+            },
+            {
+              "value": 6,
+              "element": 4
+            },
+            {
+              "value": 6,
+              "element": 26
+            },
+            {
+              "value": 6,
+              "element": 31
+            },
+            {
+              "value": 5,
+              "element": 452
+            },
+            {
+              "value": 4,
+              "element": 8
+            },
+            {
+              "value": 4,
+              "element": 14
+            },
+            {
+              "value": 4,
+              "element": 557
+            },
+            {
+              "value": 3,
+              "element": 7
+            },
+            {
+              "value": 3,
+              "element": 15
+            },
+            {
+              "value": 2,
+              "element": 5
+            }
+          ],
+          "h": [
+            {
+              "value": 12,
+              "element": 448
+            },
+            {
+              "value": 10,
+              "element": 460
+            },
+            {
+              "value": 8,
+              "element": 459
+            },
+            {
+              "value": 7,
+              "element": 445
+            },
+            {
+              "value": 6,
+              "element": 453
+            },
+            {
+              "value": 6,
+              "element": 465
+            },
+            {
+              "value": 4,
+              "element": 449
+            },
+            {
+              "value": 4,
+              "element": 456
+            },
+            {
+              "value": 3,
+              "element": 454
+            },
+            {
+              "value": 3,
+              "element": 457
+            },
+            {
+              "value": 3,
+              "element": 593
+            },
+            {
+              "value": 2,
+              "element": 462
+            },
+            {
+              "value": 1,
+              "element": 447
+            },
+            {
+              "value": 1,
+              "element": 450
+            }
+          ]
+        }
+      ],
       "team_h_difficulty": 4,
       "team_a_difficulty": 3,
       "pulse_id": 0
@@ -3875,7 +4249,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-21T17:27:25.589Z",
+  "generated_at": "2026-11-21T23:10:58.094Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
