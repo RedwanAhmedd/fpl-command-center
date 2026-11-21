@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 633,
-    "overall_rank": 1395538,
+    "overall_rank": 1395536,
     "last_gw_points": 49,
-    "last_gw_rank": 7703036
+    "last_gw_rank": 7703032
   },
   "gameweek": {
     "id": 10,
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "20.8"
+      "selected_by_percent": "20.6"
     },
     {
       "id": 115,
@@ -122,7 +122,7 @@
       "xg": "2.44",
       "xa": "1.46",
       "xgi": "3.90",
-      "selected_by_percent": "49.2"
+      "selected_by_percent": "49.5"
     },
     {
       "id": 427,
@@ -142,7 +142,7 @@
       "xg": "4.63",
       "xa": "1.29",
       "xgi": "5.92",
-      "selected_by_percent": "18.3"
+      "selected_by_percent": "18.0"
     },
     {
       "id": 154,
@@ -162,7 +162,7 @@
       "xg": "2.55",
       "xa": "1.18",
       "xgi": "3.73",
-      "selected_by_percent": "28.2"
+      "selected_by_percent": "28.1"
     },
     {
       "id": 40,
@@ -182,7 +182,7 @@
       "xg": "3.04",
       "xa": "1.51",
       "xgi": "4.55",
-      "selected_by_percent": "54.3"
+      "selected_by_percent": "54.5"
     },
     {
       "id": 94,
@@ -202,7 +202,7 @@
       "xg": "2.44",
       "xa": "0.34",
       "xgi": "2.78",
-      "selected_by_percent": "12.4"
+      "selected_by_percent": "12.3"
     },
     {
       "id": 411,
@@ -222,7 +222,7 @@
       "xg": "7.06",
       "xa": "0.87",
       "xgi": "7.93",
-      "selected_by_percent": "78.8"
+      "selected_by_percent": "78.9"
     },
     {
       "id": 166,
@@ -242,7 +242,7 @@
       "xg": "3.46",
       "xa": "0.90",
       "xgi": "4.36",
-      "selected_by_percent": "34.3"
+      "selected_by_percent": "35.2"
     },
     {
       "id": 79,
@@ -262,7 +262,7 @@
       "xg": "4.45",
       "xa": "1.05",
       "xgi": "5.50",
-      "selected_by_percent": "25.4"
+      "selected_by_percent": "25.8"
     },
     {
       "id": 58,
@@ -302,7 +302,7 @@
       "xg": "3.03",
       "xa": "2.22",
       "xgi": "5.25",
-      "selected_by_percent": "49.0"
+      "selected_by_percent": "49.2"
     },
     {
       "id": 650,
@@ -1782,7 +1782,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-21T01:28:37.212Z",
+  "generated_at": "2026-11-21T09:43:54.541Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
