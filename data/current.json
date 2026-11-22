@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 654,
-    "overall_rank": 1586575,
+    "overall_rank": 1591727,
     "last_gw_points": 21,
-    "last_gw_rank": 5691405
+    "last_gw_rank": 5819506
   },
   "gameweek": {
     "id": 11,
@@ -173,7 +173,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 8.2,
+      "price": 8.3,
       "status": "a",
       "news": "",
       "minutes": 970,
@@ -222,7 +222,7 @@
       "xg": "8.09",
       "xa": "0.92",
       "xgi": "9.01",
-      "selected_by_percent": "78.6"
+      "selected_by_percent": "78.5"
     },
     {
       "id": 166,
@@ -239,9 +239,9 @@
       "minutes": 794,
       "total_points": 56,
       "form": "8.8",
-      "xg": "3.61",
+      "xg": "3.56",
       "xa": "1.13",
-      "xgi": "4.74",
+      "xgi": "4.69",
       "selected_by_percent": "35.9"
     },
     {
@@ -253,7 +253,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 6.5,
+      "price": 6.6,
       "status": "a",
       "news": "",
       "minutes": 927,
@@ -262,7 +262,7 @@
       "xg": "5.57",
       "xa": "1.07",
       "xgi": "6.64",
-      "selected_by_percent": "26.3"
+      "selected_by_percent": "26.4"
     },
     {
       "id": 58,
@@ -1142,7 +1142,7 @@
               "element": 533
             },
             {
-              "value": 23,
+              "value": 22,
               "element": 539
             },
             {
@@ -1151,11 +1151,11 @@
             },
             {
               "value": 21,
-              "element": 542
+              "element": 541
             },
             {
-              "value": 20,
-              "element": 541
+              "value": 21,
+              "element": 542
             },
             {
               "value": 17,
@@ -1166,15 +1166,15 @@
               "element": 613
             },
             {
-              "value": 10,
+              "value": 9,
               "element": 545
             },
             {
-              "value": 8,
+              "value": 9,
               "element": 549
             },
             {
-              "value": 1,
+              "value": 4,
               "element": 553
             },
             {
@@ -1184,7 +1184,7 @@
           ],
           "h": [
             {
-              "value": 36,
+              "value": 37,
               "element": 611
             },
             {
@@ -1196,7 +1196,7 @@
               "element": 630
             },
             {
-              "value": 26,
+              "value": 27,
               "element": 36
             },
             {
@@ -1204,7 +1204,7 @@
               "element": 597
             },
             {
-              "value": 14,
+              "value": 15,
               "element": 52
             },
             {
@@ -1225,15 +1225,15 @@
             },
             {
               "value": 8,
+              "element": 166
+            },
+            {
+              "value": 8,
               "element": 631
             },
             {
               "value": 7,
               "element": 45
-            },
-            {
-              "value": 7,
-              "element": 166
             },
             {
               "value": 3,
@@ -1261,10 +1261,6 @@
               "element": 542
             },
             {
-              "value": 9,
-              "element": 545
-            },
-            {
               "value": 8,
               "element": 534
             },
@@ -1273,34 +1269,42 @@
               "element": 549
             },
             {
-              "value": 6,
+              "value": 7,
               "element": 536
             },
             {
-              "value": 5,
+              "value": 7,
+              "element": 545
+            },
+            {
+              "value": 6,
               "element": 553
+            },
+            {
+              "value": 4,
+              "element": 541
             },
             {
               "value": 3,
               "element": 539
-            },
-            {
-              "value": 3,
-              "element": 541
             }
           ],
           "h": [
+            {
+              "value": 9,
+              "element": 611
+            },
             {
               "value": 8,
               "element": 47
             },
             {
               "value": 8,
-              "element": 611
+              "element": 618
             },
             {
-              "value": 8,
-              "element": 618
+              "value": 6,
+              "element": 34
             },
             {
               "value": 6,
@@ -1315,16 +1319,12 @@
               "element": 53
             },
             {
-              "value": 4,
-              "element": 34
+              "value": 5,
+              "element": 630
             },
             {
               "value": 4,
               "element": 52
-            },
-            {
-              "value": 4,
-              "element": 630
             },
             {
               "value": 1,
@@ -2998,11 +2998,11 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 34,
+              "value": 35,
               "element": 14
             },
             {
-              "value": 29,
+              "value": 32,
               "element": 16
             },
             {
@@ -3014,7 +3014,7 @@
               "element": 26
             },
             {
-              "value": 13,
+              "value": 15,
               "element": 31
             },
             {
@@ -3022,16 +3022,16 @@
               "element": 13
             },
             {
-              "value": 6,
-              "element": 4
-            },
-            {
-              "value": 6,
+              "value": 8,
               "element": 5
             },
             {
               "value": 5,
               "element": 1
+            },
+            {
+              "value": 5,
+              "element": 4
             },
             {
               "value": 5,
@@ -3072,7 +3072,7 @@
               "element": 445
             },
             {
-              "value": 19,
+              "value": 18,
               "element": 465
             },
             {
@@ -3101,15 +3101,15 @@
             },
             {
               "value": 3,
+              "element": 450
+            },
+            {
+              "value": 3,
               "element": 454
             },
             {
               "value": 3,
               "element": 457
-            },
-            {
-              "value": 2,
-              "element": 450
             },
             {
               "value": 2,
@@ -3120,7 +3120,11 @@
               "element": 464
             },
             {
-              "value": -3,
+              "value": -1,
+              "element": 449
+            },
+            {
+              "value": -4,
               "element": 593
             }
           ]
@@ -3129,12 +3133,16 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 11,
+              "value": 12,
               "element": 13
             },
             {
-              "value": 7,
+              "value": 9,
               "element": 16
+            },
+            {
+              "value": 7,
+              "element": 31
             },
             {
               "value": 6,
@@ -3143,10 +3151,6 @@
             {
               "value": 6,
               "element": 26
-            },
-            {
-              "value": 6,
-              "element": 31
             },
             {
               "value": 5,
@@ -3162,15 +3166,15 @@
             },
             {
               "value": 4,
+              "element": 15
+            },
+            {
+              "value": 4,
               "element": 557
             },
             {
               "value": 3,
               "element": 7
-            },
-            {
-              "value": 3,
-              "element": 15
             },
             {
               "value": 2,
@@ -4249,7 +4253,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-21T23:10:58.094Z",
+  "generated_at": "2026-11-22T03:07:04.033Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
