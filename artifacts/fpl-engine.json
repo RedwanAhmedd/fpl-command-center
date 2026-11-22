@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:23:08.473Z",
+  "generated_at": "2026-11-22T01:22:56.030Z",
   "captaincy": [
     {
       "id": 166,
@@ -12,7 +12,7 @@
         "difficulty": 2,
         "kickoff": "2026-11-21T15:00:00Z"
       },
-      "score": 7.35,
+      "score": 7.33,
       "risk": "LOW",
       "rank": 1
     },
@@ -42,7 +42,7 @@
         "difficulty": 3,
         "kickoff": "2026-11-21T15:00:00Z"
       },
-      "score": 6.61,
+      "score": 6.63,
       "risk": "LOW",
       "rank": 3
     },
@@ -137,7 +137,7 @@
         "in": [
           "Van Hecke"
         ],
-        "projected_edge": 3.34,
+        "projected_edge": 3.33,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -152,7 +152,7 @@
         "in": [
           "Van Hecke"
         ],
-        "projected_edge": 3.11,
+        "projected_edge": 3.1,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -197,7 +197,7 @@
         "in": [
           "Tavernier"
         ],
-        "projected_edge": 2.86,
+        "projected_edge": 2.85,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -217,7 +217,7 @@
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
-        "failure_mode": "Unspecified injury - 75% chance of playing"
+        "failure_mode": "Shoulder injury - 75% chance of playing"
       },
       {
         "transfers": 1,
@@ -287,7 +287,7 @@
         "in": [
           "Van Hecke"
         ],
-        "projected_edge": 2.63,
+        "projected_edge": 2.62,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -332,21 +332,6 @@
         "in": [
           "Tavernier"
         ],
-        "projected_edge": 2.24,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Palmer"
-        ],
-        "in": [
-          "Tavernier"
-        ],
         "projected_edge": 2.23,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
@@ -363,6 +348,21 @@
           "Gabriel"
         ],
         "projected_edge": 2.23,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Palmer"
+        ],
+        "in": [
+          "Tavernier"
+        ],
+        "projected_edge": 2.22,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",

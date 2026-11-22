@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 654,
-    "overall_rank": 1596744,
+    "overall_rank": 1586574,
     "last_gw_points": 21,
-    "last_gw_rank": 5839189
+    "last_gw_rank": 5691399
   },
   "gameweek": {
     "id": 11,
@@ -23,14 +23,14 @@
     "current_official_event": 11
   },
   "gw_stats": {
-    "points": 0,
-    "total_points": 633,
-    "overall_rank": 1395587,
-    "rank": null,
-    "rank_sort": null,
+    "points": 21,
+    "total_points": 654,
+    "overall_rank": 1586577,
+    "rank": 5691412,
+    "rank_sort": 5715654,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 0,
+    "points_on_bench": 4,
     "bank": 0.3,
     "value": 102.3
   },
@@ -80,8 +80,8 @@
       "total_points": 58,
       "form": "3.5",
       "xg": "1.26",
-      "xa": "1.02",
-      "xgi": "2.28",
+      "xa": "1.04",
+      "xgi": "2.30",
       "selected_by_percent": "48.6"
     },
     {
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "20.3"
+      "selected_by_percent": "20.2"
     },
     {
       "id": 115,
@@ -159,9 +159,9 @@
       "minutes": 968,
       "total_points": 49,
       "form": "2.8",
-      "xg": "2.57",
+      "xg": "2.58",
       "xa": "1.25",
-      "xgi": "3.82",
+      "xgi": "3.83",
       "selected_by_percent": "28.0"
     },
     {
@@ -173,15 +173,15 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 8.2,
+      "price": 8.3,
       "status": "a",
       "news": "",
       "minutes": 970,
       "total_points": 57,
       "form": "4.2",
-      "xg": "3.21",
+      "xg": "3.25",
       "xa": "1.54",
-      "xgi": "4.75",
+      "xgi": "4.79",
       "selected_by_percent": "54.6"
     },
     {
@@ -222,7 +222,7 @@
       "xg": "8.09",
       "xa": "0.92",
       "xgi": "9.01",
-      "selected_by_percent": "78.6"
+      "selected_by_percent": "78.5"
     },
     {
       "id": 166,
@@ -239,9 +239,9 @@
       "minutes": 794,
       "total_points": 56,
       "form": "8.8",
-      "xg": "3.61",
+      "xg": "3.56",
       "xa": "1.13",
-      "xgi": "4.74",
+      "xgi": "4.69",
       "selected_by_percent": "35.9"
     },
     {
@@ -253,16 +253,16 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 6.5,
+      "price": 6.6,
       "status": "a",
       "news": "",
       "minutes": 927,
       "total_points": 67,
       "form": "7.5",
-      "xg": "5.46",
-      "xa": "1.08",
-      "xgi": "6.54",
-      "selected_by_percent": "26.2"
+      "xg": "5.57",
+      "xa": "1.07",
+      "xgi": "6.64",
+      "selected_by_percent": "26.4"
     },
     {
       "id": 58,
@@ -513,18 +513,18 @@
     },
     {
       "event": 11,
-      "points": 0,
-      "total_points": 633,
-      "rank": null,
-      "rank_sort": null,
-      "overall_rank": 1395587,
-      "percentile_rank": null,
-      "overall_rank_percentage": null,
+      "points": 21,
+      "total_points": 654,
+      "rank": 5691412,
+      "rank_sort": 5715654,
+      "overall_rank": 1586577,
+      "percentile_rank": 55,
+      "overall_rank_percentage": "14",
       "bank": 3,
       "value": 1023,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 0
+      "points_on_bench": 4
     }
   ],
   "transfers": [
@@ -1142,7 +1142,7 @@
               "element": 533
             },
             {
-              "value": 23,
+              "value": 22,
               "element": 539
             },
             {
@@ -1151,11 +1151,11 @@
             },
             {
               "value": 21,
-              "element": 542
+              "element": 541
             },
             {
-              "value": 20,
-              "element": 541
+              "value": 21,
+              "element": 542
             },
             {
               "value": 17,
@@ -1166,15 +1166,15 @@
               "element": 613
             },
             {
-              "value": 10,
+              "value": 9,
               "element": 545
             },
             {
-              "value": 8,
+              "value": 9,
               "element": 549
             },
             {
-              "value": 1,
+              "value": 4,
               "element": 553
             },
             {
@@ -1184,7 +1184,7 @@
           ],
           "h": [
             {
-              "value": 36,
+              "value": 37,
               "element": 611
             },
             {
@@ -1196,7 +1196,7 @@
               "element": 630
             },
             {
-              "value": 26,
+              "value": 27,
               "element": 36
             },
             {
@@ -1204,7 +1204,7 @@
               "element": 597
             },
             {
-              "value": 14,
+              "value": 15,
               "element": 52
             },
             {
@@ -1225,15 +1225,15 @@
             },
             {
               "value": 8,
+              "element": 166
+            },
+            {
+              "value": 8,
               "element": 631
             },
             {
               "value": 7,
               "element": 45
-            },
-            {
-              "value": 7,
-              "element": 166
             },
             {
               "value": 3,
@@ -1261,10 +1261,6 @@
               "element": 542
             },
             {
-              "value": 9,
-              "element": 545
-            },
-            {
               "value": 8,
               "element": 534
             },
@@ -1273,34 +1269,42 @@
               "element": 549
             },
             {
-              "value": 6,
+              "value": 7,
               "element": 536
             },
             {
-              "value": 5,
+              "value": 7,
+              "element": 545
+            },
+            {
+              "value": 6,
               "element": 553
+            },
+            {
+              "value": 4,
+              "element": 541
             },
             {
               "value": 3,
               "element": 539
-            },
-            {
-              "value": 3,
-              "element": 541
             }
           ],
           "h": [
+            {
+              "value": 9,
+              "element": 611
+            },
             {
               "value": 8,
               "element": 47
             },
             {
               "value": 8,
-              "element": 611
+              "element": 618
             },
             {
-              "value": 8,
-              "element": 618
+              "value": 6,
+              "element": 34
             },
             {
               "value": 6,
@@ -1315,16 +1319,12 @@
               "element": 53
             },
             {
-              "value": 4,
-              "element": 34
+              "value": 5,
+              "element": 630
             },
             {
               "value": 4,
               "element": 52
-            },
-            {
-              "value": 4,
-              "element": 630
             },
             {
               "value": 1,
@@ -1468,20 +1468,16 @@
               "element": 467
             },
             {
-              "value": 15,
+              "value": 16,
               "element": 480
             },
             {
-              "value": 15,
+              "value": 14,
               "element": 486
             },
             {
               "value": 13,
               "element": 474
-            },
-            {
-              "value": 8,
-              "element": 471
             },
             {
               "value": 8,
@@ -1492,16 +1488,12 @@
               "element": 558
             },
             {
-              "value": 4,
-              "element": 469
+              "value": 6,
+              "element": 471
             },
             {
               "value": 4,
               "element": 478
-            },
-            {
-              "value": 4,
-              "element": 491
             },
             {
               "value": 3,
@@ -1514,6 +1506,14 @@
             {
               "value": 2,
               "element": 167
+            },
+            {
+              "value": 2,
+              "element": 469
+            },
+            {
+              "value": 2,
+              "element": 491
             },
             {
               "value": 1,
@@ -1546,20 +1546,20 @@
               "element": 64
             },
             {
-              "value": 28,
+              "value": 26,
               "element": 61
             },
             {
-              "value": 24,
+              "value": 25,
               "element": 57
             },
             {
               "value": 13,
-              "element": 75
+              "element": 73
             },
             {
-              "value": 12,
-              "element": 73
+              "value": 13,
+              "element": 75
             },
             {
               "value": 7,
@@ -1591,7 +1591,7 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 14,
+              "value": 13,
               "element": 486
             },
             {
@@ -1612,15 +1612,15 @@
             },
             {
               "value": 6,
+              "element": 489
+            },
+            {
+              "value": 6,
               "element": 558
             },
             {
               "value": 5,
               "element": 480
-            },
-            {
-              "value": 5,
-              "element": 489
             },
             {
               "value": 3,
@@ -1636,12 +1636,16 @@
             },
             {
               "value": 1,
+              "element": 167
+            },
+            {
+              "value": 1,
               "element": 473
             }
           ],
           "h": [
             {
-              "value": 17,
+              "value": 16,
               "element": 566
             },
             {
@@ -1649,7 +1653,7 @@
               "element": 60
             },
             {
-              "value": 9,
+              "value": 11,
               "element": 73
             },
             {
@@ -1902,15 +1906,15 @@
             },
             {
               "value": 3,
-              "element": 331
-            },
-            {
-              "value": 3,
               "element": 335
             },
             {
               "value": 3,
               "element": 641
+            },
+            {
+              "value": 1,
+              "element": 331
             }
           ],
           "h": [
@@ -1939,7 +1943,7 @@
               "element": 101
             },
             {
-              "value": 7,
+              "value": 9,
               "element": 164
             },
             {
@@ -1969,10 +1973,6 @@
             {
               "value": 1,
               "element": 583
-            },
-            {
-              "value": -1,
-              "element": 149
             },
             {
               "value": -4,
@@ -2043,15 +2043,15 @@
             },
             {
               "value": 7,
+              "element": 149
+            },
+            {
+              "value": 7,
               "element": 157
             },
             {
               "value": 6,
               "element": 40
-            },
-            {
-              "value": 6,
-              "element": 149
             },
             {
               "value": 6,
@@ -2070,7 +2070,7 @@
               "element": 159
             },
             {
-              "value": 3,
+              "value": 4,
               "element": 164
             },
             {
@@ -2235,7 +2235,7 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 45,
+              "value": 46,
               "element": 211
             },
             {
@@ -2247,7 +2247,11 @@
               "element": 644
             },
             {
-              "value": 15,
+              "value": 14,
+              "element": 241
+            },
+            {
+              "value": 13,
               "element": 153
             },
             {
@@ -2256,23 +2260,19 @@
             },
             {
               "value": 10,
-              "element": 241
+              "element": 210
             },
             {
               "value": 8,
               "element": 198
             },
             {
-              "value": 8,
-              "element": 210
+              "value": 7,
+              "element": 202
             },
             {
               "value": 7,
               "element": 588
-            },
-            {
-              "value": 6,
-              "element": 202
             },
             {
               "value": 4,
@@ -2301,12 +2301,16 @@
               "element": 183
             },
             {
-              "value": 31,
+              "value": 28,
               "element": 185
             },
             {
               "value": 27,
               "element": 492
+            },
+            {
+              "value": 17,
+              "element": 655
             },
             {
               "value": 15,
@@ -2317,8 +2321,8 @@
               "element": 110
             },
             {
-              "value": 14,
-              "element": 655
+              "value": 13,
+              "element": 184
             },
             {
               "value": 13,
@@ -2330,10 +2334,6 @@
             },
             {
               "value": 11,
-              "element": 184
-            },
-            {
-              "value": 11,
               "element": 194
             },
             {
@@ -2341,7 +2341,7 @@
               "element": 104
             },
             {
-              "value": 3,
+              "value": 5,
               "element": 91
             },
             {
@@ -2362,7 +2362,7 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 11,
+              "value": 12,
               "element": 202
             },
             {
@@ -2374,15 +2374,15 @@
               "element": 241
             },
             {
+              "value": 9,
+              "element": 211
+            },
+            {
               "value": 8,
               "element": 153
             },
             {
               "value": 8,
-              "element": 211
-            },
-            {
-              "value": 7,
               "element": 210
             },
             {
@@ -2390,12 +2390,12 @@
               "element": 214
             },
             {
-              "value": 5,
-              "element": 204
+              "value": 6,
+              "element": 588
             },
             {
               "value": 5,
-              "element": 588
+              "element": 204
             },
             {
               "value": 2,
@@ -2601,7 +2601,7 @@
           "identifier": "bps",
           "a": [
             {
-              "value": 24,
+              "value": 25,
               "element": 300
             },
             {
@@ -2625,12 +2625,12 @@
               "element": 592
             },
             {
-              "value": 8,
-              "element": 315
+              "value": 9,
+              "element": 619
             },
             {
               "value": 8,
-              "element": 619
+              "element": 315
             },
             {
               "value": 6,
@@ -2695,12 +2695,12 @@
               "element": 525
             },
             {
-              "value": 17,
-              "element": 512
+              "value": 19,
+              "element": 519
             },
             {
               "value": 17,
-              "element": 519
+              "element": 512
             },
             {
               "value": 10,
@@ -2852,7 +2852,7 @@
       "code": 2645303,
       "event": 11,
       "finished": false,
-      "finished_provisional": false,
+      "finished_provisional": true,
       "id": 109,
       "kickoff_time": "2026-11-21T17:30:00Z",
       "minutes": 90,
@@ -2934,6 +2934,10 @@
             {
               "value": 1,
               "element": 16
+            },
+            {
+              "value": 1,
+              "element": 25
             }
           ],
           "h": [
@@ -2981,13 +2985,14 @@
             {
               "value": 2,
               "element": 16
-            },
-            {
-              "value": 1,
-              "element": 15
             }
           ],
-          "h": []
+          "h": [
+            {
+              "value": 1,
+              "element": 453
+            }
+          ]
         },
         {
           "identifier": "bps",
@@ -3017,7 +3022,11 @@
               "element": 13
             },
             {
-              "value": 8,
+              "value": 6,
+              "element": 4
+            },
+            {
+              "value": 6,
               "element": 5
             },
             {
@@ -3026,18 +3035,14 @@
             },
             {
               "value": 5,
-              "element": 4
-            },
-            {
-              "value": 5,
               "element": 7
             },
             {
-              "value": 3,
+              "value": 4,
               "element": 2
             },
             {
-              "value": 3,
+              "value": 4,
               "element": 8
             },
             {
@@ -3046,29 +3051,29 @@
             },
             {
               "value": 3,
-              "element": 25
-            },
-            {
-              "value": 3,
               "element": 452
             },
             {
               "value": 3,
               "element": 557
+            },
+            {
+              "value": -2,
+              "element": 25
             }
           ],
           "h": [
             {
-              "value": 22,
+              "value": 25,
               "element": 453
+            },
+            {
+              "value": 20,
+              "element": 445
             },
             {
               "value": 19,
               "element": 465
-            },
-            {
-              "value": 18,
-              "element": 445
             },
             {
               "value": 15,
@@ -3083,12 +3088,12 @@
               "element": 567
             },
             {
-              "value": 6,
-              "element": 456
+              "value": 5,
+              "element": 448
             },
             {
               "value": 5,
-              "element": 448
+              "element": 456
             },
             {
               "value": 3,
@@ -3101,6 +3106,10 @@
             {
               "value": 3,
               "element": 457
+            },
+            {
+              "value": 2,
+              "element": 450
             },
             {
               "value": 2,
@@ -3124,8 +3133,12 @@
               "element": 13
             },
             {
-              "value": 6,
+              "value": 7,
               "element": 16
+            },
+            {
+              "value": 6,
+              "element": 4
             },
             {
               "value": 6,
@@ -3141,15 +3154,15 @@
             },
             {
               "value": 4,
-              "element": 4
-            },
-            {
-              "value": 4,
               "element": 8
             },
             {
               "value": 4,
               "element": 14
+            },
+            {
+              "value": 4,
+              "element": 557
             },
             {
               "value": 3,
@@ -3160,11 +3173,7 @@
               "element": 15
             },
             {
-              "value": 3,
-              "element": 557
-            },
-            {
-              "value": 1,
+              "value": 2,
               "element": 5
             }
           ],
@@ -3187,6 +3196,10 @@
             },
             {
               "value": 6,
+              "element": 453
+            },
+            {
+              "value": 6,
               "element": 465
             },
             {
@@ -3196,10 +3209,6 @@
             {
               "value": 4,
               "element": 456
-            },
-            {
-              "value": 3,
-              "element": 453
             },
             {
               "value": 3,
@@ -3216,6 +3225,14 @@
             {
               "value": 2,
               "element": 462
+            },
+            {
+              "value": 1,
+              "element": 447
+            },
+            {
+              "value": 1,
+              "element": 450
             }
           ]
         }
@@ -4232,7 +4249,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-21T19:23:08.156Z",
+  "generated_at": "2026-11-22T01:22:55.829Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
