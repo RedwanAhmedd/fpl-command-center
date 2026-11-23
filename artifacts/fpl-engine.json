@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:47:29.983Z",
+  "generated_at": "2026-11-23T12:58:54.584Z",
   "captaincy": [
     {
       "id": 166,
@@ -12,24 +12,9 @@
         "difficulty": 2,
         "kickoff": "2026-11-21T15:00:00Z"
       },
-      "score": 7.33,
+      "score": 6.82,
       "risk": "LOW",
       "rank": 1
-    },
-    {
-      "id": 411,
-      "name": "Haaland",
-      "status": "a",
-      "next_fixture": {
-        "gw": 11,
-        "opponent": "FUL",
-        "venue": "H",
-        "difficulty": 2,
-        "kickoff": "2026-11-21T12:30:00Z"
-      },
-      "score": 7.02,
-      "risk": "LOW",
-      "rank": 2
     },
     {
       "id": 79,
@@ -44,7 +29,7 @@
       },
       "score": 6.63,
       "risk": "LOW",
-      "rank": 3
+      "rank": 2
     },
     {
       "id": 124,
@@ -58,6 +43,21 @@
         "kickoff": "2026-11-22T14:00:00Z"
       },
       "score": 6.54,
+      "risk": "LOW",
+      "rank": 3
+    },
+    {
+      "id": 411,
+      "name": "Haaland",
+      "status": "a",
+      "next_fixture": {
+        "gw": 11,
+        "opponent": "FUL",
+        "venue": "H",
+        "difficulty": 2,
+        "kickoff": "2026-11-21T12:30:00Z"
+      },
+      "score": 6.5,
       "risk": "LOW",
       "rank": 4
     },
