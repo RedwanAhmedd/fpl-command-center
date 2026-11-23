@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 662,
-    "overall_rank": 1627438,
+    "overall_rank": 1627434,
     "last_gw_points": 29,
-    "last_gw_rank": 6979137
+    "last_gw_rank": 6979109
   },
   "gameweek": {
     "id": 11,
@@ -23,14 +23,14 @@
     "current_official_event": 11
   },
   "gw_stats": {
-    "points": 21,
-    "total_points": 654,
-    "overall_rank": 1586577,
-    "rank": 5691412,
-    "rank_sort": 5715654,
+    "points": 29,
+    "total_points": 662,
+    "overall_rank": 1627435,
+    "rank": 6979121,
+    "rank_sort": 7002717,
     "event_transfers": 0,
     "event_transfers_cost": 0,
-    "points_on_bench": 4,
+    "points_on_bench": 9,
     "bank": 0.3,
     "value": 102.3
   },
@@ -82,7 +82,7 @@
       "xg": "1.26",
       "xa": "1.04",
       "xgi": "2.30",
-      "selected_by_percent": "48.5"
+      "selected_by_percent": "48.4"
     },
     {
       "id": 391,
@@ -93,7 +93,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 5.6,
+      "price": 5.5,
       "status": "a",
       "news": "",
       "minutes": 712,
@@ -102,7 +102,7 @@
       "xg": "0.80",
       "xa": "0.99",
       "xgi": "1.79",
-      "selected_by_percent": "19.9"
+      "selected_by_percent": "19.8"
     },
     {
       "id": 115,
@@ -142,7 +142,7 @@
       "xg": "3.07",
       "xa": "2.62",
       "xgi": "5.69",
-      "selected_by_percent": "49.4"
+      "selected_by_percent": "49.5"
     },
     {
       "id": 154,
@@ -162,7 +162,7 @@
       "xg": "2.58",
       "xa": "1.25",
       "xgi": "3.83",
-      "selected_by_percent": "27.8"
+      "selected_by_percent": "27.7"
     },
     {
       "id": 40,
@@ -202,7 +202,7 @@
       "xg": "4.63",
       "xa": "1.29",
       "xgi": "5.92",
-      "selected_by_percent": "17.8"
+      "selected_by_percent": "17.7"
     },
     {
       "id": 411,
@@ -222,7 +222,7 @@
       "xg": "8.09",
       "xa": "0.92",
       "xgi": "9.01",
-      "selected_by_percent": "78.3"
+      "selected_by_percent": "78.2"
     },
     {
       "id": 166,
@@ -233,7 +233,7 @@
       "multiplier": 2,
       "captain": true,
       "vice_captain": false,
-      "price": 7.2,
+      "price": 7.3,
       "status": "a",
       "news": "",
       "minutes": 794,
@@ -242,7 +242,7 @@
       "xg": "3.56",
       "xa": "1.13",
       "xgi": "4.69",
-      "selected_by_percent": "36.1"
+      "selected_by_percent": "36.2"
     },
     {
       "id": 79,
@@ -262,7 +262,7 @@
       "xg": "5.57",
       "xa": "1.07",
       "xgi": "6.64",
-      "selected_by_percent": "26.7"
+      "selected_by_percent": "26.8"
     },
     {
       "id": 58,
@@ -513,18 +513,18 @@
     },
     {
       "event": 11,
-      "points": 21,
-      "total_points": 654,
-      "rank": 5691412,
-      "rank_sort": 5715654,
-      "overall_rank": 1586577,
-      "percentile_rank": 55,
+      "points": 29,
+      "total_points": 662,
+      "rank": 6979121,
+      "rank_sort": 7002717,
+      "overall_rank": 1627435,
+      "percentile_rank": 65,
       "overall_rank_percentage": "14",
       "bank": 3,
       "value": 1023,
       "event_transfers": 0,
       "event_transfers_cost": 0,
-      "points_on_bench": 4
+      "points_on_bench": 9
     }
   ],
   "transfers": [
@@ -3764,7 +3764,7 @@
               "element": 43
             },
             {
-              "value": 15,
+              "value": 17,
               "element": 432
             },
             {
@@ -3851,11 +3851,11 @@
             },
             {
               "value": 24,
-              "element": 362
+              "element": 377
             },
             {
-              "value": 24,
-              "element": 377
+              "value": 23,
+              "element": 362
             },
             {
               "value": 18,
@@ -3866,7 +3866,7 @@
               "element": 372
             },
             {
-              "value": 9,
+              "value": 11,
               "element": 627
             },
             {
@@ -4969,7 +4969,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-22T19:46:47.472Z",
+  "generated_at": "2026-11-23T01:47:29.648Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
