@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-24T04:44:49.958Z",
+  "generated_at": "2026-11-24T15:49:49.168Z",
   "captaincy": [
     {
       "id": 166,
       "name": "N.Jackson",
       "status": "a",
       "next_fixture": {
-        "gw": 11,
-        "opponent": "SUN",
-        "venue": "H",
+        "gw": 12,
+        "opponent": "IPS",
+        "venue": "A",
         "difficulty": 2,
-        "kickoff": "2026-11-21T15:00:00Z"
+        "kickoff": "2026-11-28T17:30:00Z"
       },
       "score": 6.82,
       "risk": "LOW",
@@ -21,13 +21,13 @@
       "name": "Evanilson",
       "status": "a",
       "next_fixture": {
-        "gw": 11,
-        "opponent": "NFO",
-        "venue": "H",
+        "gw": 12,
+        "opponent": "FUL",
+        "venue": "A",
         "difficulty": 3,
-        "kickoff": "2026-11-21T15:00:00Z"
+        "kickoff": "2026-11-29T14:05:00Z"
       },
-      "score": 6.63,
+      "score": 6.78,
       "risk": "LOW",
       "rank": 2
     },
@@ -36,28 +36,28 @@
       "name": "Groß",
       "status": "a",
       "next_fixture": {
-        "gw": 11,
-        "opponent": "HUL",
-        "venue": "A",
-        "difficulty": 2,
-        "kickoff": "2026-11-22T14:00:00Z"
+        "gw": 12,
+        "opponent": "NEW",
+        "venue": "H",
+        "difficulty": 3,
+        "kickoff": "2026-11-29T14:05:00Z"
       },
-      "score": 6.54,
+      "score": 6.08,
       "risk": "LOW",
       "rank": 3
     },
     {
-      "id": 411,
-      "name": "Haaland",
+      "id": 40,
+      "name": "Rogers",
       "status": "a",
       "next_fixture": {
-        "gw": 11,
-        "opponent": "FUL",
-        "venue": "H",
+        "gw": 12,
+        "opponent": "NFO",
+        "venue": "A",
         "difficulty": 2,
-        "kickoff": "2026-11-21T12:30:00Z"
+        "kickoff": "2026-11-27T20:00:00Z"
       },
-      "score": 6.5,
+      "score": 5.92,
       "risk": "LOW",
       "rank": 4
     },
@@ -66,13 +66,13 @@
       "name": "De Cuyper",
       "status": "a",
       "next_fixture": {
-        "gw": 11,
-        "opponent": "HUL",
-        "venue": "A",
-        "difficulty": 2,
-        "kickoff": "2026-11-22T14:00:00Z"
+        "gw": 12,
+        "opponent": "NEW",
+        "venue": "H",
+        "difficulty": 3,
+        "kickoff": "2026-11-29T14:05:00Z"
       },
-      "score": 6.42,
+      "score": 5.91,
       "risk": "LOW",
       "rank": 5
     }
@@ -84,6 +84,21 @@
       "note": "baseline"
     },
     "one_transfer": [
+      {
+        "transfers": 1,
+        "out": [
+          "Forster"
+        ],
+        "in": [
+          "Trafford"
+        ],
+        "projected_edge": 4.38,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
       {
         "transfers": 1,
         "out": [
@@ -105,39 +120,9 @@
           "Forster"
         ],
         "in": [
-          "Trafford"
-        ],
-        "projected_edge": 4.27,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Forster"
-        ],
-        "in": [
           "Tzolakis"
         ],
-        "projected_edge": 3.91,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": 3.42,
+        "projected_edge": 4.11,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -152,52 +137,7 @@
         "in": [
           "Wirtz"
         ],
-        "projected_edge": 3.18,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Affengruber"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": 2.94,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Schade"
-        ],
-        "in": [
-          "Tavernier"
-        ],
-        "projected_edge": 2.88,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Mendy"
-        ],
-        "in": [
-          "Van Hecke"
-        ],
-        "projected_edge": 2.82,
+        "projected_edge": 3.56,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -210,9 +150,9 @@
           "Gvardiol"
         ],
         "in": [
-          "Hill"
+          "Van Hecke"
         ],
-        "projected_edge": 2.76,
+        "projected_edge": 3.35,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -222,17 +162,17 @@
       {
         "transfers": 1,
         "out": [
-          "Forster"
+          "Mbeumo"
         ],
         "in": [
-          "Raya"
+          "Wirtz"
         ],
-        "projected_edge": 2.64,
+        "projected_edge": 2.99,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
         "confidence": "LOW",
-        "failure_mode": "Shoulder injury - 50% chance of playing"
+        "failure_mode": "projection/role regression"
       },
       {
         "transfers": 1,
@@ -242,37 +182,7 @@
         "in": [
           "Vuskovic"
         ],
-        "projected_edge": 2.6,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Mbeumo"
-        ],
-        "in": [
-          "Wirtz"
-        ],
-        "projected_edge": 2.59,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Mbeumo"
-        ],
-        "in": [
-          "Tavernier"
-        ],
-        "projected_edge": 2.29,
+        "projected_edge": 2.92,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -285,9 +195,9 @@
           "Affengruber"
         ],
         "in": [
-          "Hill"
+          "Van Hecke"
         ],
-        "projected_edge": 2.28,
+        "projected_edge": 2.72,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -297,12 +207,12 @@
       {
         "transfers": 1,
         "out": [
-          "Schade"
+          "Gvardiol"
         ],
         "in": [
-          "Rudoni"
+          "Hill"
         ],
-        "projected_edge": 2.23,
+        "projected_edge": 2.6,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -317,7 +227,7 @@
         "in": [
           "Wirtz"
         ],
-        "projected_edge": 2.17,
+        "projected_edge": 2.49,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -330,9 +240,9 @@
           "Schade"
         ],
         "in": [
-          "E.Le Fée"
+          "Tavernier"
         ],
-        "projected_edge": 2.17,
+        "projected_edge": 2.45,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -345,24 +255,9 @@
           "Mendy"
         ],
         "in": [
-          "Hill"
+          "Van Hecke"
         ],
-        "projected_edge": 2.16,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Affengruber"
-        ],
-        "in": [
-          "Vuskovic"
-        ],
-        "projected_edge": 2.12,
+        "projected_edge": 2.43,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -377,7 +272,112 @@
         "in": [
           "Konsa"
         ],
-        "projected_edge": 2.11,
+        "projected_edge": 2.3,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 2.29,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Gabriel"
+        ],
+        "projected_edge": 2.27,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Schade"
+        ],
+        "in": [
+          "Ødegaard"
+        ],
+        "projected_edge": 2.16,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Muharemović"
+        ],
+        "projected_edge": 2.13,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Schade"
+        ],
+        "in": [
+          "E.Le Fée"
+        ],
+        "projected_edge": 2.12,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Gvardiol"
+        ],
+        "in": [
+          "Boscagli"
+        ],
+        "projected_edge": 2,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mendy"
+        ],
+        "in": [
+          "Vuskovic"
+        ],
+        "projected_edge": 2,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
