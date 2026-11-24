@@ -2,37 +2,37 @@
   "source": "Official FPL entry history, event picks and event live endpoints",
   "status": "verified_official",
   "entry_id": 1169933,
-  "generated_at": "2026-11-24T13:51:10.812Z",
-  "gameweek": 10,
+  "generated_at": "2026-11-24T23:56:05.227Z",
+  "gameweek": 11,
   "finished": true,
-  "deadline_utc": "2026-11-06T18:30:00Z",
-  "points": 49,
-  "total_points": 633,
-  "overall_rank": 1395587,
-  "previous_rank": 949820,
-  "rank_change": -445767,
-  "bench_points_official": 15,
-  "transfer_count": 1,
+  "deadline_utc": "2026-11-21T11:00:00Z",
+  "points": 29,
+  "total_points": 662,
+  "overall_rank": 1669610,
+  "previous_rank": 1395587,
+  "rank_change": -274023,
+  "bench_points_official": 10,
+  "transfer_count": 0,
   "transfer_cost": 0,
   "bank_after_gw": 0.3,
   "captain": {
-    "id": 411,
-    "name": "Haaland",
-    "position": 9,
+    "id": 166,
+    "name": "N.Jackson",
+    "position": 10,
     "multiplier": 2,
     "captain": true,
     "vice": false,
     "raw_points": 2,
     "counted_points": 4,
-    "minutes": 90,
+    "minutes": 72,
     "explain": [
       {
-        "fixture": 99,
+        "fixture": 101,
         "stats": [
           {
             "identifier": "minutes",
             "points": 2,
-            "value": 90,
+            "value": 72,
             "points_modification": 0
           }
         ]
@@ -40,23 +40,29 @@
     ]
   },
   "vice": {
-    "id": 427,
-    "name": "Mbeumo",
+    "id": 124,
+    "name": "Groß",
     "position": 5,
     "multiplier": 1,
     "captain": false,
     "vice": true,
-    "raw_points": 2,
-    "counted_points": 2,
-    "minutes": 82,
+    "raw_points": 4,
+    "counted_points": 4,
+    "minutes": 90,
     "explain": [
       {
-        "fixture": 98,
+        "fixture": 106,
         "stats": [
           {
             "identifier": "minutes",
             "points": 2,
-            "value": 82,
+            "value": 90,
+            "points_modification": 0
+          },
+          {
+            "identifier": "defensive_contribution",
+            "points": 2,
+            "value": 12,
             "points_modification": 0
           }
         ]
@@ -71,12 +77,12 @@
       "multiplier": 1,
       "captain": false,
       "vice": false,
-      "raw_points": 6,
-      "counted_points": 6,
+      "raw_points": 2,
+      "counted_points": 2,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 92,
+          "fixture": 106,
           "stats": [
             {
               "identifier": "minutes",
@@ -85,9 +91,15 @@
               "points_modification": 0
             },
             {
-              "identifier": "clean_sheets",
-              "points": 4,
-              "value": 1,
+              "identifier": "goals_conceded",
+              "points": -1,
+              "value": 2,
+              "points_modification": 0
+            },
+            {
+              "identifier": "saves",
+              "points": 1,
+              "value": 3,
               "points_modification": 0
             }
           ]
@@ -101,47 +113,17 @@
       "multiplier": 1,
       "captain": false,
       "vice": false,
-      "raw_points": 6,
-      "counted_points": 6,
-      "minutes": 68,
+      "raw_points": 1,
+      "counted_points": 1,
+      "minutes": 90,
       "explain": [
         {
-          "fixture": 91,
+          "fixture": 109,
           "stats": [
             {
               "identifier": "minutes",
               "points": 2,
-              "value": 68,
-              "points_modification": 0
-            },
-            {
-              "identifier": "clean_sheets",
-              "points": 4,
-              "value": 1,
-              "points_modification": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 391,
-      "name": "Gvardiol",
-      "position": 3,
-      "multiplier": 1,
-      "captain": false,
-      "vice": false,
-      "raw_points": 0,
-      "counted_points": 0,
-      "minutes": 45,
-      "explain": [
-        {
-          "fixture": 99,
-          "stats": [
-            {
-              "identifier": "minutes",
-              "points": 1,
-              "value": 45,
+              "value": 90,
               "points_modification": 0
             },
             {
@@ -155,29 +137,23 @@
       ]
     },
     {
-      "id": 115,
-      "name": "De Cuyper",
-      "position": 4,
+      "id": 391,
+      "name": "Gvardiol",
+      "position": 3,
       "multiplier": 1,
       "captain": false,
       "vice": false,
-      "raw_points": 6,
-      "counted_points": 6,
-      "minutes": 81,
+      "raw_points": 1,
+      "counted_points": 1,
+      "minutes": 12,
       "explain": [
         {
-          "fixture": 92,
+          "fixture": 108,
           "stats": [
             {
               "identifier": "minutes",
-              "points": 2,
-              "value": 81,
-              "points_modification": 0
-            },
-            {
-              "identifier": "clean_sheets",
-              "points": 4,
-              "value": 1,
+              "points": 1,
+              "value": 12,
               "points_modification": 0
             }
           ]
@@ -185,23 +161,59 @@
       ]
     },
     {
-      "id": 427,
-      "name": "Mbeumo",
-      "position": 5,
+      "id": 115,
+      "name": "De Cuyper",
+      "position": 4,
       "multiplier": 1,
       "captain": false,
-      "vice": true,
-      "raw_points": 2,
-      "counted_points": 2,
-      "minutes": 82,
+      "vice": false,
+      "raw_points": 1,
+      "counted_points": 1,
+      "minutes": 90,
       "explain": [
         {
-          "fixture": 98,
+          "fixture": 106,
           "stats": [
             {
               "identifier": "minutes",
               "points": 2,
-              "value": 82,
+              "value": 90,
+              "points_modification": 0
+            },
+            {
+              "identifier": "goals_conceded",
+              "points": -1,
+              "value": 2,
+              "points_modification": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Groß",
+      "position": 5,
+      "multiplier": 1,
+      "captain": false,
+      "vice": true,
+      "raw_points": 4,
+      "counted_points": 4,
+      "minutes": 90,
+      "explain": [
+        {
+          "fixture": 106,
+          "stats": [
+            {
+              "identifier": "minutes",
+              "points": 2,
+              "value": 90,
+              "points_modification": 0
+            },
+            {
+              "identifier": "defensive_contribution",
+              "points": 2,
+              "value": 12,
               "points_modification": 0
             }
           ]
@@ -220,7 +232,7 @@
       "minutes": 90,
       "explain": [
         {
-          "fixture": 100,
+          "fixture": 104,
           "stats": [
             {
               "identifier": "minutes",
@@ -239,36 +251,12 @@
       "multiplier": 1,
       "captain": false,
       "vice": false,
-      "raw_points": 2,
-      "counted_points": 2,
+      "raw_points": 5,
+      "counted_points": 5,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 100,
-          "stats": [
-            {
-              "identifier": "minutes",
-              "points": 2,
-              "value": 90,
-              "points_modification": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "name": "Schade",
-      "position": 8,
-      "multiplier": 1,
-      "captain": false,
-      "vice": false,
-      "raw_points": 1,
-      "counted_points": 1,
-      "minutes": 90,
-      "explain": [
-        {
-          "fixture": 92,
+          "fixture": 104,
           "stats": [
             {
               "identifier": "minutes",
@@ -277,9 +265,33 @@
               "points_modification": 0
             },
             {
-              "identifier": "yellow_cards",
-              "points": -1,
+              "identifier": "assists",
+              "points": 3,
               "value": 1,
+              "points_modification": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "position": 8,
+      "multiplier": 1,
+      "captain": false,
+      "vice": false,
+      "raw_points": 1,
+      "counted_points": 1,
+      "minutes": 21,
+      "explain": [
+        {
+          "fixture": 107,
+          "stats": [
+            {
+              "identifier": "minutes",
+              "points": 1,
+              "value": 21,
               "points_modification": 0
             }
           ]
@@ -290,15 +302,15 @@
       "id": 411,
       "name": "Haaland",
       "position": 9,
-      "multiplier": 2,
-      "captain": true,
+      "multiplier": 1,
+      "captain": false,
       "vice": false,
       "raw_points": 2,
-      "counted_points": 4,
+      "counted_points": 2,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 99,
+          "fixture": 108,
           "stats": [
             {
               "identifier": "minutes",
@@ -314,38 +326,20 @@
       "id": 166,
       "name": "N.Jackson",
       "position": 10,
-      "multiplier": 1,
-      "captain": false,
+      "multiplier": 2,
+      "captain": true,
       "vice": false,
-      "raw_points": 11,
-      "counted_points": 11,
-      "minutes": 85,
+      "raw_points": 2,
+      "counted_points": 4,
+      "minutes": 72,
       "explain": [
         {
-          "fixture": 98,
+          "fixture": 101,
           "stats": [
             {
               "identifier": "minutes",
               "points": 2,
-              "value": 85,
-              "points_modification": 0
-            },
-            {
-              "identifier": "goals_scored",
-              "points": 4,
-              "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "assists",
-              "points": 3,
-              "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "bonus",
-              "points": 2,
-              "value": 2,
+              "value": 72,
               "points_modification": 0
             }
           ]
@@ -359,29 +353,23 @@
       "multiplier": 1,
       "captain": false,
       "vice": false,
-      "raw_points": 9,
-      "counted_points": 9,
-      "minutes": 84,
+      "raw_points": 6,
+      "counted_points": 6,
+      "minutes": 90,
       "explain": [
         {
-          "fixture": 96,
+          "fixture": 102,
           "stats": [
             {
               "identifier": "minutes",
               "points": 2,
-              "value": 84,
+              "value": 90,
               "points_modification": 0
             },
             {
               "identifier": "goals_scored",
               "points": 4,
               "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "bonus",
-              "points": 3,
-              "value": 3,
               "points_modification": 0
             }
           ]
@@ -400,7 +388,7 @@
       "minutes": 0,
       "explain": [
         {
-          "fixture": 96,
+          "fixture": 102,
           "stats": [
             {
               "identifier": "minutes",
@@ -413,41 +401,23 @@
       ]
     },
     {
-      "id": 124,
-      "name": "Groß",
+      "id": 94,
+      "name": "Schade",
       "position": 13,
       "multiplier": 0,
       "captain": false,
       "vice": false,
-      "raw_points": 10,
+      "raw_points": 1,
       "counted_points": 0,
-      "minutes": 90,
+      "minutes": 24,
       "explain": [
         {
-          "fixture": 92,
+          "fixture": 103,
           "stats": [
             {
               "identifier": "minutes",
-              "points": 2,
-              "value": 90,
-              "points_modification": 0
-            },
-            {
-              "identifier": "goals_scored",
-              "points": 5,
-              "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "clean_sheets",
               "points": 1,
-              "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "bonus",
-              "points": 2,
-              "value": 2,
+              "value": 24,
               "points_modification": 0
             }
           ]
@@ -461,17 +431,23 @@
       "multiplier": 0,
       "captain": false,
       "vice": false,
-      "raw_points": 2,
+      "raw_points": 4,
       "counted_points": 0,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 95,
+          "fixture": 108,
           "stats": [
             {
               "identifier": "minutes",
               "points": 2,
               "value": 90,
+              "points_modification": 0
+            },
+            {
+              "identifier": "defensive_contribution",
+              "points": 2,
+              "value": 12,
               "points_modification": 0
             }
           ]
@@ -485,12 +461,12 @@
       "multiplier": 0,
       "captain": false,
       "vice": false,
-      "raw_points": 3,
+      "raw_points": 5,
       "counted_points": 0,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 91,
+          "fixture": 106,
           "stats": [
             {
               "identifier": "minutes",
@@ -499,15 +475,15 @@
               "points_modification": 0
             },
             {
-              "identifier": "yellow_cards",
-              "points": -1,
+              "identifier": "clean_sheets",
+              "points": 4,
               "value": 1,
               "points_modification": 0
             },
             {
-              "identifier": "defensive_contribution",
-              "points": 2,
-              "value": 13,
+              "identifier": "yellow_cards",
+              "points": -1,
+              "value": 1,
               "points_modification": 0
             }
           ]
@@ -528,7 +504,7 @@
       "minutes": 0,
       "explain": [
         {
-          "fixture": 96,
+          "fixture": 102,
           "stats": [
             {
               "identifier": "minutes",
@@ -541,41 +517,23 @@
       ]
     },
     {
-      "id": 124,
-      "name": "Groß",
+      "id": 94,
+      "name": "Schade",
       "position": 13,
       "multiplier": 0,
       "captain": false,
       "vice": false,
-      "raw_points": 10,
+      "raw_points": 1,
       "counted_points": 0,
-      "minutes": 90,
+      "minutes": 24,
       "explain": [
         {
-          "fixture": 92,
+          "fixture": 103,
           "stats": [
             {
               "identifier": "minutes",
-              "points": 2,
-              "value": 90,
-              "points_modification": 0
-            },
-            {
-              "identifier": "goals_scored",
-              "points": 5,
-              "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "clean_sheets",
               "points": 1,
-              "value": 1,
-              "points_modification": 0
-            },
-            {
-              "identifier": "bonus",
-              "points": 2,
-              "value": 2,
+              "value": 24,
               "points_modification": 0
             }
           ]
@@ -589,17 +547,23 @@
       "multiplier": 0,
       "captain": false,
       "vice": false,
-      "raw_points": 2,
+      "raw_points": 4,
       "counted_points": 0,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 95,
+          "fixture": 108,
           "stats": [
             {
               "identifier": "minutes",
               "points": 2,
               "value": 90,
+              "points_modification": 0
+            },
+            {
+              "identifier": "defensive_contribution",
+              "points": 2,
+              "value": 12,
               "points_modification": 0
             }
           ]
@@ -613,12 +577,12 @@
       "multiplier": 0,
       "captain": false,
       "vice": false,
-      "raw_points": 3,
+      "raw_points": 5,
       "counted_points": 0,
       "minutes": 90,
       "explain": [
         {
-          "fixture": 91,
+          "fixture": 106,
           "stats": [
             {
               "identifier": "minutes",
@@ -627,15 +591,15 @@
               "points_modification": 0
             },
             {
-              "identifier": "yellow_cards",
-              "points": -1,
+              "identifier": "clean_sheets",
+              "points": 4,
               "value": 1,
               "points_modification": 0
             },
             {
-              "identifier": "defensive_contribution",
-              "points": 2,
-              "value": 13,
+              "identifier": "yellow_cards",
+              "points": -1,
+              "value": 1,
               "points_modification": 0
             }
           ]
@@ -643,50 +607,32 @@
       ]
     }
   ],
-  "counted_points_from_picks": 49,
+  "counted_points_from_picks": 29,
   "official_points_reconciliation": {
-    "official": 49,
-    "picks_counted": 49,
+    "official": 29,
+    "picks_counted": 29,
     "difference": 0,
     "note": "Difference may reflect event chips, substitutions, deductions, or scoring nuances; do not assume direct equivalence."
   },
-  "transfers": [
-    {
-      "time": "2026-11-03T11:10:31.044784Z",
-      "in_id": 79,
-      "out_id": 569,
-      "in": "Evanilson",
-      "out": "Gonzalo"
-    }
-  ],
+  "transfers": [],
   "captain_alternatives": [
     {
-      "name": "N.Jackson",
-      "raw_points": 11,
-      "realized_extra_if_captained": 9
+      "name": "Evanilson",
+      "raw_points": 6,
+      "realized_extra_if_captained": 4
     },
     {
-      "name": "Evanilson",
-      "raw_points": 9,
-      "realized_extra_if_captained": 7
+      "name": "Rogers",
+      "raw_points": 5,
+      "realized_extra_if_captained": 3
+    },
+    {
+      "name": "Groß",
+      "raw_points": 4,
+      "realized_extra_if_captained": 2
     },
     {
       "name": "Verbruggen",
-      "raw_points": 6,
-      "realized_extra_if_captained": 4
-    },
-    {
-      "name": "Calafiori",
-      "raw_points": 6,
-      "realized_extra_if_captained": 4
-    },
-    {
-      "name": "De Cuyper",
-      "raw_points": 6,
-      "realized_extra_if_captained": 4
-    },
-    {
-      "name": "Mbeumo",
       "raw_points": 2,
       "realized_extra_if_captained": 0
     },
@@ -696,19 +642,29 @@
       "realized_extra_if_captained": 0
     },
     {
-      "name": "Rogers",
+      "name": "Haaland",
       "raw_points": 2,
       "realized_extra_if_captained": 0
     },
     {
-      "name": "Schade",
+      "name": "Calafiori",
       "raw_points": 1,
       "realized_extra_if_captained": -1
     },
     {
       "name": "Gvardiol",
-      "raw_points": 0,
-      "realized_extra_if_captained": -2
+      "raw_points": 1,
+      "realized_extra_if_captained": -1
+    },
+    {
+      "name": "De Cuyper",
+      "raw_points": 1,
+      "realized_extra_if_captained": -1
+    },
+    {
+      "name": "Mbeumo",
+      "raw_points": 1,
+      "realized_extra_if_captained": -1
     }
   ],
   "caveat": "Hindsight captain comparison is descriptive, not evidence of a superior pre-deadline prediction."
