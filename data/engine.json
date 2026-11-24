@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:09:31.060Z",
+  "generated_at": "2026-11-24T04:44:49.958Z",
   "captaincy": [
     {
       "id": 166,
@@ -152,7 +152,7 @@
         "in": [
           "Wirtz"
         ],
-        "projected_edge": 3.15,
+        "projected_edge": 3.18,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -182,7 +182,7 @@
         "in": [
           "Tavernier"
         ],
-        "projected_edge": 2.85,
+        "projected_edge": 2.88,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -302,7 +302,7 @@
         "in": [
           "Rudoni"
         ],
-        "projected_edge": 2.2,
+        "projected_edge": 2.23,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -327,12 +327,12 @@
       {
         "transfers": 1,
         "out": [
-          "Mendy"
+          "Schade"
         ],
         "in": [
-          "Hill"
+          "E.Le Fée"
         ],
-        "projected_edge": 2.16,
+        "projected_edge": 2.17,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -342,12 +342,12 @@
       {
         "transfers": 1,
         "out": [
-          "Schade"
+          "Mendy"
         ],
         "in": [
-          "E.Le Fée"
+          "Hill"
         ],
-        "projected_edge": 2.14,
+        "projected_edge": 2.16,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
