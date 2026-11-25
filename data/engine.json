@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:49:49.168Z",
+  "generated_at": "2026-11-25T00:39:48.315Z",
   "captaincy": [
     {
       "id": 166,
@@ -90,9 +90,9 @@
           "Forster"
         ],
         "in": [
-          "Trafford"
+          "Tzolakis"
         ],
-        "projected_edge": 4.38,
+        "projected_edge": 4.11,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -106,21 +106,6 @@
         ],
         "in": [
           "Roefs"
-        ],
-        "projected_edge": 4.27,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Forster"
-        ],
-        "in": [
-          "Tzolakis"
         ],
         "projected_edge": 4.11,
         "affordable": "UNKNOWN",
@@ -240,6 +225,21 @@
           "Schade"
         ],
         "in": [
+          "E.Le Fée"
+        ],
+        "projected_edge": 2.45,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Schade"
+        ],
+        "in": [
           "Tavernier"
         ],
         "projected_edge": 2.45,
@@ -330,36 +330,6 @@
           "Gvardiol"
         ],
         "in": [
-          "Muharemović"
-        ],
-        "projected_edge": 2.13,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Schade"
-        ],
-        "in": [
-          "E.Le Fée"
-        ],
-        "projected_edge": 2.12,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
-          "Gvardiol"
-        ],
-        "in": [
           "Boscagli"
         ],
         "projected_edge": 2,
@@ -378,6 +348,36 @@
           "Vuskovic"
         ],
         "projected_edge": 2,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Affengruber"
+        ],
+        "in": [
+          "Hill"
+        ],
+        "projected_edge": 1.97,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Schade"
+        ],
+        "in": [
+          "Rudoni"
+        ],
+        "projected_edge": 1.93,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
