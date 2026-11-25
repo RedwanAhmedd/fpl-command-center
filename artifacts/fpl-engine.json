@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:43:55.736Z",
+  "generated_at": "2026-11-25T19:22:19.736Z",
   "captaincy": [
     {
       "id": 166,
@@ -327,21 +327,6 @@
       {
         "transfers": 1,
         "out": [
-          "Gvardiol"
-        ],
-        "in": [
-          "Boscagli"
-        ],
-        "projected_edge": 2,
-        "affordable": "UNKNOWN",
-        "bank_after": "UNKNOWN",
-        "hit_cost": "UNKNOWN",
-        "confidence": "LOW",
-        "failure_mode": "projection/role regression"
-      },
-      {
-        "transfers": 1,
-        "out": [
           "Mendy"
         ],
         "in": [
@@ -378,6 +363,21 @@
           "Rudoni"
         ],
         "projected_edge": 1.93,
+        "affordable": "UNKNOWN",
+        "bank_after": "UNKNOWN",
+        "hit_cost": "UNKNOWN",
+        "confidence": "LOW",
+        "failure_mode": "projection/role regression"
+      },
+      {
+        "transfers": 1,
+        "out": [
+          "Mbeumo"
+        ],
+        "in": [
+          "E.Le Fée"
+        ],
+        "projected_edge": 1.88,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
