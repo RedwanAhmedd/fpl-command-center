@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:29:59.805Z",
+  "generated_at": "2026-11-28T07:56:54.837Z",
   "captaincy": [
     {
       "id": 166,
@@ -242,7 +242,7 @@
         "in": [
           "Gibbs-White"
         ],
-        "projected_edge": 1.63,
+        "projected_edge": 1.62,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
@@ -327,10 +327,10 @@
       {
         "transfers": 1,
         "out": [
-          "Palmer"
+          "Mendy"
         ],
         "in": [
-          "Gibbs-White"
+          "Hill"
         ],
         "projected_edge": 1.34,
         "affordable": "UNKNOWN",
@@ -342,12 +342,12 @@
       {
         "transfers": 1,
         "out": [
-          "Mendy"
+          "Palmer"
         ],
         "in": [
-          "Hill"
+          "Gibbs-White"
         ],
-        "projected_edge": 1.34,
+        "projected_edge": 1.33,
         "affordable": "UNKNOWN",
         "bank_after": "UNKNOWN",
         "hit_cost": "UNKNOWN",
