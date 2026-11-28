@@ -11,9 +11,9 @@
     "name": "Redwan Ahmed",
     "team_name": "Team ChatGPT",
     "overall_points": 666,
-    "overall_rank": 1628265,
+    "overall_rank": 1628260,
     "last_gw_points": 4,
-    "last_gw_rank": 2974533
+    "last_gw_rank": 2974526
   },
   "gameweek": {
     "id": 12,
@@ -25,7 +25,7 @@
   "gw_stats": {
     "points": 4,
     "total_points": 666,
-    "overall_rank": 1628263,
+    "overall_rank": 1628265,
     "rank": 2974533,
     "rank_sort": 3015301,
     "event_transfers": 2,
@@ -53,7 +53,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 4.7,
+      "price": 4.8,
       "status": "a",
       "news": "",
       "minutes": 990,
@@ -133,7 +133,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": true,
-      "price": 6.3,
+      "price": 6.4,
       "status": "a",
       "news": "",
       "minutes": 970,
@@ -153,7 +153,7 @@
       "multiplier": 1,
       "captain": false,
       "vice_captain": false,
-      "price": 9.8,
+      "price": 9.7,
       "status": "a",
       "news": "",
       "minutes": 1058,
@@ -262,7 +262,7 @@
       "xg": "8.09",
       "xa": "0.92",
       "xgi": "9.01",
-      "selected_by_percent": "75.5"
+      "selected_by_percent": "75.4"
     },
     {
       "id": 58,
@@ -532,7 +532,7 @@
       "total_points": 666,
       "rank": 2974533,
       "rank_sort": 3015301,
-      "overall_rank": 1628263,
+      "overall_rank": 1628265,
       "percentile_rank": 30,
       "overall_rank_percentage": "14",
       "bank": 1,
@@ -867,12 +867,12 @@
               "element": 151
             },
             {
-              "value": 5,
-              "element": 164
+              "value": 6,
+              "element": 149
             },
             {
-              "value": 4,
-              "element": 149
+              "value": 5,
+              "element": 164
             },
             {
               "value": 3,
@@ -901,16 +901,16 @@
               "element": 491
             },
             {
-              "value": 27,
+              "value": 25,
               "element": 486
             },
             {
               "value": 20,
-              "element": 558
+              "element": 167
             },
             {
-              "value": 19,
-              "element": 167
+              "value": 20,
+              "element": 558
             },
             {
               "value": 14,
@@ -958,7 +958,7 @@
           "identifier": "defensive_contribution",
           "a": [
             {
-              "value": 18,
+              "value": 17,
               "element": 159
             },
             {
@@ -983,15 +983,15 @@
             },
             {
               "value": 4,
-              "element": 40
-            },
-            {
-              "value": 4,
               "element": 145
             },
             {
               "value": 4,
               "element": 156
+            },
+            {
+              "value": 3,
+              "element": 40
             },
             {
               "value": 2,
@@ -1004,7 +1004,7 @@
           ],
           "h": [
             {
-              "value": 13,
+              "value": 14,
               "element": 486
             },
             {
@@ -1024,16 +1024,16 @@
               "element": 491
             },
             {
-              "value": 7,
-              "element": 558
-            },
-            {
               "value": 6,
               "element": 167
             },
             {
               "value": 6,
               "element": 469
+            },
+            {
+              "value": 6,
+              "element": 558
             },
             {
               "value": 5,
@@ -2184,7 +2184,7 @@
       "pulse_id": 0
     }
   ],
-  "generated_at": "2026-11-27T23:25:17.244Z",
+  "generated_at": "2026-11-28T07:41:25.784Z",
   "rules": {
     "latest_public_picks_are_authoritative": true,
     "confirmed_sales_override_stale_text": true,
